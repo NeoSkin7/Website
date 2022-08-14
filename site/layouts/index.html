@@ -10,24 +10,6 @@
 {{ partial "text-and-image" (dict "imageUrl" .Params.blog.image "heading" .Params.blog.heading "text"
 .Params.blog.text "buttonText" "Read More" "buttonLink" "/blog") }}
 
-<div class="bg-white pv4">
-    <div class="ph3 mw7 center">
-
-        <h2 class="f2 b lh-title mb3">Latest stories</h2>
-
-        <div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-            {{ range first 4 (where .Site.Pages "Params.tags" "intersect" (slice "post")) }}
-            <div class="ph1-ns w-50-ns flex">
-                {{ .Render "li" }}
-            </div>
-            {{ end }}
-        </div>
-
-        <div class="tc">
-            <a href="/blog" class="btn raise">Read More</a>
-        </div>
-
-    </div>
-</div>
+{{ partial "blog" . }}
 
 {{ end }}
