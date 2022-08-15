@@ -1,5 +1,5 @@
 {
-  "name": "Website",
+  "name": "NeoSki",
   "packageManager": "yarn@3.2.2",
   "scripts": {
     "lint": "eslint src",
