@@ -4,7 +4,6 @@ date: 2022-08-15T17:54:20.000Z
 description: >-
   Learn about the history of the London Underground network in the first installment of Transport in London.
 image: /img/tin-pt1-underground-train.jpg
-draft: true
 ---
 
 # Welcome
