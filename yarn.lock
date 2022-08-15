@@ -4,8 +4,8 @@
 __metadata:
   version: 6
 
-"Website@workspace:.":
+"NeoSki@workspace:.":
   version: 0.0.0-use.local
-  resolution: "Website@workspace:."
+  resolution: "NeoSki@workspace:."
   languageName: unknown
   linkType: soft
