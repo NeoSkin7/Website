@@ -1,7 +1,6 @@
 ---
 title: History of the London Underground
 date: 2022-08-15T18:40:00.000Z
-draft: false
 description: >-
   Learn about the history of the London Underground network in the first installment of Transport in London.
 image: /img/tin-pt1-underground-train.jpg
@@ -43,4 +42,4 @@ In 1933, all of the individual railway companies (that gave their names to the m
 
 Finally, the current company Transport for London (TfL) took ownership of the network in 2003 and introduced the world to the forerunner of contactless bank cards, the Oyster card.
 
-> _A Metropolitan Railway Company Locomotive, The Original Tube Map, and Oyster Card images are graciously supplied by Transport for London's Press Office._
+> A Metropolitan Railway Company Locomotive, The Original Tube Map, and Oyster Card images are graciously supplied by Transport for London's Press Office.
