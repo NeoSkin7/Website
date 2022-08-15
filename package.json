@@ -41,5 +41,9 @@
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   }
+<<<<<<< HEAD
+}
+>>>>>>> parent of df7ed15 (Minor Update)
+=======
 }
 >>>>>>> parent of df7ed15 (Minor Update)
