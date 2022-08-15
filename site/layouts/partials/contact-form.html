@@ -33,9 +33,17 @@
     </fieldset>
     <!-- ReCAPTCHA 2.0 -->
     <div data-netlify-recaptcha="true"></div>
+    <br>
     <!-- Button -->
     <div class="tc">
       <button type="submit" class="btn w-100 w-auto-ns raise">Submit</button>
     </div>
   </form>
 </div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    const recaptcha = document.querySelector('.g-recaptcha');
+    recaptcha.setAttribute("data-theme", "dark");
+  });
+</script>
