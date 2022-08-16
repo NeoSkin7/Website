@@ -18,7 +18,11 @@ intro:
       image: /img/teach.jpg
     - subheading: Digital Media
       text: >
-        I believe that education is an essential part of society and should continue well into adulthood. In this modern world, we are seeing more and more so-called "courses" made available for the employees of companies to enable them to reach their full potential - this is a great opportunity for adult improvement and benefits not only the employee but society as a whole. Schools are another essential area of education, providing the means necessary for students to get the "building blocks" for future development. As such it is extremely important that schools teach not only the curriculum but also life skills such as internet safety, money and time management and politics. These life skills help people to make more informed decisions to protect themselves and others from a variety of attacks. Where do I come in? I produce and teach high-quality lessons on a variety of subjects and am beginning on the long journey to produce resources to aid social skills. My resources are free for anyone to view and use on my website via the Teaching Resources page. Enjoy!
+        Digital media is a staple of the modern world and, with almost everyone in the developed world with access to the internet, it is a pivotal tool in the transfer of ideas and information.
+      more1: >
+        I am to use the internet and digital media to transfer vital educational information to the world. The interent will make this task exceedingly easy and I hope that this website is just the beginning of an educational media revolution. There are already many services creating digital educational media but I think that the area still requires a lot more work to make it widely accessible and the standard for teaching resources the world over.
+      more2: >
+        In the future, a digital mission statement will be posted on this website that I hope will reach schools and other educational facilities the world over and help to guide them in creating their own digital resources for their students. For the moment, you can view some of my own attempts at this via the Links page.
       image: /img/links.jpg
   heading: What I Do
   description: >
