@@ -9,6 +9,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/teach.jpg
+      subheading: Education
       text: >
         Hello.
   heading: What I Do
