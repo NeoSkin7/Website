@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: "About Me"
 subtitle: Who am I? Why am I here?
 type: about
 image: /img/about.jpg
