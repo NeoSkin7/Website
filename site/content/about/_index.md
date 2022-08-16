@@ -27,14 +27,14 @@ intro:
   heading: What I Do
   description: >
     I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+# testimonials:
+#   - author: Elisabeth Kaurismäki
+#     quote: >-
+#       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
+#       the same thing I’ve been drinking every morning.
+#   - author: Philipp Trommler
+#     quote: >-
+#       Kaldi is the place to go if you want the best quality coffee. I love their
+#       stance on empowering farmers and transparency.
 statement: Will you join me?
 ---
