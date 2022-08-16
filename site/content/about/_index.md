@@ -7,8 +7,8 @@ heading: What I Do
 description: >-
   I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
 
-# intro:
-#   blurbs:
+ intro:
+   blurbs:
 #     - image: /img/illustrations-coffee.svg
 #       text: >
 #         We sell green and roasted coffee beans that are sourced directly from
@@ -36,12 +36,9 @@ description: >-
 #         space where you can hang out with fellow coffee lovers and learn about
 #         coffee making techniques. All of the artwork on display there is for
 #         sale. The full price you pay goes to the artist.
-#   heading: What we offer
-#   description: >
-#     Kaldi is the ultimate spot for coffee lovers who want to learn about their
-#     java’s origin and support the farmers that grew it. We take coffee
-#     production, roasting and brewing seriously and we’re glad to pass that
-#     knowledge to anyone. This is an edit via identity...
+   heading: What I Do
+   description: >
+     I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
 # main:
 #   heading: Great coffee with no compromises
 #   description: >
