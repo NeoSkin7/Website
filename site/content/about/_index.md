@@ -1,7 +1,8 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: About Me
+subtitle: Who am I? Why am I here?
+type: about
+image: /img/about.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -82,21 +83,19 @@ pricing:
         - Green or roasted beans"
         - One or two varieties of beans"
       plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+      price: "50"
+    - description: "Great for avid drinkers, java-nsoving couples and bigger crowds"
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
       plan: Big
-      price: '80'
+      price: "80"
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: '?'
+      price: "?"
 ---
-
-
