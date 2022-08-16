@@ -8,7 +8,7 @@ description: >-
   I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
+    - image: /img/teach.jpg
       text: >
         Hello.
   heading: What I Do
