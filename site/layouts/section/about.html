@@ -2,7 +2,7 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ partial "4-up" .Params.intro }}
+{{ partial "4-up" .Params.intro | safeHTML }}
 
 
 {{ with .Params.main }}
