@@ -42,4 +42,4 @@ In 1933, all of the individual railway companies (that gave their names to the m
 
 Finally, the current company Transport for London (TfL) took ownership of the network in 2003 and introduced the world to the forerunner of contactless bank cards, the Oyster card.
 
-> A Metropolitan Railway Company Locomotive, The Original Tube Map, and Oyster Card images are graciously supplied by Transport for London's Press Office.
+_A Metropolitan Railway Company Locomotive, The Original Tube Map, and Oyster Card images are graciously supplied by Transport for London's Press Office._
