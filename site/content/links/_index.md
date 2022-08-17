@@ -5,6 +5,7 @@ heading1: "Social"
 links1:
   - subheading: "Twitter"
     linkurl: https://twitter.com/NeoSkin7
+    imgurl: ./img/twitter.svg
   - subheading: "Instagram"
     linkurl: https://instagram.com/neoskin7
   - subheading: "Facebook"
