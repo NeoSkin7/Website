@@ -27,11 +27,10 @@ intro:
   heading: What I Do
   description: >
     I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
-# testimonials:
-#   - author: Elisabeth Kaurismäki
-#     quote: >-
-#       The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-#       the same thing I’ve been drinking every morning.
+testimonials:
+  - author: Ephram Matocha
+    quote: >-
+      When it comes to knowing things that are not taught in schools, Neo definitely knows about them. From the standard model to Hawking Radiation he knows it. He's a naturally skilled teacher who has helped me with my academic studies. This human being is a generational talent and has a hard working mindset that most people my age lack.
 full_image: ./img/about-bottom.png
 statement: Will you join me?
 ---
