@@ -5,7 +5,7 @@ type: about
 image: /img/about.jpg
 heading: What I Do
 description: >-
-  I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
+  I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission is to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
 intro:
   blurbs:
     - subheading: Education
@@ -26,9 +26,9 @@ intro:
       image: /img/links.jpg
   heading: What I Do
   description: >
-    I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
+    I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission is to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
 testimonials:
-  - author: Ephram Matocha
+  - author: Ephram Matocha - Scientific Advisor
     quote: >-
       When it comes to knowing things that are not taught in schools, Neo definitely knows about them. From the standard model to Hawking Radiation he knows it. He's a naturally skilled teacher who has helped me with my academic studies. This human being is a generational talent and has a hard working mindset that most people my age lack.
 full_image: ./img/about-bottom.png
