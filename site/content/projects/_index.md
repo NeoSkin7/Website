@@ -27,4 +27,20 @@ links2:
   - subheading: "Skinner Technology Archive"
     linkurl: https://skinnertechnology.wordpress.com/
     imgurl: https://raw.githubusercontent.com/NeoSkin7/STAWebsite/main/IMAGES/FAVICON.PNG
+section3:
+  heading: Legacy
+  text: "These are the projects with lofty intentions that didn't make it through the bumpy alpha process. Some of them were intended as businesses offering services, which are of course unavailable. Overall, these are market flops and diabolical messes by the looks of it."
+links3:
+  - subheading: "Skinner Family Inc."
+    linkurl: https://skinnerfamilyinc.wordpress.com/
+    imgurl: https://skinnerfamilyinc.files.wordpress.com/2019/09/cropped-logo_transparent_lightbulb.png
+  - subheading: "Skinner Publishing House"
+    linkurl: https://skinnerpublishinghouse.wordpress.com/
+    imgurl: https://skinnerpublishinghouse.files.wordpress.com/2019/09/cropped-logo_transparent_lightbulb.png
+  - subheading: "LEGO.UK"
+    linkurl: https://legouklug.wordpress.com/
+    imgurl: https://legouklug.files.wordpress.com/2019/06/cropped-logo_transparent1-1.png
+  - subheading: "Skinner Technology"
+    linkurl: https://skinnertech.wordpress.com/
+    imgurl: https://skinnertech.files.wordpress.com/2019/10/cropped-picture11.png
 ---
