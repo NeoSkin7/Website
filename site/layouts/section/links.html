@@ -8,8 +8,8 @@
     <div class="w-50-ns ph1-ns flex flex-column">
       <h2 class="f3 b lh-title mb1 primary center black">{{ .Params.heading1 }}</h2>
       {{ range .Params.links1 }}
-      <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-cente">
-        <img src="{{ .imgurl }}" alt="{{ .subheading }}" style="fill: var(--primary)" width="50px">
+      <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
+        <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">
         <h3 class="f4 b lh-solid primary tc" width="87%">{{ .subheading }}</h3>
       </a>
       {{ end }}
@@ -18,8 +18,8 @@
       <h2 class="f3 b lh-title mb1 primary center black">{{ .Params.heading2 }}</h2>
       {{ range .Params.links2 }}
       <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
-        <img src="{{ .imgurl }}" alt="{{ .subheading }}" style="fill: var(--primary)" width="50px">
-        <h3 class="f4 b lh-solid primary tc" width="87%">{{ .subheading }}</h3>
+        <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">
+        <h3 class="f4 b lh-solid primary tc" style="width: 87%;">{{ .subheading }}</h3>
       </a>
       {{ end }}
     </div>
