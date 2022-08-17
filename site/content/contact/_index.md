@@ -2,8 +2,8 @@
 title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Email
-    text: "neo.ski@outlook.com"
+  - heading: Newsletter
+    text: "Subscribe for my free newsletter below!"
   - heading: Links
     text: "View all my links on the Links page."
 ---
