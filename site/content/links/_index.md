@@ -41,6 +41,9 @@ links1:
     imgurl: ./img/quora.svg
 heading2: "Projects"
 links2:
+  - subheading: "Learn More About My Projects"
+    linkurl: ./projects/
+    imgurl: ./img/more.svg
   - subheading: "SkinnerScience"
     linkurl: https://skinnerscience.netlify.app/
     imgurl: https://d33wubrfki0l68.cloudfront.net/1a61139fa82443925c2c41e459157345218b8a5b/9d160/favicon.svg
@@ -65,4 +68,21 @@ links2:
   - subheading: "CodePen"
     linkurl: https://codepen.io/NeoSki
     imgurl: ./img/codepen.svg
+heading3: "Other"
+links3:
+  - subheading: "Wikipedia"
+    linkurl: https://en.wikipedia.org/wiki/User:NeoSki
+    imgurl: ./img/wikipedia.svg
+  - subheading: "GoodReads"
+    linkurl: https://www.goodreads.com/neoski
+    imgurl: ./img/goodreads.svg
+  - subheading: "Last.fm"
+    linkurl: https://www.last.fm/user/NeoSkin7
+    imgurl: ./img/lastfm.svg
+  - subheading: "Internet Archive"
+    linkurl: https://archive.org/details/@neoski
+    imgurl: ./img/ia.svg
+  - subheading: "Microsoft Community"
+    linkurl: https://answers.microsoft.com/en-us/profile/52dff4de-8204-4cb9-b4a8-7f57b9973f3d
+    imgurl: ./img/microsoft.svg
 ---
