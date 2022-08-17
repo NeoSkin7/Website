@@ -4,13 +4,13 @@
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.values }}
-  {{ if modBool $index 2 }}
-  {{ partial "media-block" $element }}
-  {{ else }}
-  {{ partial "media-block-reverse" $element }}
-  {{ end }}
-  {{ end }}
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+    {{ range .links }}
+    <div class="w-50-ns ph1-ns flex">
+      {{ .Render "link"}}
+    </div>
+    {{ end }}
+  </ul>
 
 </div>
 
