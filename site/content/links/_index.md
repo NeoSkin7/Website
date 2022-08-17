@@ -43,18 +43,26 @@ heading2: "Projects"
 links2:
   - subheading: "SkinnerScience"
     linkurl: https://skinnerscience.netlify.app/
+    imgurl: https://d33wubrfki0l68.cloudfront.net/1a61139fa82443925c2c41e459157345218b8a5b/9d160/favicon.svg
   - subheading: "LocalAreaRadio"
     linkurl: https://linktr.ee/LocalAreaRadio
+    imgurl: https://d1fdloi71mui9q.cloudfront.net/NF601JaETuqJd5ISrHXb_8xzJzduraasoNPLe
   - subheading: "LearnToCode"
     linkurl: https://learn-tocode.netlify.app/
+    imgurl: https://learn-tocode.netlify.app/images/logo.svg
   - subheading: "Skinner Technology Archive"
     linkurl: https://skinnertechnology.wordpress.com/
+    imgurl: https://raw.githubusercontent.com/NeoSkin7/STAWebsite/main/IMAGES/FAVICON.PNG
   - subheading: "Code Archive"
     linkurl: https://1drv.ms/u/s!AgqrmFmMiGSJgYpz1T32dvN3HbLQZQ?e=ur7kyi
-  - subheading: "Backgrounds/Wallpapers"
+    imgurl: ./img/code.svg
+  - subheading: "Wallpapers"
     linkurl: https://1drv.ms/u/s!AgqrmFmMiGSJgY4B5wJ48JrKCLMQRA?e=fMWqu4
+    imgurl: ./img/wallpapers.svg
   - subheading: "GitHub"
     linkurl: https://github.com/NeoSkin7
+    imgurl: ./img/github.svg
   - subheading: "CodePen"
     linkurl: https://codepen.io/NeoSki
+    imgurl: ./img/codepen.svg
 ---
