@@ -5,15 +5,14 @@
 <div class="mw7 center ph3 pt4">
 
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-    {{ range .Params.links }}
     <div class="w-50-ns ph1-ns flex">
-      <h2 class="f3 b lh-title mb1 primary center">{{ .heading }}</h2>
-      {{ range .Params.links.heading }}
+      <h2 class="f3 b lh-title mb1 primary center">{{ .heading1 }}</h2>
+      {{ range .Params.links1 }}
       <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise w-100">
         <h2 class="f3 b lh-title mb1 primary center">{{ .subheading }}</h2>
       </a>
+      {{ end }}
     </div>
-    {{ end }}
   </ul>
 
 </div>

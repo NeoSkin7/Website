@@ -2,7 +2,8 @@
 title: "Links"
 image: /img/links.jpg
 links:
-  heading: "Social"
+  - heading1: "Social"
+links1:
   - subheading: "Twitter"
     linkurl: https://twitter.com/NeoSkin7
   - subheading: "Instagram"
