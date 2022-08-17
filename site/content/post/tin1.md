@@ -1,6 +1,6 @@
 ---
 title: History of the London Underground
-date: 2022-08-15T18:40:00.000Z
+date: 2022-08-17T08:23:17.214Z
 description: Learn about the history of the London Underground network in the
   first instalment of Transport in London.
 image: /img/tin-pt1-underground-train.jpg
