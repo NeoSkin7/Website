@@ -34,6 +34,9 @@ links3:
   - subheading: "Skinner Family Inc."
     linkurl: https://skinnerfamilyinc.wordpress.com/
     imgurl: https://skinnerfamilyinc.files.wordpress.com/2019/09/cropped-logo_transparent_lightbulb.png
+  - subheading: "Skinner Family Inc. Store"
+    linkurl: https://skinnerfamilyincstore.wordpress.com/
+    imgurl: https://skinnerfamilyincstore.files.wordpress.com/2019/09/cropped-logo_transparent_lightbulb.png
   - subheading: "Skinner Publishing House"
     linkurl: https://skinnerpublishinghouse.wordpress.com/
     imgurl: https://skinnerpublishinghouse.files.wordpress.com/2019/09/cropped-logo_transparent_lightbulb.png
