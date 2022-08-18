@@ -15,6 +15,29 @@ collections: # A list of collections the CMS should be able to edit
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Intro Blurb", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: false }
+      - {
+          label: "Social Image",
+          name: "socialimg",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "teach" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Teaching" # Used in the UI, ie.: "New Post"
+    folder: "site/content/teach" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Intro Blurb", name: "description", widget: "text" }
+      - { label: "Image", name: "image", widget: "image", required: false }
+      - {
+          label: "Social Image",
+          name: "socialimg",
+          widget: "image",
+          required: false,
+        }
+      - { label: "Files", name: "files", widget: "file", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   # - name: "pages"
   #   label: "Pages"
