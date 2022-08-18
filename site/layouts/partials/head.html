@@ -18,13 +18,7 @@
 	<meta name="revisit-after" content="2 days">
 	<meta name="author" content="Neo Skinner">
 	<meta name="copyright" content="Copyright Neo Skinner 2022. All Rights Reserved.">
-	{{ $href := .Permalink }}
-	{{ with $pagination }}
-	{{ if gt .PageNumber 1 }}
-	{{ $href = printf "%s%s/%d/" $.Permalink "page" .PageNumber }}
-	{{ end }}
-	{{ end }}
-	<link rel="canonical" href="{{ $href }}">
+	<link rel="canonical" href="{{ .Permalink }}">
 
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
@@ -47,12 +41,12 @@
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
-	<meta property="og:url" content="{{ $href }}">
+	<meta property="og:url" content="{{ .Permalink }}">
 	<meta property="og:image" content="{{ .Params.socialimg }}">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
-	<meta property="twitter:url" content="{{ $href }}">
+	<meta property="twitter:url" content="{{ .Permalink }}">
 	<meta property="twitter:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="twitter:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
