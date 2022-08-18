@@ -21,6 +21,8 @@ files:
     fileurl: ./files/edex22/demos.docx
   - subheading: "Alexandre Emile Béguyer de Chancourtois Periodic Table 1862 (.PNG)"
     fileurl: ./files/edex22/periodic-table.png
+  - subheading: "Periodic Table Development Documentary (LINK)"
+    fileurl: https://www.youtube.com/embed/83RSwczyyRY
 ---
 
 # EDEX22
