@@ -1,7 +1,7 @@
 ---
-title: Welcome to my website!
+title: Education Extravaganza 2022
 date: 2022-08-17T08:22:03.144Z
-description: My website has just launched and I'm excited to invite you along for the ride!
+description: My yearly instalment of educational goodness!
 image: /img/blog.jpg
 socialimg: /img/blog.jpg
 ---
