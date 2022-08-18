@@ -2,6 +2,7 @@
 title: "That guy on the internet."
 subtitle: “Life would be tragic if it weren't funny.” ― Stephen Hawking
 image: /img/home.jpg
+socialimg: /img/about-bottom.jpg
 blurb:
   heading: Hello!
   text: "Welcome to my home on the internet. My name is Neo Skinner (or NeoSki) and here you can find my blog, links, contact information, and much more! All the opinions are my own and some areas may be created purely for satirical and comedy purposes. However, I also post some content about myself and (it appears) London. Please enjoy browsing my website and remember to always be wary of what you find elsewhere on the internet!"

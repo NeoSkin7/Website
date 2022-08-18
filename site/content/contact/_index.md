@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 logo: "/img/logo.svg"
+socialimg: /img/about-bottom.jpg
 contact_entries:
   - heading: Newsletter
     text: "Subscribe for my free newsletter below!"

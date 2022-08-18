@@ -12,6 +12,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 	<base href="{{ $.Site.BaseURL }}">
 	<meta name="description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
+	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
+	<meta name="keywords" content="teach, learn, blog, neoski">
+	<meta name="language" content="English">
+	<meta name="revisit-after" content="2 days">
+	<meta name="author" content="Neo Skinner">
+	<meta name="copyright" content="Copyright Neo Skinner 2022. All Rights Reserved.">
+	{{ $href := .Permalink }}
+	{{ with $paginator }}
+	{{ if gt .PageNumber 1 }}
+	{{ $href = printf "%s%s/%d/" $.Permalink "page" .PageNumber }}
+	{{ end }}
+	{{ end }}
+	<link rel="canonical" href="{{ $href }}">
 
 	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
@@ -35,14 +48,14 @@
 	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
 	<meta property="og:url" content="/">
-	<meta property="og:image" content="/img/about-bottom.png">
+	<meta property="og:image" content="{{ .Params.socialimg }}">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
-	<meta property="twitter:url" content="https://neoski.tk/">
+	<meta property="twitter:url" content="/">
 	<meta property="twitter:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="twitter:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
-	<meta property="twitter:image" content="/img/about-bottom.png">
+	<meta property="twitter:image" content="{{ .Params.socialimg }}">
 
 	{{ if .IsHome }}
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>

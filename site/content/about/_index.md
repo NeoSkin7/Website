@@ -3,6 +3,7 @@ title: "About Me"
 subtitle: Who am I? Why am I here?
 type: about
 image: /img/about.jpg
+socialimg: /img/about.jpg
 heading: What I Do
 description: >-
   I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission is to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.

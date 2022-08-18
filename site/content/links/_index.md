@@ -1,6 +1,7 @@
 ---
 title: "Links"
 image: /img/links.jpg
+socialimg: /img/links.jpg
 heading1: "Social"
 links1:
   - subheading: "Twitter"
