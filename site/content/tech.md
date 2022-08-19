@@ -97,10 +97,24 @@ This website uses the following technologies:
 - Amazon S3
 - Unpkg
 - Netlify
+- Cloudflare
+- Cloudinary
+
+### Asset Management System
+
+- Cloudinary
 
 ### CMS
 
 - Netlify
+
+### IDE
+
+- Visual Studio Code
+
+### Image Source
+
+- Pexels
 
 ### Miscellaneous
 
