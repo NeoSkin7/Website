@@ -67,6 +67,7 @@ This website uses the following technologies:
 - Emotion
 - React
 - PostCSS
+- Workbox
 
 ### Widgets
 
