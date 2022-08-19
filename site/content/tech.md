@@ -41,6 +41,14 @@ This website uses the following technologies:
 
 - Sass
 
+### Version Control System
+
+- Git
+
+### Cloud-Based Publishing Tool
+
+- GitHub
+
 ### Development
 
 - Emotion
