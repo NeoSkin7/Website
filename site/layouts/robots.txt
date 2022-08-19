@@ -1,6 +1,6 @@
 User-agent: *
 
 Disallow:
-/admin/*
+/admin/
 
 Sitemap: https://neoski.tk/sitemap.xml
