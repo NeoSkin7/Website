@@ -13,7 +13,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Draft", name: "draft", widget: "select", options ["true", "false"] }
+      - {
+          label: "Draft",
+          name: "draft",
+          widget: "select",
+          options: ["true", "false"],
+        }
       - { label: "Intro Blurb", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: false }
       - {
@@ -30,6 +35,12 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - {
+          label: "Draft",
+          name: "draft",
+          widget: "select",
+          options: ["true", "false"],
+        }
       - { label: "Intro Blurb", name: "description", widget: "text" }
       - { label: "Image", name: "image", widget: "image", required: false }
       - {
@@ -38,7 +49,7 @@ collections: # A list of collections the CMS should be able to edit
           widget: "image",
           required: false,
         }
-      - { label: "Files", name: "files", widget: "file", required: false }
+      - { label: "Files", name: "files", widget: "code", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
   # - name: "pages"
   #   label: "Pages"
