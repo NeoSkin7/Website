@@ -8,8 +8,4 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "Website@workspace:."
   languageName: unknown
-<<<<<<< HEAD
   linkType: soft
-=======
-  linkType: soft
->>>>>>> parent of a2e3f0f (Minor Update)
