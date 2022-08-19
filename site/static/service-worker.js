@@ -77,8 +77,6 @@ workbox.precaching.precacheAndRoute([
     { url: '/404.html', revision: null },
     { url: '/service-worker.js', revision: null },
     { url: '/manifest.json', revision: null },
-    { url: '/teach/*.html', revision: null },
-    { url: '/post/*.html', revision: null },
     { url: '/tech/index.html', revision: null },
     { url: '/about/index.html', revision: null },
     { url: '/contact/index.html', revision: null },
