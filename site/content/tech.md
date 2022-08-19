@@ -1,15 +1,99 @@
 ---
-title: 'tech'
-date: 2018-11-14T19:02:50-07:00
-draft: false
+title: "Technologies"
+subtitle: What goes into this site?
+image: "/img/tech.jpg"
+socialimg: /img/tech.jpg
 ---
 
-# [Victor Hugo](https://github.com/netlify-templates/victor-hugo)
+# How was this website created?
 
-## A Hugo boilerplate for creating truly epic websites
+## Technologies
 
-<img src="https://d33wubrfki0l68.cloudfront.net/30790d6888bd8af863fb2b5c33a7f337cdbda243/4e867/images/hugo-logo-wide.svg" style="width: 40%" />
+This website uses the following technologies:
 
-This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Webpack](https://webpack.js.org/) as your asset pipeline. Victor Hugo setup to use [PostCSS](http://postcss.org/) and [Babel](https://babeljs.io/) for CSS and JavaScript compiling/transpiling. This project is released under the [MIT license](LICENSE). Please make sure you understand its implications and guarantees.
+### Languages
 
-## Enjoy!! 😸
+- HTML 5.0
+- CSS 3.0
+- JS
+
+### Package Manager
+
+- Yarn
+
+### Static Site Generator
+
+- Hugo
+
+### Theme
+
+- Victor Hugo
+
+### Asset Pipeline
+
+- Webpack
+
+### Transcompiler
+
+- Babel
+
+### CSS Extensions
+
+- Sass
+
+### Development
+
+- Emotion
+
+### Payment Processors
+
+- Patreon
+
+### PaaS
+
+- Netlify
+- Amazon Web Services
+
+### JavaScript Frameworks
+
+- Emotion
+- React
+- PostCSS
+
+### Widgets
+
+- Patreon
+
+### Security
+
+- ReCAPTCHA
+
+### Marketing Automation
+
+- Mailchimp
+
+### JavaScript Libraries
+
+- MobX
+
+### Font Scripts
+
+- Google Font API
+
+### Email
+
+- MailChimp
+
+### CDN
+
+- Amazon S3
+- Unpkg
+- Netlify
+
+### CMS
+
+- Netlify
+
+### Miscellaneous
+
+- PWA

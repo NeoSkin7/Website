@@ -28,6 +28,13 @@
 			</div>
 
 			<div>
+				<h3 class="f4 b lh-title mb1 primary">Website</h3>
+				<ul class="mb3">
+					<li><a href="/tech/" class="link">Technologies</a></li>
+				</ul>
+			</div>
+
+			<div>
 				<h3 class="f4 b lh-title mb2 primary">Quick Links</h3>
 				<ul class="mhn2">
 					{{ partial "social-icon" (dict "link" "https://twitter.com/NeoSkin7" "svg" "icons-twitter" "name" "Twitter") }}
@@ -48,5 +55,11 @@
 </footer>
 
 {{ partial "svg" . }}
+
+<script>
+	if ('serviceWorker' in navigator) {
+		navigator.serviceWorker.register('service-worker.js');
+	}
+</script>
 
 <script src="/app.js"></script>

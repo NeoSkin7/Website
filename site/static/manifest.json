@@ -1,6 +1,8 @@
 {
 	"name": "NeoSki",
 	"short_name": "NeoSki",
+	"lang": "en",
+	"description": "I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.",
 	"icons": [
 		{
 			"src": "https://neoski.tk/img/android-chrome-36x36.png",
@@ -60,5 +62,8 @@
 	"theme_color": "#1d95f8",
 	"background_color": "#000000",
 	"display": "standalone",
-	"start_url": "https://neoski.tk"
+	"start_url": "https://neoski.tk",
+	"dir": "ltr",
+	"orientation": "any",
+	"prefer_related_applications": false
 }
