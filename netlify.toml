@@ -19,8 +19,8 @@
 [[plugins]]
   package = "netlify-plugin-cloudinary"
 
-  [plugins.inputs]
-  cloudName = "neoski"
-  deliveryType = "upload"
-  uploadPreset = "web_default"
-  imagesPath = "/img"
+#  [plugins.inputs]
+#  cloudName = "neoski"
+#  deliveryType = "upload"
+#  uploadPreset = "web_default"
+#  imagesPath = "/img"
