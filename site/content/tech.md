@@ -120,3 +120,4 @@ This website uses the following technologies:
 ### Miscellaneous
 
 - PWA
+- Open Graph
