@@ -13,7 +13,7 @@ As of yet there is nothing put in place to counter this except additional homewo
 
 ## Mathematics
 
-Here is the mathematics: Raising attainment (RA) sessions (beginning soon) last for an hour after school – keep a tally of the time. Then, it will take an average of a half-hour to travel home for most students. Next, each subject has a half-hour of self-quizzing (which can take up to an hour for some students to complete) followed by an additional half-hour of subject-set homework in the form of a worksheet or online service. With each night having two subjects worth of homework, that is another two hours to add to our now three and a half hours of time after school.[^1] With school finishing at 1500 (3 PM) and three and a half hours to add, it is now 1830 (6.30 PM) which is when most students begin eating dinner and then go to bed.[^2]
+Here is the mathematics: Raising attainment (RA) sessions (beginning soon) last for an hour after school – keep a tally of the time. Then, it will take an average of a half-hour to travel home for most students. Next, each subject has a half-hour of self-quizzing (which can take up to an hour for some students to complete) followed by an additional half-hour of subject-set homework in the form of a worksheet or online service. With each night having two subjects worth of homework, that is another two hours to add to our now three and a half hours of time after school. [^1] With school finishing at 1500 (3 PM) and three and a half hours to add, it is now 1830 (6.30 PM) which is when most students begin eating dinner and then go to bed. [^2]
 
-[^1] There can be additional homework set which would last approximately half-an-hour.
-[^2] A maximum of five hours could be considered for this total - bringing the time to 2000 (8 PM).
+[^1]: There can be additional homework set which would last approximately half-an-hour.
+[^2]: A maximum of five hours could be considered for this total - bringing the time to 2000 (8 PM).
