@@ -51,4 +51,4 @@ Of course, these are only a small selection of strategies and many more are avai
 [^3]: Source: [Mind](https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/tips-to-improve-your-sleep/#collapse7acac:~:text=add-,Look%20after%20yourself,-add).
 [^4]: Source: [About Sleep's Role in Memory by Björn Rasch and Jan Born](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768102/#:~:text=B.-,Memory,-1.%20Memory%20processes)
 [^5]: See an example service here: [Online Learning Checklists by eFirst](https://efirst.org.uk/checklists.php)
-[^6]: See an example proposal here: [MagnaLearn - Extended Education Provision]("/files/MagnaLearn - Extended Education Provision.pdf")
+[^6]: See an example proposal here: [MagnaLearn - Extended Education Provision](/files/magnalearn.pdf)
