@@ -41,7 +41,10 @@ All of this leads to an urgent need for a more effective homework strategy that 
 Of course, these are only a small selection of strategies and many more are available. I hope that this review has informed you of the homework situation within the academy.
 
 {{< rawhtml >}}
-<img src="/img/signature.png" alt="Signature" width="50" height="auto">
+
+<div style="text-align: left">
+<img src="/img/signature.png" alt="Signature" width="100" height="auto">
+</div>
 {{< /rawhtml >}}
 
 **Neo Skinner**
