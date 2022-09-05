@@ -3,16 +3,3 @@ languageCode = "en-us"
 languageLang = "en"
 title = "NeoSki"
 enableRobotsTXT = true
-
-[markup]
-  defaultMarkdownHandler = 'goldmark'
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      linkifyProtocol = 'https'
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
