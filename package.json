@@ -1,6 +1,6 @@
 {
   "name": "Website",
-  "packageManager": "yarn@3.2.2",
+  "packageManager": "yarn@2.4.2",
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
