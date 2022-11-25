@@ -5,85 +5,85 @@ socialimg: /img/links.jpg
 heading1: "Social"
 links1:
   - subheading: "Twitter"
-    linkurl: https://twitter.com/NeoSkin7
+    linkurl: https://link.neoski.tk/twitter
     imgurl: ./img/twitter.svg
   - subheading: "Instagram"
-    linkurl: https://instagram.com/neoskin7
+    linkurl: https://link.neoski.tk/instagram
     imgurl: ./img/instagram.svg
   - subheading: "Facebook"
-    linkurl: https://www.facebook.com/NeoSkin7/
+    linkurl: https://link.neoski.tk/facebook
     imgurl: ./img/facebook.svg
   - subheading: "TikTok"
-    linkurl: https://tiktok.com/@neoskin7
+    linkurl: https://link.neoski.tk/tiktok
     imgurl: ./img/tiktok.svg
   - subheading: "Spotify"
-    linkurl: https://open.spotify.com/user/lbpgmi3jhtn8i7iur05fvzpqe?si=50nhryHpT7m3Q7zzKss8mw
+    linkurl: https://link.neoski.tk/spotify
     imgurl: ./img/spotify.svg
   - subheading: "YouTube"
-    linkurl: https://www.youtube.com/channel/UCt2F1vNcKZJRND2H5yghyxg
+    linkurl: https://link.neoski.tk/youtube
     imgurl: ./img/youtube.svg
   - subheading: "Twitch"
-    linkurl: https://www.twitch.tv/neoskinner/
+    linkurl: https://link.neoski.tk/twitch
     imgurl: ./img/twitch.svg
   - subheading: "Patreon"
-    linkurl: https://www.patreon.com/user/creators?u=17742981
+    linkurl: https://link.neoski.tk/patreon
     imgurl: ./img/patreon.svg
   - subheading: "Pinterest"
-    linkurl: https://pinterest.co.uk/neoskin7/
+    linkurl: https://link.neoski.tk/pinterest
     imgurl: ./img/pinterest.svg
   - subheading: "Snapchat"
-    linkurl: https://www.snapchat.com/add/neoskin7
+    linkurl: https://link.neoski.tk/snapchat
     imgurl: ./img/snapchat.svg
   - subheading: "Reddit"
-    linkurl: https://www.reddit.com/user/NeoSkin7
+    linkurl: https://link.neoski.tk/reddit
     imgurl: ./img/reddit.svg
   - subheading: "Quora"
-    linkurl: https://www.quora.com/profile/Neo-Skinner
+    linkurl: https://link.neoski.tk/quora
     imgurl: ./img/quora.svg
 heading2: "Projects"
 links2:
   - subheading: "Learn More About My Projects"
-    linkurl: ./projects/
+    linkurl: ../projects/
     imgurl: ./img/more.svg
   - subheading: "SkinnerScience"
-    linkurl: https://skinnerscience.netlify.app/
+    linkurl: https://link.neoski.tk/skinnerscience
     imgurl: https://d33wubrfki0l68.cloudfront.net/1a61139fa82443925c2c41e459157345218b8a5b/9d160/favicon.svg
   - subheading: "LocalAreaRadio"
-    linkurl: https://linktr.ee/LocalAreaRadio
+    linkurl: https://link.neoski.tk/localarearadio
     imgurl: https://d1fdloi71mui9q.cloudfront.net/NF601JaETuqJd5ISrHXb_8xzJzduraasoNPLe
   - subheading: "LearnToCode"
-    linkurl: https://learn-tocode.netlify.app/
+    linkurl: https://link.neoski.tk/learntocode
     imgurl: https://learn-tocode.netlify.app/images/logo.svg
   - subheading: "Skinner Technology Archive"
-    linkurl: https://skinnertechnology.wordpress.com/
+    linkurl: https://link.neoski.tk/skinnertechnologyarchive
     imgurl: https://raw.githubusercontent.com/NeoSkin7/STAWebsite/main/IMAGES/FAVICON.PNG
   - subheading: "Code Archive"
-    linkurl: https://1drv.ms/u/s!AgqrmFmMiGSJgYpz1T32dvN3HbLQZQ?e=ur7kyi
+    linkurl: https://link.neoski.tk/code
     imgurl: ./img/code.svg
   - subheading: "Wallpapers"
-    linkurl: https://1drv.ms/u/s!AgqrmFmMiGSJgY4B5wJ48JrKCLMQRA?e=fMWqu4
+    linkurl: https://link.neoski.tk/wallpapers
     imgurl: ./img/wallpapers.svg
   - subheading: "GitHub"
-    linkurl: https://github.com/NeoSkin7
+    linkurl: https://link.neoski.tk/github
     imgurl: ./img/github.svg
   - subheading: "CodePen"
-    linkurl: https://codepen.io/NeoSki
+    linkurl: https://link.neoski.tk/codepen
     imgurl: ./img/codepen.svg
 heading3: "Other"
 links3:
   - subheading: "Wikipedia"
-    linkurl: https://en.wikipedia.org/wiki/User:NeoSki
+    linkurl: https://link.neoski.tk/wikipedia
     imgurl: ./img/wikipedia.svg
   - subheading: "GoodReads"
-    linkurl: https://www.goodreads.com/neoski
+    linkurl: https://link.neoski.tk/goodreads
     imgurl: ./img/goodreads.svg
   - subheading: "Last.fm"
-    linkurl: https://www.last.fm/user/NeoSkin7
+    linkurl: https://link.neoski.tk/lastfm
     imgurl: ./img/lastfm.svg
   - subheading: "Internet Archive"
-    linkurl: https://archive.org/details/@neoski
+    linkurl: https://link.neoski.tk/internetarchive
     imgurl: ./img/ia.svg
   - subheading: "Microsoft Community"
-    linkurl: https://answers.microsoft.com/en-us/profile/52dff4de-8204-4cb9-b4a8-7f57b9973f3d
+    linkurl: https://link.neoski.tk/mscommunity
     imgurl: ./img/microsoft.svg
 ---

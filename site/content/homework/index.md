@@ -33,7 +33,7 @@ All of this leads to an urgent need for a more effective homework strategy that 
 
 - ### Targeted Revision
 
-  This strategy sees students using their teachers or an online service[^5] to identify weak topics, an effective revisional strategy can then be used for the weak topics when revision. This ensures that students are able able to effectively revise topics that are weak points within a subject. The strategy also does not require modification of KO pages.
+  This strategy sees students using their teachers or an online service[^5] to identify weak topics, an effective revisional strategy can then be used for the weak topics when revising. This ensures that students are able able to effectively revise topics that are weak points within a subject. The strategy also does not require modification of KO pages.
 
 - ### Online Services
   Potentially the most expensive strategy, online learning has students utilising pre-existing (or custom[^6]) online services for each subject to revise topics. Examples include SparxMaths and Tassomai which are already shown to be excellent. Whilst this option may be the most costly, I believe it would also be the most effective.
@@ -49,6 +49,6 @@ Of course, these are only a small selection of strategies and many more are avai
 [^1]: There can be an additional homework set which would last approximately half an hour.
 [^2]: A maximum of five hours could be considered for this total - bringing the time to 2000 (8 PM).
 [^3]: Source: [Mind](https://www.mind.org.uk/information-support/types-of-mental-health-problems/sleep-problems/tips-to-improve-your-sleep/#collapse7acac:~:text=add-,Look%20after%20yourself,-add).
-[^4]: Source: [About Sleep's Role in Memory by Björn Rasch and Jan Born](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768102/#:~:text=B.-,Memory,-1.%20Memory%20processes)
-[^5]: See an example service here: [Online Learning Checklists by eFirst](https://efirst.org.uk/checklists.php)
-[^6]: See an example proposal here: [MagnaLearn - Extended Education Provision](/files/magnalearn.pdf)
+[^4]: Source: [About Sleep's Role in Memory by Björn Rasch and Jan Born](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768102/#:~:text=B.-,Memory,-1.%20Memory%20processes).
+[^5]: See an example service here: [Online Learning Checklists by eFirst](https://efirst.org.uk/checklists.php).
+[^6]: See an example proposal here: [MagnaLearn - Extended Education Provision](/files/magnalearn.pdf).
