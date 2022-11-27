@@ -32,11 +32,13 @@
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.2",
     "css-minimizer-webpack-plugin": "^4.2.2",
+    "date-fns": "^2.29.3",
     "html-webpack-plugin": "^5.5.0",
     "immutable": "^4.1.0",
     "mini-css-extract-plugin": "^2.7.0",
     "postcss-loader": "^7.0.1",
     "react": "^16.8.4",
+    "sass-loader": "^13.2.0",
     "terser-webpack-plugin": "^5.3.6",
     "to-string-loader": "^1.2.0",
     "yarn": "^1.22.19"
