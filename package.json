@@ -26,6 +26,7 @@
     "ws": "3.3.2"
   },
   "dependencies": {
+    "@babel/preset-react": "^7.18.6",
     "all": "^0.0.0",
     "assets-webpack-plugin": "^7.1.1",
     "copy-webpack-plugin": "^11.0.0",
