@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "all": "^0.0.0",
+    "copy-webpack-plugin": "^11.0.0",
     "css-minimizer-webpack-plugin": "^4.2.2",
     "mini-css-extract-plugin": "^2.7.0",
     "terser-webpack-plugin": "^5.3.6",
