@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "all": "^0.0.0",
+    "assets-webpack-plugin": "^7.1.1",
     "copy-webpack-plugin": "^11.0.0",
     "css-minimizer-webpack-plugin": "^4.2.2",
     "mini-css-extract-plugin": "^2.7.0",
