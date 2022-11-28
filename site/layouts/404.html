@@ -1,6 +1,11 @@
 {{ define "main" }}
 
-<h1>Nothing Here...</h1>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+{{ partial "jumbotron" (dict "title" "Nothing Here...") }}
+
+<div class="pv4">
+    <div class="cms ph3 mw7 center">
+        <h3><a href="{{ " /" | relURL }}">Go Home</a></h3>
+    </div>
+</div>
 
 {{ end }}
