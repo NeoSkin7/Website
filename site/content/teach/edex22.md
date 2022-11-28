@@ -56,7 +56,7 @@ To teach this content, first read through the booklet that students will use - t
 
 It is good general practice to order demonstrations at least a week in advance of your teaching.
 
-_PS. The tennis ball is for the atom scale section of the Physics lesson and the 1862 Periodic Table is an example for the periodic table histroy section of the Chemistry lesson, they are not required!_
+_PS. The tennis ball is for the atom scale section of the Physics lesson and the 1862 Periodic Table is an example for the periodic table history section of the Chemistry lesson, they are not required!_
 
 ### Thanks
 
