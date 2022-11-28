@@ -6,21 +6,21 @@ image: /img/edex22.png
 socialimg: /img/edex22.png
 files:
   - subheading: ALL FILES (.ZIP)
-    fileurl: ../files/edex22/edex22.zip
+    fileurl: ../../files/edex22/edex22.zip
   - subheading: Booklet (.DOCX)
-    fileurl: ../files/edex22/booklet.docx
+    fileurl: ../../files/edex22/booklet.docx
   - subheading: Booklet (.PDF)
-    fileurl: ../files/edex22/booklet.pdf
+    fileurl: ../../files/edex22/booklet.pdf
   - subheading: Mark Scheme (.DOCX)
-    fileurl: ../files/edex22/mark-scheme.docx
+    fileurl: ../../files/edex22/mark-scheme.docx
   - subheading: Presentation (.PPTX)
-    fileurl: ../files/edex22/presentation.pptx
+    fileurl: ../../files/edex22/presentation.pptx
   - subheading: Presentation (.PDF)
-    fileurl: ../files/edex22/presentation.pdf
+    fileurl: ../../files/edex22/presentation.pdf
   - subheading: Demonstrations (.DOCX)
-    fileurl: ../files/edex22/demos.docx
+    fileurl: ../../files/edex22/demos.docx
   - subheading: Alexandre Emile Béguyer de Chancourtois Periodic Table 1862 (.PNG)
-    fileurl: ../files/edex22/periodic-table.png
+    fileurl: ../../files/edex22/periodic-table.png
   - subheading: Periodic Table Development Documentary (LINK)
     fileurl: https://www.youtube.com/embed/83RSwczyyRY
 ---
