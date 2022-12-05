@@ -2,6 +2,10 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-{{ .Content }}
+<div class="mw6 center ph3 pv4">
+    <div class="cms mw6">
+        {{ partial "_index.md" . | markdownify }}
+    </div>
+</div>
 
 {{ end }}
