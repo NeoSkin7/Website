@@ -1,7 +1,8 @@
 ---
 title: "SkinnerMedia"
 subtitle: The Team
-socialimg: https://pbs.twimg.com/profile_images/1492175817400537088/9OM-21O4.jpg
+image: /img/team.jpg
+socialimg: /img/team.jpg
 ---
 
 # Neo Skinner, The Main Man
@@ -14,18 +15,18 @@ Neo Skinner is the organisation founder and director and, as such, has the final
 
 ![Tyler Rocha](https://pbs.twimg.com/profile_images/1495749228924182531/V4Xoji1b.jpg)
 
-Tyler Rocha is the scientific advisor and general advisor for many of the organisations projects and helps out
-
-# Oliver Heckford, The Trusty Sidekick
-
-Oliver Heckford
+Tyler Rocha is the scientific advisor and general advisor for many of the organisations projects including SkinnerScience and NeoSki. He is also well-known for his extensive crazy scientific ideas, many of which would definitely not work...
 
 # Evan Le Sueur, The Tallest of Them All
 
 ![Evan Le Sueur](https://pbs.twimg.com/profile_images/1517516442366877696/6iS2viQy_400x400.jpg)
 
-Evan Le Sueur
+Evan Le Sueur is the Executive Producer of LocalAreaRadio, the video and audio media branch of SkinnerMedia. The tallest of the team, he has a towering stature over the media industry.
 
-# Ephram Matocha, The Eager Student
+## Oliver Heckford, The Eager Scout
+
+Oliver Heckford is the head administratior for Salamander Explorers and the joint head administrator for the Poole North Scout Group. He acts as the Scouting advisor on both of these websites that are produced by The Crofton.
+
+## Ephram Matocha, The Learned Student
 
 Ephram Matocha
