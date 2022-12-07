@@ -2,10 +2,10 @@
 title: "SkinnerMedia"
 subtitle: The future of media...
 image: /img/media.jpg
-socialimg: /img/media.jpg
+socialimg: /img/skinner-media.png
 ---
 
-![SkinnerMedia](https://pbs.twimg.com/profile_images/1492175817400537088/9OM-21O4.jpg)
+![SkinnerMedia](/img/skinner-media.png)
 
 # About Us
 
