@@ -1,7 +1,7 @@
 ---
 title: "That guy on the internet."
 subtitle: “Life would be tragic if it weren't funny.” ― Stephen Hawking
-image: /img/home.jpg
+image: /img/cell.jpg
 socialimg: /img/about-bottom.jpg
 blurb:
   heading: Hello!
