@@ -23,10 +23,12 @@ Tyler Rocha is the scientific advisor and general advisor for many of the organi
 
 Evan Le Sueur is the Executive Producer of LocalAreaRadio, the video and audio media branch of SkinnerMedia. The tallest of the team, he has a towering stature over the media industry.
 
+# Ephram Matocha, The Learned Student
+
+![Ephram Matocha](/img/ephram.jpg)
+
+Ephram Matocha is the scientific advisor for SkinnerScience and the Education Extravaganza, he provides the student perspective for these projects - not that he's dumb, he just understands that perspective very well!
+
 ## Oliver Heckford, The Eager Scout
 
 Oliver Heckford is the head administrator for Salamander Explorers and the joint head administrator for the Poole North Scout Group. He acts as the Scouting advisor on both of these websites that are produced by The Crofton.
-
-## Ephram Matocha, The Learned Student
-
-Ephram Matocha is the scientific advisor for SkinnerScience and the Education Extravaganza, he provides the student perspective for these projects - not that he's dumb, he just understands that perspective very well!
