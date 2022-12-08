@@ -1,6 +1,6 @@
 ---
 title: More on Radioactivity (GCSE and Beyond) 12/11/2022
-date: 2022-11-05T15:00:00.000Z
+date: 2022-11-12T18:30:00.000Z
 description: Resources from a recent radioactivity session.
 socialimg: /img/teach.jpg
 files:
