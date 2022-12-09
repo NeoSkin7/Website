@@ -19,7 +19,7 @@ Tyler Rocha is the scientific advisor and general advisor for many of the organi
 
 # Evan Le Sueur, The Tallest of Them All
 
-![Evan Le Sueur](https://pbs.twimg.com/profile_images/1517516442366877696/6iS2viQy_400x400.jpg)
+![Evan Le Sueur](/img/evan.jpg)
 
 Evan Le Sueur is the Executive Producer of LocalAreaRadio, the video and audio media branch of SkinnerMedia. The tallest of the team, he has a towering stature over the media industry.
 
