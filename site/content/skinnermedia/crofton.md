@@ -6,3 +6,5 @@ socialimg: /img/crofton.png
 ---
 
 ![The Crofton](/img/crofton.png)
+
+The Crofton is the
