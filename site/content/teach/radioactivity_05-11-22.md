@@ -1,18 +1,27 @@
 ---
-title: Radioactivity (GCSE and Beyond) 05/11/2022
-date: 2022-11-05T15:00:00.000Z
-description: Resources from a recent radioactivity session.
+title: Enzymes (GCSE) 04/12/2022
+date: 2022-12-04T17:00:00.000Z
+description: Your complete GCSE guide to enzymes.
 socialimg: /img/teach.jpg
 files:
-  - subheading: Notes (PDF)
-    fileurl: ../../files/radioactivity_05-11-2022.pdf
+  - subheading: GCSE Enzymes Guide (PDF)
+    fileurl: ../../files/enzymes_04-12-2022.pdf
 ---
 
-A small tutoring session took place on Saturday the 5th of November 2022 upon the subject of radioactivity. The notes from the session have been uploaded below and are suitable for higher-tier GCSE students due to the challenging nature of the beyond GCSE section which adds some A-Level knowledge to the resource towards the aim of stretching students understanding of this topic.
+Enzymes are an important and complex GCSE biology topic - and that's why I've created a comprehensive guide!
 
-## Also See
+## Contents
 
-- [More on Radioactivity (GCSE and Beyond) 12/11/2022](/teach/more_on_radioactivity_12-11-22)
+- The 'Lock and Key' Model
+- Digestive Enzymes Summary
+- Protease and Proteins
+- Lipase and Lipids
+- Carbohydrase, Amylase and Carbohydrates
+- Optimum Conditions for Enzyme Activity Summary
+- Optimum Temperature Conditions for Enzyme Activity
+- Optimum pH Conditions for Enzyme Activity
+- Maintaining pH, The Liver and Bile
+- Lipid Emulsification and Bile
 
 ## Thanks
 
