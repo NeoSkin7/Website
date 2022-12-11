@@ -1,11 +1,11 @@
 ---
-title: Enzymes (GCSE) 04/12/2022
+title: Enzymes (GCSE)
 date: 2022-12-04T17:00:00.000Z
 description: Your complete GCSE guide to enzymes.
 socialimg: /img/teach.jpg
 files:
   - subheading: GCSE Enzymes Guide (PDF)
-    fileurl: ../../files/enzymes_04-12-2022.pdf
+    fileurl: ../../files/enzymes.pdf
 ---
 
 Enzymes are an important and complex GCSE biology topic - and that's why I've created a comprehensive guide!
