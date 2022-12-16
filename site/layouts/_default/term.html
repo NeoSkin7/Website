@@ -1,18 +1,4 @@
 {{ define "main" }}
-<div class="container">
-    <h1>All {{ .Type }}</h1>
-    <ul>
-        {{ range .Data.Pages }}
-        <li>
-            <a href="{{ .Permalink }}">{{ .Title }}</a>
-        </li>
-        {{ end }}
-    </ul>
-</div>
-{{ end }}
-
-
-{{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" "/img/blog.jpg" "title" .Term ) }}
 
