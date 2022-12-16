@@ -10,3 +10,21 @@
     </ul>
 </div>
 {{ end }}
+
+
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog.jpg" "title" {{ .Term }}) }}
+
+<div class="mw7 center">
+    <ul class="flex-ns flex-wrap mhn1-ns pa3">
+        {{ range .Data.Pages }}
+        <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+        </div>
+        {{ end }}
+    </ul>
+    {{ partial "pagination" . }}
+</div>
+
+{{end}}
