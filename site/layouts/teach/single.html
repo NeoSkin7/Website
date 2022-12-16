@@ -6,11 +6,10 @@
     <p>{{ .Date.Format "Mon, 2 Jan, 2006" }}</p>
     <div class="tag-group">
       {{ range .Params.tags }}
-      <div class="tag">
-        <span class="tag-text">
-          <a href="/tags/{{. | urlize }}">{{.}}</a>
-        </span>
-      </div>
+      <span class="tag-text">
+        <a href="/tags/{{. | urlize }}">{{.}}</a>
+      </span>
+      &nbsp;
       {{end}}
     </div>
   </div>
