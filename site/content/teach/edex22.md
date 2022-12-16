@@ -4,6 +4,7 @@ date: 2022-08-18T11:47:57.305Z
 description: My yearly instalment of educational goodness!
 image: /img/edex22.png
 socialimg: /img/edex22.png
+tag: "edex"
 files:
   - subheading: ALL FILES (.ZIP)
     fileurl: ../../files/edex22/edex22.zip

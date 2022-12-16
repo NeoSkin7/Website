@@ -3,4 +3,5 @@ title = "NeoSki"
 enableRobotsTXT = "true"
 baseURL = "https://neoski.tk/"
 [taxonomies]
-  series = 'series'
+  category = 'categories'
+  tag = 'tags'

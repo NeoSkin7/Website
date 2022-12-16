@@ -3,3 +3,6 @@ languageCode = "en-us"
 languageLang = "en"
 title = "NeoSki"
 enableRobotsTXT = true
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
