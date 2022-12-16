@@ -1,6 +1,6 @@
 ---
-title: right-Angle Trigonometry (GCSE)
-date: 2022-12-04T17:00:00.000Z
+title: Right-Angle Trigonometry (GCSE)
+date: 2022-12-16T15:00:00.000Z
 description: Your complete GCSE guide to right-angle trigonometry.
 socialimg: /img/teach.jpg
 tag: "gcse-guide"
