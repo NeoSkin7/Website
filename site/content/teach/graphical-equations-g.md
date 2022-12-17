@@ -1,6 +1,6 @@
 ---
 title: Graphical Equations (GCSE)
-date: 2022-12-17T16:00:00.000Z
+date: 2022-12-17T17:00:00.000Z
 description: A graph of different equations.
 socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE"]
