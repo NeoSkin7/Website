@@ -8,6 +8,12 @@
     {{ end }}
     <div class="pagination">
         {{ if .Paginator.HasPrev }}
+        {{ if .Paginator.HasNext }}
+        <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
+            Next &rarr;
+        </a>
+        {{ else }}
+        <div></div>
         <a class="fl dib link dim black f6 f5-ns b pa2" title="Previous Page" href="{{ .Paginator.Prev.URL }}">
             Next &rarr;
         </a>
