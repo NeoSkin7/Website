@@ -4,7 +4,7 @@
 		<h2 class="f2 b lh-title mb3">Latest teaching resources</h2>
 
 		<div class="w-100 flex-ns mhn1-ns flex-wrap mb3">
-			{{ range first 4 (where .Site.RegularPages "Type" "teach") }}
+			{{ range first 5 (where .Site.RegularPages "Type" "teach") }}
 			<div class="ph1-ns w-50-ns flex">
 				{{ .Render "li" }}
 			</div>
