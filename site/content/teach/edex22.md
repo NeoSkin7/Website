@@ -4,7 +4,7 @@ date: 2022-08-18T11:47:57.305Z
 description: My yearly instalment of educational goodness!
 image: /img/edex22.png
 socialimg: /img/edex22.png
-tags: ["EdEx", "GCSE"]
+tags: ["Chemistry", "Physics", "EdEx", "GCSE"]
 files:
   - subheading: ALL FILES (.ZIP)
     fileurl: ../../files/edex22/edex22.zip
@@ -22,7 +22,7 @@ files:
     fileurl: ../../files/edex22/demos.docx
   - subheading: Alexandre Emile Béguyer de Chancourtois Periodic Table 1862 (.PNG)
     fileurl: ../../files/edex22/periodic-table.png
-  - subheading: Periodic Table Development Documentary (LINK)
+  - subheading: Periodic Table Development Documentary (YouTube)
     fileurl: https://www.youtube.com/embed/83RSwczyyRY
 ---
 
