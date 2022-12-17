@@ -1,6 +1,6 @@
 {{ if gt .Paginator.TotalPages 1 }}
 
-<nav class="cf pa3">
+<nav class="cf pa3 flex justify-between">
     {{ if .Paginator.HasNext }}
     <a class="fl dib link dim black f6 f5-ns b pa2" title="Next Page" href="{{ .Paginator.Next.URL }}">
         &larr; Previous
