@@ -5,8 +5,8 @@ description: A graph of different circle theorems.
 socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE"]
 files:
-  - subheading: Quantum Timeline (Genially)
-    fileurl: https://link.neoski.tk/quantum-timeline
+  - subheading: Graphical Circle Theorems (GeoGebra)
+    fileurl: https://link.neoski.tk/circle-theorems-g
 ---
 
 Circle theorems are one of the most intensive GCSE mathematics topics that many students struggle to entirely remember, this graphical representation aims to fix that by proving every circle theorem.
