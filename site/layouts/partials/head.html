@@ -1,12 +1,17 @@
 <head>
-
+	<!-- Title -->
 	<title>{{ .Title }} | {{ $.Site.Title }}</title>
 
+	<!-- Stylesheet -->
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
 	<link href="{{ relURL . }}" rel="stylesheet">
 	{{ end }}
 
+	<!-- Google Fonts -->
+	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
+
+	<!-- General -->
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -18,8 +23,6 @@
 	<meta name="author" content="Neo Skinner">
 	<meta name="copyright" content="Copyright Neo Skinner 2022. All Rights Reserved.">
 	<link rel="canonical" href="https://neoski.tk{{ .Permalink }}">
-
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700" rel="stylesheet">
 
 	<!-- Favicons -->
 	<link rel="apple-touch-icon" sizes="180x180" href="https://neoski.tk/img/apple-touch-icon.png">
@@ -50,6 +53,11 @@
 	<meta property="twitter:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
 
+	<!-- MathJax -->
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
+	<!-- Netlify Identity -->
 	{{ if .IsHome }}
 	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	{{ end }}
