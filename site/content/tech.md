@@ -68,6 +68,7 @@ This website uses the following technologies:
 - React
 - PostCSS
 - Workbox
+- MathJax
 
 ### Widgets
 
