@@ -20,7 +20,10 @@ Topics will be chosen by you - whatever you want to cover will be covered!
 To join sessions and find out more about the programme, please join the programme's Session Hub on Google Classroom below.
 
 {{< rawhtml >}}
-<a href="https://link.neoski.tk/ijPncZ" class="btn raise">Join the Google Classroom</a>
+
+<div class="tc">
+    <a href="https://link.neoski.tk/ijPncZ" class="btn raise">Join the Google Classroom</a>
+</div>
 {{< /rawhtml >}}
 
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
