@@ -24,6 +24,7 @@ To join sessions and find out more about the programme, please join the programm
 <div class="tc">
     <a href="https://link.neoski.tk/ijPncZ" class="btn raise">Join the Google Classroom</a>
 </div>
+<br>
 {{< /rawhtml >}}
 
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
