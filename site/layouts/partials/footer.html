@@ -33,7 +33,7 @@
 					<li><a href="/skinnermedia" class="link">Home</a></li>
 					<li><a href="/skinnermedia/team" class="link">The Team</a></li>
 					<li><a href="/skinnermedia/crofton" class="link">The Crofton</a></li>
-					<li><a href="https://link.neoski.tk/localarearadio" class="link">LocalAreaRadio</a></li>
+					<li><a href="/skinnermedia/localarearadio" class="link">LocalAreaRadio</a></li>
 					<li><a href="https://link.neoski.tk/skinnerscience" class="link">SkinnerScience</a></li>
 				</ul>
 			</div>
@@ -48,7 +48,6 @@
 			</div>
 
 			<div>
-				<h3 class="f4 b lh-title mb2 primary">Quick Links</h3>
 				<ul class="mhn2">
 					{{ partial "social-icon" (dict "link" "https://link.neoski.tk/twitter" "svg" "icons-twitter" "name" "Twitter") }}
 					{{ partial "social-icon" (dict "link" "https://link.neoski.tk/instagram" "svg" "icons-instagram" "name" "Instagram") }}
@@ -59,9 +58,7 @@
 				<br>
 				Cover image photo by Fayette Reynolds M.S., more information is available <a href="/images">here</a>.
 				<br>
-				<br>
-				© Copyright Neo Skinner and SkinnerMedia 2022. All Rights Reserved.
-				<br>
+				Copyright © Neo Skinner and SkinnerMedia, 2022-<span id="copyright-year"></span>. All Rights Reserved.
 				<br>
 				Proudly powered by <a href="https://netlify.com">Netlify</a>. Built by <a href="/skinnermedia/crofton">The Crofton</a>.
 			</p>
@@ -74,3 +71,7 @@
 {{ partial "svg" . }}
 
 <script src="/app.js"></script>
+<script>
+	var dt = new Date();
+	document.getElementById("copyright-year").innerHTML = (dt.getFullYear());
+</script>
