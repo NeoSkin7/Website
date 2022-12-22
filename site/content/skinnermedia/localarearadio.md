@@ -2,10 +2,10 @@
 title: "LocalAreaRadio"
 subtitle: SkinnerMedia's media group
 image: /img/server.jpg
-socialimg: /img/lar.png
+socialimg: /img/lar.jpg
 ---
 
-![LocalAreaRadio](/img/lar.png)
+![LocalAreaRadio](/img/lar.jpg)
 
 # The Group
 
