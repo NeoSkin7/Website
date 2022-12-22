@@ -9,7 +9,7 @@ socialimg: /img/lar.jpg
 
 # The Group
 
-The LocalAreaRadio Media Group produces all manner of digital and physical media, from videos to podcasts. They are sponsored by the Brexit Boys Association Football Club.
+The LocalAreaRadio Media Group produces all manner of digital and physical media, from videos to podcasts. They sponsor the [Brexit Boys Association Football Club](https://www.instagram.com/brexitboysafc/) and [not_mid.edits](https://www.instagram.com/not_mid.edits/).
 
 # The Podcast
 
