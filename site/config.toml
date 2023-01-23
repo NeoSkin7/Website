@@ -1,7 +1,0 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "NeoSki"
-enableRobotsTXT = true
-[taxonomies]
-  tag = 'tags'

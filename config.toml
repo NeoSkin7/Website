@@ -1,6 +1,0 @@
-languageCode = "en-us"
-title = "NeoSki"
-enableRobotsTXT = "true"
-baseURL = "https://neoski.tk/"
-[taxonomies]
-  tag = 'tags'
