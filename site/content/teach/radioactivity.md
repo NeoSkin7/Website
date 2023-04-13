@@ -1,6 +1,6 @@
 ---
 title: Radioactivity (GCSE)
-date: 2023-04-13T17:00:00.000Z
+date: 2023-04-13T16:00:00.000Z
 description: Your complete GCSE guide to radioactivity.
 socialimg: /img/teach.jpg
 tags: ["Physics", "GCSE Guides", "GCSE"]
