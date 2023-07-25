@@ -24,4 +24,3 @@
   deliveryType = "upload"
   uploadPreset = "web_default"
   imagesPath = "/img"
-  overwrite = "false"
