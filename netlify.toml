@@ -16,11 +16,11 @@
   framework = "hugo"
   targetPort = 3000
 
-#[[plugins]]
-#  package = "netlify-plugin-cloudinary"
-#
-#  [plugins.inputs]
-#  cloudName = "neoski"
-#  deliveryType = "upload"
-#  uploadPreset = "web_default"
-#  imagesPath = "/img"
+[[plugins]]
+  package = "netlify-plugin-cloudinary"
+
+  [plugins.inputs]
+  cloudName = "neoski"
+  deliveryType = "upload"
+  uploadPreset = "web_default"
+  imagesPath = "/img"
