@@ -22,5 +22,5 @@
   [plugins.inputs]
   cloudName = "neoski"
   deliveryType = "upload"
-  uploadPreset = "neoski_web"
+  uploadPreset = "web_main"
   imagesPath = "/img"
