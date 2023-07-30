@@ -39,9 +39,9 @@ Threads seems like an inviting option and for me it’s an easy decision to swit
 
 You can follow me on Threads below and I look forward to seeing you there!
 
-{{<div class="tc">}}
-{{<a href="https://www.threads.net/@neoskin7" class="btn raise">}}Follow me!{{</a>}}
-{{</div>}}
+<div class="tc">
+<a href="https://www.threads.net/@neoskin7" class="btn raise">Follow me!</a>
+</div>
 
 ## _- N.S._
 
