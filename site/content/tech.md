@@ -102,10 +102,6 @@ This website uses the following technologies:
 - Cloudflare
 - Cloudinary
 
-### Asset Management System
-
-- Cloudinary
-
 ### CMS
 
 - Netlify

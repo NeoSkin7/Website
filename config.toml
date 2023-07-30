@@ -4,3 +4,5 @@ enableRobotsTXT = "true"
 baseURL = "https://neoski.tk/"
 [taxonomies]
   tag = 'tags'
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
