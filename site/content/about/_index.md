@@ -32,6 +32,6 @@ testimonials:
   - author: Ephram Matocha - Scientific Advisor
     quote: >-
       When it comes to knowing things that are not taught in schools, Neo definitely knows about them. From the standard model to Hawking Radiation he knows it. He's a naturally skilled teacher who has helped me with my academic studies. This human being is a generational talent and has a hard working mindset that most people my age lack.
-full_image: ./img/about-bottom.png
+full_image: /img/about-bottom.png
 statement: Will you join me?
 ---
