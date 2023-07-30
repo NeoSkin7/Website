@@ -11,7 +11,7 @@ The short answer is: yes. But, the long answer is a lot more complicated.
 
 ## What is Threads?
 
-![Threads vs Twitter](img/blog/30-07-23/threads_v_twitter.png)
+![Threads vs Twitter](/img/blog/30-07-23/threads_v_twitter.png)
 
 Threads is Meta’s answer to Twitter and was developed in response to Elon Musk’s acquisition of the rival platform early last year (Twitter was recently rebranded as X - more on that later - this post refers to Twitter as the longer-standing name). However, it is worth noting that it is not a like-for-like recreation, Twitter has a more advanced feature set with features such as a trending list, hashtags, profile cover images and a web client - not to mention TweetDeck.
 
@@ -21,7 +21,7 @@ The core principles of Threads are precisely like Twitter’s, though, with user
 
 ## Is Threads Good?
 
-![Twitter Blue Sign Up Page](img/blog/30-07-23/twitter_blue.png)
+![Twitter Blue Sign Up Page](/img/blog/30-07-23/twitter_blue.png)
 
 Here the comparisons with Twitter really count alongside the recent activities of Elon Musk. Threads is shaping up to be a lot calmer platform with less abhorrent content than Twitter and due to its links with Instagram already has a well-established and highly functional verification program. The same cannot be said for Twitter.
 
@@ -39,13 +39,16 @@ Threads seems like an inviting option and for me it’s an easy decision to swit
 
 You can follow me on Threads below and I look forward to seeing you there!
 
+{{<rawhtml>}}
+
 <div class="tc">
 <a href="https://www.threads.net/@neoskin7" class="btn raise">Follow me!</a>
 </div>
+{{</rawhtml>}}
 
 ## _- N.S._
 
-> Image Sources
-> Article Icon: Content from _Threads by Meta_, 2023
-> First Image: Composite of content from _Wikimedia Commons_, 2022 and 2023 (var. authors)
-> Second Image: Composite of content from _X_, 2023
+Image Sources:
+Article Icon: Content from _Threads by Meta_, 2023
+First Image: Composite of content from _Wikimedia Commons_, 2022 and 2023 (var. authors)
+Second Image: Composite of content from _X_, 2023
