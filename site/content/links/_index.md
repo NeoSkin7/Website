@@ -4,24 +4,27 @@ image: /img/links.jpg
 socialimg: /img/links.jpg
 heading1: "Social"
 links1:
-  - subheading: "Twitter"
-    linkurl: https://link.neoski.tk/twitter
-    imgurl: /img/twitter.svg
   - subheading: "Instagram"
     linkurl: https://link.neoski.tk/instagram
     imgurl: /img/instagram.svg
+  - subheading: "Threads"
+    linkurl: https://link.neoski.tk/threads
+    imgurl: /img/threads.svg
+  - subheading: "YouTube"
+    linkurl: https://link.neoski.tk/youtube
+    imgurl: /img/youtube.svg
+  - subheading: "Twitter"
+    linkurl: https://link.neoski.tk/twitter
+    imgurl: /img/twitter.svg
+  - subheading: "Spotify"
+    linkurl: https://link.neoski.tk/spotify
+    imgurl: /img/spotify.svg
   - subheading: "Facebook"
     linkurl: https://link.neoski.tk/facebook
     imgurl: /img/facebook.svg
   - subheading: "TikTok"
     linkurl: https://link.neoski.tk/tiktok
     imgurl: /img/tiktok.svg
-  - subheading: "Spotify"
-    linkurl: https://link.neoski.tk/spotify
-    imgurl: /img/spotify.svg
-  - subheading: "YouTube"
-    linkurl: https://link.neoski.tk/youtube
-    imgurl: /img/youtube.svg
   - subheading: "Twitch"
     linkurl: https://link.neoski.tk/twitch
     imgurl: /img/twitch.svg

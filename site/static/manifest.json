@@ -1,24 +1,58 @@
 {
 	"name": "NeoSki",
+	"start_url": "/",
 	"short_name": "NeoSki",
 	"lang": "en",
 	"description": "I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.",
 	"icons": [
 		{
-			"src": "/android-chrome-192x192.png",
+			"src": "/img/favicon-16x16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/favicon-32x32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/android-chrome-192x192.png",
 			"sizes": "192x192",
 			"type": "image/png"
 		},
 		{
-			"src": "/android-chrome-512x512.png",
+			"src": "/img/android-chrome-512x512.png",
 			"sizes": "512x512",
 			"type": "image/png"
+		},
+		{
+			"src": "/img/maskable-icon-512x512.png",
+			"sizes": "16x16 32x32 48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+			"type": "image/png",
+			"purpose": "maskable"
+		}
+	],
+	"shortcuts": [
+		{
+			"name": "Blog",
+			"url": "/post"
+		},
+		{
+			"name": "Teaching Resources",
+			"url": "/teach"
+		},
+		{
+			"name": "Links",
+			"url": "/links"
+		},
+		{
+			"name": "Projects",
+			"url": "/projects"
 		}
 	],
 	"theme_color": "#1d95f8",
 	"background_color": "#000000",
 	"display": "standalone",
-	"start_url": "https://neoski.tk",
 	"dir": "ltr",
 	"orientation": "any",
 	"prefer_related_applications": false

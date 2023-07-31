@@ -42,7 +42,7 @@ You can follow me on Threads below and I look forward to seeing you there!
 {{<rawhtml>}}
 
 <div class="tc">
-<a href="https://www.threads.net/@neoskin7" class="btn raise">Follow me!</a>
+<a href="https://link.neoski.tk/threads" class="btn raise">Follow me!</a>
 </div>
 {{</rawhtml>}}
 
