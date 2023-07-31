@@ -4,9 +4,14 @@
 
 <div class="mw7 center ph3 pt4">
 
+  <div class="pv4">
+    <div class="flex-l mhn1-l ph3 center mw7">
+      <h2 class="f2 b lh-title mb2 w-40-l">{{ .Params.heading1 }}</h2>
+    </div>
+  </div>
+
   <ul class="flex-ns flex-column mhn1-ns pa3">
     <div class="w-50-ns ph1-ns flex flex-column">
-      <h2 class="f3 b lh-title pa3 primary center black">{{ .Params.heading1 }}</h2>
       {{ range .Params.links1 }}
       <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
         <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">
@@ -14,8 +19,16 @@
       </a>
       {{ end }}
     </div>
+  </ul>
+
+  <div class="pv4">
+    <div class="flex-l mhn1-l ph3 center mw7">
+      <h2 class="f2 b lh-title mb2 w-40-l">{{ .Params.heading2 }}</h2>
+    </div>
+  </div>
+
+  <ul class="flex-ns flex-column mhn1-ns pa3">
     <div class="w-50-ns ph1-ns flex flex-column">
-      <h2 class="f3 b lh-title pa3 primary center black">{{ .Params.heading2 }}</h2>
       {{ range .Params.links2 }}
       <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
         <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">
@@ -23,8 +36,16 @@
       </a>
       {{ end }}
     </div>
+  </ul>
+
+  <div class="pv4">
+    <div class="flex-l mhn1-l ph3 center mw7">
+      <h2 class="f2 b lh-title mb2 w-40-l">{{ .Params.heading3 }}</h2>
+    </div>
+  </div>
+
+  <ul class="flex-ns flex-column mhn1-ns pa3">
     <div class="w-50-ns ph1-ns flex flex-column">
-      <h2 class="f3 b lh-title pa3 primary center black">{{ .Params.heading3 }}</h2>
       {{ range .Params.links3 }}
       <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
         <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">

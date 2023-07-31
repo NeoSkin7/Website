@@ -46,11 +46,9 @@ You can follow me on Threads below and I look forward to seeing you there!
 </div>
 {{</rawhtml>}}
 
-## _- N.S._
-
 ---
 
-#### Image Sources
+### Image Sources
 
 Article Icon: Content from _Threads by Meta_, 2023
 

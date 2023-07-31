@@ -17,12 +17,6 @@ Neo Skinner is the organisation founder and director and, as such, has the final
 
 Tyler Rocha is the scientific advisor and general advisor for many of the organisations projects including SkinnerScience and the Education Extravaganza. He is also well-known for his extensive crazy scientific ideas, many of which would definitely not work...
 
-# Evan Le Sueur, The Tallest of Them All
-
-![Evan Le Sueur](/img/evan.jpg)
-
-Evan Le Sueur is the Executive Producer of LocalAreaRadio, the video and audio media branch of SkinnerMedia. The tallest of the team, he has a towering stature over the media industry.
-
 # Ephram Matocha, The Learned Student
 
 ![Ephram Matocha](/img/ephram.jpg)
