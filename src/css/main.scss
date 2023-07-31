@@ -102,17 +102,17 @@
   font-display: swap;
 }
 
+footer a.link {
+  padding-bottom: 0.5em;
+  display: block;
+}
+
+p {
+  text-align: justify;
+}
+
 .lh-title {
   font-family: "cooper-black";
   text-transform: uppercase;
   text-align: left;
-}
-
-.tc {
-  text-align: center;
-}
-
-footer a.link {
-  padding-bottom: 0.5em;
-  display: block;
 }
