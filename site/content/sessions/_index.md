@@ -1,8 +1,8 @@
 ---
 title: "Online Teaching Sessions"
 subtitle: Take part in my online teaching sessions!
-image: /img/sessions.jpg
-socialimg: /img/sessions.png
+image: /img/sessions.webp
+socialimg: /img/sessions.webp
 ---
 
 # Are you ready?

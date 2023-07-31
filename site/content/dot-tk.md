@@ -1,8 +1,8 @@
 ---
 title: "Why .tk?"
 subtitle: A story of top-level domains
-image: "/img/tokelau.jpg"
-socialimg: /img/tokelau.jpg
+image: "/img/tokelau.webp"
+socialimg: /img/tokelau.webp
 ---
 
 # .tk is the top-level domain of Tokelau.

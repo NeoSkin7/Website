@@ -1,7 +1,7 @@
 ---
 title: "The Crofton"
 subtitle: SkinnerMedia's web-design branch
-image: /img/server.jpg
+image: /img/server.webp
 socialimg: /img/crofton.png
 ---
 

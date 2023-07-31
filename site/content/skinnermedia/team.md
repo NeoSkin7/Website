@@ -1,8 +1,8 @@
 ---
 title: "SkinnerMedia"
 subtitle: The Team
-image: /img/team.jpg
-socialimg: /img/team.jpg
+image: /img/team.webp
+socialimg: /img/team.webp
 ---
 
 # Neo Skinner, The Main Man

@@ -1,7 +1,7 @@
 ---
 title: "Links"
-image: /img/links.jpg
-socialimg: /img/links.jpg
+image: /img/links.webp
+socialimg: /img/links.webp
 heading1: "Social"
 links1:
   - subheading: "Instagram"

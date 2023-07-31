@@ -1,7 +1,7 @@
 ---
 title: "SkinnerMedia"
 subtitle: The future of media...
-image: /img/media.jpg
+image: /img/media.webp
 socialimg: /img/skinner-media.png
 ---
 

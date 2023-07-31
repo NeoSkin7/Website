@@ -1,8 +1,8 @@
 ---
 title: "Images"
 subtitle: More information about the images on this site
-image: "/img/cell.jpg"
-socialimg: /img/cell.jpg
+image: "/img/cell.webp"
+socialimg: /img/cell.webp
 ---
 
 # Cover

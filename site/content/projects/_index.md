@@ -1,7 +1,7 @@
 ---
 title: "Projects"
-image: /img/projects.jpg
-socialimg: /img/projects.jpg
+image: /img/projects.webp
+socialimg: /img/projects.webp
 section1:
   heading: Maintained
   text: "These are the projects that are still regularly updated, unlike others..."

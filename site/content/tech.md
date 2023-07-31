@@ -1,8 +1,8 @@
 ---
 title: "Technologies"
 subtitle: What goes into this site?
-image: "/img/tech.jpg"
-socialimg: /img/tech.jpg
+image: "/img/tech.webp"
+socialimg: /img/tech.webp
 ---
 
 # How was this website created?
@@ -100,7 +100,6 @@ This website uses the following technologies:
 - Unpkg
 - Netlify
 - Cloudflare
-- Cloudinary
 
 ### CMS
 
@@ -113,6 +112,10 @@ This website uses the following technologies:
 ### Image Source
 
 - Pexels
+
+### Image Optimisation
+
+- ImageResizer
 
 ### Miscellaneous
 
