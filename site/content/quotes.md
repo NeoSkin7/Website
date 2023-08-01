@@ -1,6 +1,6 @@
 ---
 title: "Quotes"
-subtitle: WAs that me? Did I really say that?
+subtitle: Was that me? Did I really say that?
 image: "/img/cell.webp"
 socialimg: /img/cell.webp
 ---
