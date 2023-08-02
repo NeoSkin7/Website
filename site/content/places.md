@@ -11,4 +11,4 @@ socialimg: /img/tokelau.webp
 
 I've visited all manner of countries, here is a complete list:
 
-> Austria {{<emoji>}}🇦🇹{{</emoji>}}
+> Austria 🇦🇹
