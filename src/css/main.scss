@@ -102,6 +102,14 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "twemoji";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://neoski.tk/font/twemoji.woff2) format("woff2");
+  font-display: swap;
+}
+
 footer a.link {
   padding-bottom: 0.5em;
   display: block;
@@ -119,4 +127,8 @@ p {
 
 .tc {
   text-align: center;
+}
+
+.emoji {
+  font-family: "twemoji";
 }

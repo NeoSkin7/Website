@@ -29,7 +29,7 @@ These are all things that I have said or written at one point or another. You ca
 
 > Don’t worry if you don’t have a particle collider, we’ll do it theoretically.
 
-> A science book would be incomplete without a discus-sion of naming conventions and unfortunately for you, I love them!
+> A science book would be incomplete without a discussion of naming conventions and unfortunately for you, I love them!
 
 > Although it is a nice thought, sadly particles do not have feelings otherwise I’d have a queue of particles as large as the universe asking me why they exist. Not good.
 
@@ -39,7 +39,7 @@ These are all things that I have said or written at one point or another. You ca
 
 > [Upon Electromagnetism] Maxwell’s new interaction has a relative strength of 10<sup>36</sup>, that’s like your grandma (gravity) attempting to win a weightlifting competition against the strongest man in the world (electromagnetism)!
 
-> This was apparent in the early universe shortly after the Big Bang when the universe was only 10<sup>15</sup> K (roughly the same temperature in Celsius at this scale).
+> [An Example of the Absurdity of Temperature in the Early Universe] This was apparent in the early universe shortly after the 'big bang' when the universe was only 10<sup>15</sup> K (roughly the same temperature in celsius at this scale).
 
 > In a very similar fashion to people who step in to settle an argument and restore all world order, bosons prevent the worst from happening within the universe – that is the complete lack of law and order within the very prestigious quantum community.
 
@@ -65,7 +65,7 @@ These are all things that I have said or written at one point or another. You ca
 
 > All of physics is composed of approximations, who is to say that a thrown ball does not teleport to the other side of the world by way of a wormhole in an infinitely short amount of time before returning to its apparent position and continuing its Newtonian journey to rest?
 
-> Our understanding of the basic components of nature is founded upon continued approximations that cannot be proven in every possible situation – there is no lim(n→∞) for real life enabling us to rigorously prove every theory and law to an infinite degree.
+> Our understanding of the basic components of nature is founded upon continued approximations that cannot be proven in every possible situation – there is no lim<sub>n→∞</sub> for real life enabling us to rigorously prove every theory and law to an infinite degree.
 
 > I'm not the kind of person to provide basic answers to any question.
 
