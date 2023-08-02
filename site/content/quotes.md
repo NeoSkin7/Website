@@ -11,7 +11,7 @@ These are all things that I have said or written at one point or another. You ca
 
 > Ever wanted to know the mean life of an electron? Well now you can – it’s more than 66 octillion years!
 
-> [Linked to Above] Or how about the numerical value of Avogadro’s constant? That’s 6.022 140 76 × 1023 as defined by the BIPM.
+> [Linked to Above] Or how about the numerical value of Avogadro’s constant? That’s 6.022 140 76 × 10<sup>23</sup> as defined by the BIPM.
 
 > Knowledge is power and nobody can take that away from you.
 
@@ -19,13 +19,13 @@ These are all things that I have said or written at one point or another. You ca
 
 > [Upon Neo Skinner's Ramblings] There used to be a joke that all scientists had to be mad before they could start on something truly ground-breaking and maybe this is what has happened here…
 
-> In his seemingly mundane quest, Planck stumbled across a strange property of light. He found that, for his equations to work, light must be comprised of tiny packets almost like par-ticles.
+> In his seemingly mundane quest, Planck stumbled across a strange property of light. He found that, for his equations to work, light must be comprised of tiny packets almost like particles.
 
 > Wow, I really have spent a lot of time explaining how proportionality works!
 
 > One thing you must understand about science is that discoveries come in waves – not light or water waves, metaphorical waves representing the peaks of achievements.
 
-> Fermion is just a special word for “matter elementary particle.”
+> Fermion is just a special word for 'matter elementary particle.'
 
 > Don’t worry if you don’t have a particle collider, we’ll do it theoretically.
 
@@ -37,15 +37,17 @@ These are all things that I have said or written at one point or another. You ca
 
 > Flavour is a physics concept paralleled in consumerism; imagine for a moment that we were shopping – don’t go shopping with a physicist if you wish to keep your sanity – and I asked you what type of ice cream you wanted. You’d probably look at me blankly and say: “type, don’t you mean flavour?” And this in essence is flavour in particle physics, the type of particle.
 
-> [Upon Electromagnetism] Maxwell’s new interaction has a relative strength of 10^36, that’s like your grandma (gravity) attempting to win a weightlifting competition against the strongest man in the world(electromagnetism)!
+> [Upon Electromagnetism] Maxwell’s new interaction has a relative strength of 10<sup>36</sup>, that’s like your grandma (gravity) attempting to win a weightlifting competition against the strongest man in the world (electromagnetism)!
 
-> This was apparent in the early universe shortly after the Big Bang when the universe was only 10^15 K (roughly the same temperature in Celsius at this scale).
+> This was apparent in the early universe shortly after the Big Bang when the universe was only 10<sup>15</sup> K (roughly the same temperature in Celsius at this scale).
 
 > In a very similar fashion to people who step in to settle an argument and restore all world order, bosons prevent the worst from happening within the universe – that is the complete lack of law and order within the very prestigious quantum community.
 
 > Photons, as previously expressed, are remarkable things – we experience them every second of our lives as the bouncing balls that allow us to see, but light is a wave, is it not? How can particles come together like starlings to form a murmuration?
 
 > Since mesons are composed of one part matter and one part antimatter (yes, it appears I have branched out into recipe books too now) the interactions between the two particles define the properties of the meson.
+
+> [Upon the Double-Slit Experiment] An electron beam gun [...] would most definitely ionise your coffee.
 
 > Theoretical physics has a gaping hole somewhere between the fundamentals and the beginning of it all.
 
