@@ -134,3 +134,4 @@ This website uses the following technologies:
 
 - PWA
 - Open Graph
+- FreePrivacyPolicy.com
