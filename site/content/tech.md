@@ -80,15 +80,23 @@ This website uses the following technologies:
 
 ### Marketing Automation
 
-- Mailchimp
+- MailChimp
 
 ### JavaScript Libraries
 
 - MobX
+- Polyfill
+
+### Fonts
+
+- Cooper Black
+- ITC Souvenir Demi
+- Nunito Sans
 
 ### Font Scripts
 
 - Google Font API
+- Twitter Emoji (Twemoji)
 
 ### Email
 
@@ -99,7 +107,12 @@ This website uses the following technologies:
 - Amazon S3
 - Unpkg
 - Netlify
-- Cloudflare
+- jsDelivr
+
+### Analytics
+
+- Google Analytics
+- Microsoft Clarity
 
 ### CMS
 
