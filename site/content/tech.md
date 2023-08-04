@@ -76,7 +76,8 @@ This website uses the following technologies:
 
 ### Security
 
-- ReCAPTCHA
+- HSTS
+- reCAPTCHA
 
 ### Marketing Automation
 
