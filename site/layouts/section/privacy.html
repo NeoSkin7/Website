@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "title" "Privacy Policy" "subtitle" "Last updated: August 04, 2023") }}
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 <div class="pv4">
     <div class="cms ph3 mw7 center">
