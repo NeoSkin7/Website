@@ -1,6 +1,7 @@
 ---
 title: "SkinnerMedia"
 subtitle: The future of media...
+summary: SkinnerMedia is the media organisation of Neo Skinner and is the parent organisation for all of his projects. We aim to combine intelligent web design with insightful content to improve the knowledge of the general public.
 image: /img/media.webp
 socialimg: /img/skinner-media.png
 ---

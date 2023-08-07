@@ -1,5 +1,6 @@
 ---
 title: "Links"
+summary: I have way too many links... You can view them here!
 image: /img/links.webp
 socialimg: /img/links.webp
 heading1: "Social"

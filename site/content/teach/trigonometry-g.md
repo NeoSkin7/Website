@@ -2,6 +2,7 @@
 title: Trigonometric Functions Activity (GCSE)
 date: 2022-12-17T16:00:00.000Z
 description: An online trigonometric functions activity for GCSE students.
+summary: An online trigonometric functions activity for GCSE students.
 socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE Activities", "GCSE"]
 files:

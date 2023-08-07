@@ -1,6 +1,7 @@
 ---
 title: "Books"
 subtitle: What do I read?
+summary: Find out what books are on my shelf.
 image: "/img/about.webp"
 socialimg: /img/about.webp
 ---
@@ -12,8 +13,8 @@ socialimg: /img/about.webp
       <!-- Show static HTML/CSS as a placeholder in case js is not enabled - javascript include will override this if things work -->
       <style type="text/css" media="screen">
 
-.gr_custom_container_1691335011 {
-/_ customize your Goodreads widget container here_/
+.gr*custom_container_1691335011 {
+/* customize your Goodreads widget container here\_/
 border: 0px solid gray;
 border-radius:10px;
 padding: 10px 5px 10px 5px;
@@ -21,8 +22,8 @@ background-color: transparent;
 color: #FFFFFF;
 
 }
-.gr_custom_header_1691335011 {
-/_ customize your Goodreads header here_/
+.gr*custom_header_1691335011 {
+/* customize your Goodreads header here*/
 border-bottom: 1px solid gray;
 width: 100%;
 margin-bottom: 5px;
@@ -30,7 +31,7 @@ text-align: center;
 font-size: 120%
 }
 .gr_custom_each_container_1691335011 {
-/_ customize each individual book container here _/
+/* customize each individual book container here _/
 width: 100%;
 clear: both;
 margin-bottom: 10px;
@@ -56,7 +57,7 @@ font-size: 10px;
 color: gray;
 }
 .gr_custom_rating_1691335011 {
-/_ customize your rating stars here _/
+/_ customize your rating stars here \_/
 float: right;
 }
 </style>

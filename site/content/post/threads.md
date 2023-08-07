@@ -3,6 +3,7 @@ title: I’m Moving to Threads (And So Should You)
 date: 2023-07-30T08:00:00.000Z
 draft: "false"
 description: Threads burst onto the social media scene on the 5th of July this year and whilst it has certainly gained attention, is it a good platform and should you use it?
+summary: Threads burst onto the social media scene on the 5th of July this year and whilst it has certainly gained attention, is it a good platform and should you use it?
 image: /img/blog/30-07-23/threads_bg.png
 socialimg: /img/blog/30-07-23/threads_bg.png
 ---

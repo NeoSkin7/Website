@@ -1,6 +1,7 @@
 ---
 title: "Images"
 subtitle: More information about the images on this site
+summary: More information about the images on this site.
 image: "/img/cell.webp"
 socialimg: /img/cell.webp
 ---

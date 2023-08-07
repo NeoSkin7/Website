@@ -3,6 +3,7 @@ title: Welcome to my website!
 date: 2022-08-17T08:22:03.144Z
 draft: "false"
 description: My website has just launched and I'm excited to invite you along for the ride!
+summary: My website has just launched and I'm excited to invite you along for the ride!
 image: /img/blog.webp
 socialimg: /img/blog.webp
 ---

@@ -15,7 +15,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-	<meta name="description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
+	<meta name="description" content="{{ .Summary }}">
 	<meta name="robots" content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
 	<meta name="keywords" content="teach, learn, blog, neoski">
 	<meta name="language" content="English">
@@ -35,12 +35,12 @@
 	<meta name="application-name" content="NeoSki">
 	<meta name="msapplication-TileColor" content="#1d95f8">
 	<meta name="msapplication-TileImage" content="https://neoski.tk/img/favicon-32x32.png">
-	<meta name="theme-color" content="#000000">
+	<meta name="theme-color" content="#1d95f8">
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
-	<meta property="og:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
+	<meta property="og:description" content="{{ .Summary }}">
 	<meta property="og:url" content="https://neoski.tk{{ .Permalink }}">
 	<meta property="og:image" content="{{ .Params.socialimg }}">
 
@@ -48,7 +48,7 @@
 	<meta property="twitter:card" content="summary_large_image">
 	<meta property="twitter:url" content="https://neoski.tk{{ .Permalink }}">
 	<meta property="twitter:title" content="{{ .Title }} | {{ $.Site.Title }}">
-	<meta property="twitter:description" content="I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.">
+	<meta property="twitter:description" content="{{ .Summary }}">
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
 
 	<!-- MathJax -->

@@ -1,6 +1,7 @@
 ---
 title: "Places"
 subtitle: I've been across the globe...
+summary: "Find out where I've visited."
 image: "/img/tokelau.webp"
 socialimg: /img/tokelau.webp
 ---

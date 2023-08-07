@@ -2,6 +2,7 @@
 title: Graphical Circle Theorems (GCSE)
 date: 2022-12-17T16:00:00.000Z
 description: A graph of different circle theorems.
+summary: A graph of different circle theorems.
 socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE"]
 files:

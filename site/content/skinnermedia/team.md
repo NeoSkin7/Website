@@ -1,6 +1,7 @@
 ---
 title: "SkinnerMedia"
 subtitle: The Team
+summary: Find out who turns the cogs in the gearing system of SkinnerMedia.
 image: /img/team.webp
 socialimg: /img/team.webp
 ---

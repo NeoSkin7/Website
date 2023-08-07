@@ -1,6 +1,7 @@
 ---
 title: "Technologies"
 subtitle: What goes into this site?
+summary: Find out about the technology that goes into this website.
 image: "/img/tech.webp"
 socialimg: /img/tech.webp
 ---

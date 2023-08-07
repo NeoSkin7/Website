@@ -1,6 +1,7 @@
 ---
 title: "The Crofton"
 subtitle: SkinnerMedia's web-design branch
+summary: The Crofton is the web-design and development branch of SkinnerMedia and create all of their digital content including websites, social media posts and much much more.
 image: /img/server.webp
 socialimg: /img/crofton.png
 ---

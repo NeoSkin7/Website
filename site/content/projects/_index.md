@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+summary: I have many projects, many of which have not been that successful...
 image: /img/projects.webp
 socialimg: /img/projects.webp
 section1:

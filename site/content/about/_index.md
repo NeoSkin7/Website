@@ -2,6 +2,7 @@
 title: "About Me"
 subtitle: Who am I? Why am I here?
 type: about
+summary: I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.
 image: /img/about.webp
 socialimg: /img/about.webp
 heading: What I Do
