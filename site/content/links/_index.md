@@ -13,6 +13,9 @@ links1:
   - subheading: "YouTube"
     linkurl: https://link.neoski.tk/youtube
     imgurl: /img/youtube.svg
+  - subheading: "Tellonym"
+    linkurl: https://link.neoski.tk/tellonym
+    imgurl: /img/tellonym.svg
   - subheading: "Twitter"
     linkurl: https://link.neoski.tk/twitter
     imgurl: /img/twitter.svg
