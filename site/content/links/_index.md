@@ -93,4 +93,7 @@ links3:
   - subheading: "Microsoft Community"
     linkurl: https://link.neoski.tk/mscommunity
     imgurl: /img/microsoft.svg
+  - subheading: "Google Developer Profile"
+    linkurl: https://link.neoski.tk/g-dev
+    imgurl: /img/google.svg
 ---
