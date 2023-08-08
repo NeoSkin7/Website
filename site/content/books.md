@@ -13,6 +13,7 @@ socialimg: /img/about.webp
 <style type="text/css" media="screen">
         .gr_grid_container {
           /* customize grid container div here. eg: width: 500px; */
+          height: max-content;
         }
 
         .gr_grid_book_container {
@@ -47,12 +48,12 @@ socialimg: /img/about.webp
     <div class="gr_grid_book_container"><a title="The Science of Everyday Life: Why Teapots Dribble, Toast Burns and Light Bulbs Shine" rel="nofollow" href="https://www.goodreads.com/book/show/26702296-the-science-of-everyday-life"><img alt="The Science of Everyday Life: Why Teapots Dribble, Toast Burns and Light Bulbs Shine" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442644630l/26702296._SX98_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="What Does Rain Smell Like?" rel="nofollow" href="https://www.goodreads.com/book/show/52735280-what-does-rain-smell-like"><img alt="What Does Rain Smell Like?" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570900376l/52735280._SX98_SY160_.jpg" /></a></div>
     <div class="gr_grid_book_container"><a title="Quantum Physics in Minutes" rel="nofollow" href="https://www.goodreads.com/book/show/31934685-quantum-physics-in-minutes"><img alt="Quantum Physics in Minutes" border="0" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487828251l/31934685._SX98_.jpg" /></a></div>
-    <br style="clear: both"/><br/><br/>
+    <br style="clear: both"/><br/><a class="gr_grid_branding" style="font-size: .9em; color: #382110; text-decoration: none; float: right; clear: both" rel="nofollow" href="https://www.goodreads.com/user/show/98087436-neo-skinner">Neo Skinner's favorite books »</a>
   <noscript><br/>Share <a rel="nofollow" href="/">book reviews</a> and ratings with Neo, and even join a <a rel="nofollow" href="/group">book club</a> on Goodreads.</noscript>
   </div>
 
 </div>
-      <script src="https://www.goodreads.com/review/grid_widget/98087436.Neo's%20all%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=all&sort=author&widget_id=1691484762" type="text/javascript" charset="utf-8"></script>
+      <script src="https://www.goodreads.com/review/grid_widget/98087436.Neo's%20all%20book%20montage?cover_size=medium&hide_link=&hide_title=true&num_books=200&order=a&shelf=all&sort=author&widget_id=1691484762" type="text/javascript" charset="utf-8"></script>
 
 {{</rawhtml>}}
 
