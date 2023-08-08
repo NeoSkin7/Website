@@ -50,7 +50,7 @@ links1:
 heading2: "Projects"
 links2:
   - subheading: "Learn More About My Projects"
-    linkurl: ./projects/
+    linkurl: /projects/
     imgurl: /img/more.svg
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.tk/skinnerscience

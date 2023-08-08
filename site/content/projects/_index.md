@@ -22,7 +22,7 @@ section2:
 links2:
   - subheading: "LocalAreaRadio"
     linkurl: https://link.neoski.tk/localarearadio
-    imgurl: /img/lar.svg
+    imgurl: /img/lar-trans.svg
   - subheading: "LearnToCode"
     linkurl: https://link.neoski.tk/learntocode
     imgurl: /img/ltc.svg
