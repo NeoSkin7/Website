@@ -54,8 +54,11 @@ socialimg: /img/about.webp
 </div>
       <script src="https://www.goodreads.com/review/grid_widget/98087436.Neo's%20all%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=all&sort=author&widget_id=1691483752" type="text/javascript" charset="utf-8"></script>
 
+{{</rawhtml>}}
+
+{{<rawhtml>}}
+
 <center>
     <a rel="nofollow" href="https://link.neoski.tk/goodreads"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
   </center>
-
 {{</rawhtml>}}
