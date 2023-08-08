@@ -54,16 +54,7 @@ links2:
     imgurl: /img/more.svg
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.tk/skinnerscience
-    imgurl: https://d33wubrfki0l68.cloudfront.net/1a61139fa82443925c2c41e459157345218b8a5b/9d160/favicon.svg
-  - subheading: "LocalAreaRadio"
-    linkurl: https://link.neoski.tk/localarearadio
-    imgurl: https://d1fdloi71mui9q.cloudfront.net/NF601JaETuqJd5ISrHXb_8xzJzduraasoNPLe
-  - subheading: "LearnToCode"
-    linkurl: https://link.neoski.tk/learntocode
-    imgurl: https://learn-tocode.netlify.app/images/logo.svg
-  - subheading: "Skinner Technology Archive"
-    linkurl: https://link.neoski.tk/skinnertechnologyarchive
-    imgurl: https://raw.githubusercontent.com/NeoSkin7/STAWebsite/main/IMAGES/FAVICON.PNG
+    imgurl: /img/skinnerscience.svg
   - subheading: "Code Archive"
     linkurl: https://link.neoski.tk/code
     imgurl: /img/code.svg
