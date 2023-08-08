@@ -78,6 +78,9 @@ links3:
   - subheading: "Last.fm"
     linkurl: https://link.neoski.tk/lastfm
     imgurl: /img/lastfm.svg
+  - subheading: "Linkedin"
+    linkurl: https://link.neoski.tk/linkedin
+    imgurl: /img/linkedin.svg
   - subheading: "Internet Archive"
     linkurl: https://link.neoski.tk/internetarchive
     imgurl: /img/ia.svg
