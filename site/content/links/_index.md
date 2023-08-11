@@ -52,6 +52,9 @@ links2:
   - subheading: "Learn More About My Projects"
     linkurl: /projects/
     imgurl: /img/more.svg
+  - subheading: "Mathstrolabe"
+    linkurl: https://link.neoski.tk/mathstrolabe
+    imgurl: /img/mathstrolabe.svg
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.tk/skinnerscience
     imgurl: /img/skinnerscience.svg

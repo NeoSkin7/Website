@@ -7,6 +7,9 @@ section1:
   heading: Maintained
   text: "These are the projects that are still regularly updated, unlike others..."
 links1:
+  - subheading: "Mathstrolabe"
+    linkurl: https://link.neoski.tk/mathstrolabe
+    imgurl: /img/mathstrolabe.svg
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.tk/skinnerscience
     imgurl: /img/skinnerscience.svg
