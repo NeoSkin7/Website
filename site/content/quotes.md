@@ -72,6 +72,8 @@ These are all things that I have said or written at one point or another. You ca
 
 > Digital media is a staple of the modern world and, with almost everyone in the developed world with access to the internet, it is a pivotal tool in the transfer of ideas and information.
 
+> There are all manner of different ways in which an unstable atom can decay; from electromagnetic radiation, lighter nuclei, and even neutrinos, nothing is seemingly safe from the unstable nucleus' rampage against itself.
+
 > The universe is a deeply unusual thing.
 
 > Is mathematics truth or an elaborate figment of our imagination?
