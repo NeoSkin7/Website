@@ -6,6 +6,9 @@
   & h4,
   & h5,
   & h6 {
+    font-family: "cooper-black";
+    text-transform: uppercase;
+    text-align: left;
     font-weight: var(--bold-font-weight);
     line-height: 1.25;
     margin-bottom: var(--spacing-small);
@@ -88,7 +91,6 @@
     counter-reset: i 0;
     & > li:before {
       font-weight: 800;
-      left: var(--spacing-medium);
       margin-right: 1.33rem;
       position: relative;
       height: 100%;

@@ -42,7 +42,7 @@ You can follow me on Threads below and I look forward to seeing you there!
 
 {{<rawhtml>}}
 
-<div class="tc">
+<div class="tc ma3">
 <a href="https://link.neoski.tk/threads" class="btn raise">Follow Me!</a>
 </div>
 {{</rawhtml>}}

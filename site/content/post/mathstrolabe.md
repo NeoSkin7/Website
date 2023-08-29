@@ -30,7 +30,7 @@ I am hard at work upon a selection of custom-made GCSE ‘hard’ papers that ai
 
 {{<rawhtml>}}
 
-<div class="tc">
+<div class="tc ma3">
 <a href="https://maths.neoski.tk/contact/" class="btn raise">Get Access!</a>
 </div>
 {{</rawhtml>}}
@@ -57,7 +57,7 @@ Finally, if anyone would like to join the voluntary team and help to shape and d
 
 {{<rawhtml>}}
 
-<div class="tc">
+<div class="tc ma3">
 <a href="https://maths.neoski.tk" class="btn raise">Start Exploring</a>
 </div>
 {{</rawhtml>}}
