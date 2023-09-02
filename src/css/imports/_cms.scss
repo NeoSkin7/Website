@@ -51,6 +51,10 @@
       background-color: var(--highlight);
       color: var(--white);
     }
+    &.no-color:hover {
+      background-color: var(--grey-1);
+      color: var(--primary);
+    }
   }
 
   .btn:hover {
