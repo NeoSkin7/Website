@@ -23,31 +23,31 @@
 	<meta name="author" content="Neo Skinner">
 	<meta name="copyright" content="Copyright Neo Skinner and SkinnerMedia 2022-{{ now.Format " 2006" }}. All Rights Reserved.">
 	<link type="text/plain" rel="author" href="/humans.txt" />
-	<link rel="canonical" href="https://neoski.tk{{ .Permalink }}">
+	<link rel="canonical" href="https://neoski.netlify.app{{ .Permalink }}">
 
 	<!-- Favicons -->
-	<link rel="apple-touch-icon" sizes="180x180" href="https://neoski.tk/img/apple-touch-icon.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://neoski.tk/img/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="192x192" href="https://neoski.tk/img/android-chrome-192x192.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://neoski.tk/img/favicon-16x16.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://neoski.netlify.app/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="https://neoski.netlify.app/img/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="192x192" href="https://neoski.netlify.app/img/android-chrome-192x192.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://neoski.netlify.app/img/favicon-16x16.png">
 	<link rel="manifest" href="/manifest.json">
-	<link rel="shortcut icon" href="https://neoski.tk/img/favicon.ico?v=2">
+	<link rel="shortcut icon" href="https://neoski.netlify.app/img/favicon.ico?v=2">
 	<meta name="apple-mobile-web-app-title" content="NeoSki">
 	<meta name="application-name" content="NeoSki">
 	<meta name="msapplication-TileColor" content="#1d95f8">
-	<meta name="msapplication-TileImage" content="https://neoski.tk/img/favicon-32x32.png">
+	<meta name="msapplication-TileImage" content="https://neoski.netlify.app/img/favicon-32x32.png">
 	<meta name="theme-color" content="#1d95f8">
 
 	<!-- Open Graph -->
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="og:description" content="{{ .Summary }}">
-	<meta property="og:url" content="https://neoski.tk{{ .Permalink }}">
+	<meta property="og:url" content="https://neoski.netlify.app{{ .Permalink }}">
 	<meta property="og:image" content="{{ .Params.socialimg }}">
 
 	<!-- Twitter -->
 	<meta property="twitter:card" content="summary_large_image">
-	<meta property="twitter:url" content="https://neoski.tk{{ .Permalink }}">
+	<meta property="twitter:url" content="https://neoski.netlify.app{{ .Permalink }}">
 	<meta property="twitter:title" content="{{ .Title }} | {{ $.Site.Title }}">
 	<meta property="twitter:description" content="{{ .Summary }}">
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
@@ -62,13 +62,13 @@
 	{{ end }}
 
 	<!-- Twemoji -->
-	<script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
+	<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
 
 	<!-- Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
 	<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
 	<script type="text/javascript" charset="UTF-8">
 		document.addEventListener('DOMContentLoaded', function () {
-			cookieconsent.run({ "notice_banner_type": "interstitial", "consent_type": "express", "palette": "dark", "language": "en", "page_load_consent_levels": ["strictly-necessary"], "notice_banner_reject_button_hide": false, "preferences_center_close_button_hide": false, "page_refresh_confirmation_buttons": false, "website_privacy_policy_url": "https://neoski.tk/privacy", "website_name": "NeoSki" });
+			cookieconsent.run({ "notice_banner_type": "interstitial", "consent_type": "express", "palette": "dark", "language": "en", "page_load_consent_levels": ["strictly-necessary"], "notice_banner_reject_button_hide": false, "preferences_center_close_button_hide": false, "page_refresh_confirmation_buttons": false, "website_privacy_policy_url": "https://neoski.netlify.app/privacy", "website_name": "NeoSki" });
 		});
 	</script>
 

@@ -12,6 +12,8 @@ socialimg: /img/tokelau.webp
 
 I've visited all manner of countries, here is a complete list:
 
+> Albania 🇦🇱
+
 > Austria 🇦🇹
 
 > Belgium 🇧🇪
@@ -41,6 +43,8 @@ I've visited all manner of countries, here is a complete list:
 > Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 > Spain 🇪🇸
+
+> Sri Lanka 🇱🇰
 
 > United States of America 🇺🇸
 
