@@ -5224,7 +5224,7 @@ rw@^1.3.3:
   version "1.3.3"
   resolved "https://registry.npmjs.org/rw/-/rw-1.3.3.tgz"
 
-safe-buffer@^5.1.0, safe-buffer@~5.1.0:
+safe-buffer@^5.1.0:
   version "5.1.2"
   resolved "https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.1.2.tgz"
 
@@ -5684,10 +5684,6 @@ type-of@^2.0.1:
   version "2.0.1"
   resolved "https://registry.npmjs.org/type-of/-/type-of-2.0.1.tgz"
 
-ultron@~1.1.0:
-  version "1.1.1"
-  resolved "https://registry.npmjs.org/ultron/-/ultron-1.1.1.tgz"
-
 unbox-primitive@^1.0.2:
   version "1.0.2"
   resolved "https://registry.npmjs.org/unbox-primitive/-/unbox-primitive-1.0.2.tgz"
@@ -6043,13 +6039,11 @@ wildcard@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npmjs.org/wildcard/-/wildcard-2.0.0.tgz"
 
-ws@3.3.2:
-  version "3.3.2"
-  resolved "https://registry.npmjs.org/ws/-/ws-3.3.2.tgz"
+ws@5.2.4:
+  version "5.2.4"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-5.2.4.tgz#c7bea9f1cfb5f410de50e70e82662e562113f9a7"
   dependencies:
     async-limiter "~1.0.0"
-    safe-buffer "~5.1.0"
-    ultron "~1.1.0"
 
 x-is-string@^0.1.0:
   version "0.1.0"
