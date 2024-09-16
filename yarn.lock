@@ -2379,8 +2379,8 @@ domhandler@^4.0.0, domhandler@^4.2.0, domhandler@^4.3.1:
     domelementtype "^2.2.0"
 
 dompurify@^2.2.6:
-  version "2.4.1"
-  resolved "https://registry.npmjs.org/dompurify/-/dompurify-2.4.1.tgz"
+  version "2.5.6"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.5.6.tgz#8402b501611eaa7fb3786072297fcbe2787f8592"
 
 domutils@^2.5.2, domutils@^2.8.0:
   version "2.8.0"
