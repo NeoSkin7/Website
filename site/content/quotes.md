@@ -2,8 +2,8 @@
 title: "Quotes"
 subtitle: Was that me? Did I really say that?
 summary: A list of some of my more interesting phrases and notions for your referencing pleasure.
-image: "/img/cell.webp"
-socialimg: /img/cell.webp
+image: "/img/refuel.webp"
+socialimg: /img/refuel.webp
 ---
 
 # Quotations for Your Reference Pleasure

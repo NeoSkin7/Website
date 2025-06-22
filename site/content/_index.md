@@ -2,7 +2,7 @@
 title: "That guy on the internet."
 subtitle: “Life would be tragic if it weren't funny.” ― Stephen Hawking
 summary: I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.
-image: /img/cell.webp
+image: /img/refuel.webp
 socialimg: /img/about-bottom.webp
 blurb:
   heading: Hello!

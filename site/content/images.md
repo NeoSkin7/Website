@@ -2,13 +2,13 @@
 title: "Images"
 subtitle: More information about the images on this site
 summary: More information about the images on this site.
-image: "/img/cell.webp"
-socialimg: /img/cell.webp
+image: "/img/refuel.webp"
+socialimg: /img/refuel.webp
 ---
 
 # Cover
 
-The current cover image is "Cell Seen Under Microscope" by Fayette Reynolds M.S., it can be viewed [here](https://www.pexels.com/photo/cell-seen-under-microscope-11198494/).
+The current cover image is "Beautiful refueling" by Genevieve Martin, it can be viewed [here](https://www.flickr.com/photos/oakridgelab/34300813941/).
 
 # Blog
 
