@@ -32,9 +32,9 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Content Delivery Network (CDN)
 
 - Amazon S3
-- Unpkg
-- Netlify
 - jsDelivr
+- Netlify
+- Unpkg
 
 ### Content Management System (CMS)
 
@@ -42,8 +42,8 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 #### CMS Plugins
 
-- Lighthouse
 - Inline Source
+- Lighthouse
 - Minify HTML
 - Sitemap
 - Submit Sitemap
@@ -85,8 +85,8 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### Languages
 
-- HTML 5.0
 - CSS 3.0
+- HTML 5.0
 - JavaScript
 
 #### CSS Extensions
@@ -96,10 +96,10 @@ In probably the worst alphabetical order you will ever see, this website uses th
 #### JavaScript Frameworks
 
 - Emotion
-- React
-- PostCSS
-- Workbox
 - MathJax
+- PostCSS
+- React
+- Workbox
 
 ### JavaScript Libraries
 
@@ -121,8 +121,8 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### PaaS
 
-- Netlify
 - Amazon Web Services
+- Netlify
 
 ### Package Manager
 
@@ -131,8 +131,8 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Security
 
 - HSTS
-- reCAPTCHA
 - Let's Encrypt
+- reCAPTCHA
 
 ### Static Site Generator
 
