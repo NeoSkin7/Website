@@ -2,6 +2,10 @@
 	<!-- Title -->
 	<title>{{ .Title }} | {{ $.Site.Title }}</title>
 
+	<!-- Preconnects -->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+
 	<!-- Stylesheet -->
 	{{ $stylesheet := .Site.Data.webpack.main }}
 	{{ with $stylesheet.css }}
@@ -53,20 +57,20 @@
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
 
 	<!-- MathJax -->
-	<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0	"></script>
-	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	<script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?version=4.8.0	" async></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" defer></script>
 
 	<!-- Netlify Identity -->
 	{{ if .IsHome }}
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
 	{{ end }}
 
 	<!-- Twemoji -->
-	<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
+	<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous" defer></script>
 
 	<!-- Cookie Consent -->
 	<!-- Google Analytics -->
-	<script type="text/javascript" data-cookie-consent="tracking-on" async src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ"></script>
+	<script type="text/javascript" data-cookie-consent="tracking-on" src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ" async></script>
 	<script type="text/javascript" data-cookie-consent="tracking-on">
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
@@ -92,7 +96,7 @@
 
 	<!-- Consent Manager -->
 	<link rel="stylesheet" id="silktide-consent-manager-css" href="/cookie-consent/silktide-consent-manager.css">
-	<script src="/cookie-consent/silktide-consent-manager.js"></script>
+	<script src="/cookie-consent/silktide-consent-manager.js" async></script>
 	<script>
 		silktideCookieBannerManager.updateCookieBannerConfig({
 			background: {
