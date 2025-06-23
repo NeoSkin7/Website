@@ -99,75 +99,77 @@
 
 	<!-- Consent Manager -->
 	<link rel="stylesheet" id="silktide-consent-manager-css" href="/cookie-consent/silktide-consent-manager.css">
-	<script src="/cookie-consent/silktide-consent-manager.js"></script>
+	<script src="/cookie-consent/silktide-consent-manager.js" async></script>
 	<script>
-		silktideCookieBannerManager.updateCookieBannerConfig({
-			background: {
-				showBackground: false
-			},
-			cookieIcon: {
-				position: "bottomLeft"
-			},
-			cookieTypes: [
-				{
-					id: "necessary",
-					name: "Necessary",
-					description: "<p>These cookies are necessary for the website to function properly and cannot be switched off. They help with things like logging in and setting your privacy preferences.</p>",
-					required: true,
-					onAccept: function () {
-						console.log("Necessary cookies accepted");
-					}
+		window.onload = function () {
+			silktideCookieBannerManager.updateCookieBannerConfig({
+				background: {
+					showBackground: false
 				},
-				{
-					id: "analytical",
-					name: "Analytical",
-					description: "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
-					required: false,
-					onAccept: function () {
-						console.log("Analytical cookies accepted");
-						const cookieElement = document.querySelector('[data-cookie-consent="tracking-off"]');
-						if (cookieElement) {
-							cookieElement.type = "text/javascript";
-							console.log("Analytical cookies enabled");
-						} else {
-							console.error("ERROR Analytical cookies not found");
-						};
-						gtag('consent', 'update', {
-							'ad_user_data': 'granted',
-							'ad_personalization': 'granted',
-							'ad_storage': 'granted',
-							'analytics_storage': 'granted'
-						});
-						dataLayer.push({
-							'event': 'consent_accepted_analytical',
-						});
+				cookieIcon: {
+					position: "bottomLeft"
+				},
+				cookieTypes: [
+					{
+						id: "necessary",
+						name: "Necessary",
+						description: "<p>These cookies are necessary for the website to function properly and cannot be switched off. They help with things like logging in and setting your privacy preferences.</p>",
+						required: true,
+						onAccept: function () {
+							console.log("Necessary cookies accepted");
+						}
 					},
-					onReject: function () {
-						console.log("Analytical cookies rejected");
+					{
+						id: "analytical",
+						name: "Analytical",
+						description: "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
+						required: false,
+						onAccept: function () {
+							console.log("Analytical cookies accepted");
+							const cookieElement = document.querySelector('[data-cookie-consent="tracking-off"]');
+							if (cookieElement) {
+								cookieElement.type = "text/javascript";
+								console.log("Analytical cookies enabled");
+							} else {
+								console.error("ERROR Analytical cookies not found");
+							};
+							gtag('consent', 'update', {
+								'ad_user_data': 'granted',
+								'ad_personalization': 'granted',
+								'ad_storage': 'granted',
+								'analytics_storage': 'granted'
+							});
+							dataLayer.push({
+								'event': 'consent_accepted_analytical',
+							});
+						},
+						onReject: function () {
+							console.log("Analytical cookies rejected");
+						}
 					}
-				}
-			],
-			text: {
-				banner: {
-					description: "<p>Cookies are used on this site to enhance your user experience and analyze traffic. We are transparent about the cookies we use and you can change your preferences at any point during your browsing experience. For more information, please view our <a href=\"https://neoski.uk/privacy/\">Privacy Policy</a>.</p>",
-					acceptAllButtonText: "Accept all",
-					acceptAllButtonAccessibleLabel: "Accept all cookies",
-					rejectNonEssentialButtonText: "Reject non-essential",
-					rejectNonEssentialButtonAccessibleLabel: "Reject non-essential",
-					preferencesButtonText: "Preferences",
-					preferencesButtonAccessibleLabel: "Toggle preferences"
+				],
+				text: {
+					banner: {
+						description: "<p>Cookies are used on this site to enhance your user experience and analyze traffic. We are transparent about the cookies we use and you can change your preferences at any point during your browsing experience. For more information, please view our <a href=\"https://neoski.uk/privacy/\">Privacy Policy</a>.</p>",
+						acceptAllButtonText: "Accept all",
+						acceptAllButtonAccessibleLabel: "Accept all cookies",
+						rejectNonEssentialButtonText: "Reject non-essential",
+						rejectNonEssentialButtonAccessibleLabel: "Reject non-essential",
+						preferencesButtonText: "Preferences",
+						preferencesButtonAccessibleLabel: "Toggle preferences"
+					},
+					preferences: {
+						title: "Customize your cookie preferences",
+						description: "<p>We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
+						creditLinkText: "Consent by Silktide",
+						creditLinkAccessibleLabel: "Cookie consent provided by Silktide"
+					}
 				},
-				preferences: {
-					title: "Customize your cookie preferences",
-					description: "<p>We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
-					creditLinkText: "Consent by Silktide",
-					creditLinkAccessibleLabel: "Cookie consent provided by Silktide"
+				position: {
+					banner: "bottomCenter"
 				}
-			},
-			position: {
-				banner: "bottomCenter"
-			}
-		});
+			});
+		};
 	</script>
 	<!-- end of Consent Manager -->
 	<!-- end of Cookie Consent -->
