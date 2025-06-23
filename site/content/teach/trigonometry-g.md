@@ -7,7 +7,7 @@ socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE Activities", "GCSE"]
 files:
   - subheading: Trigonometry Activity (GeoGebra)
-    fileurl: https://link.neoski.tk/trig-g
+    fileurl: https://link.neoski.uk/trig-g
 ---
 
 Trigonometry is a topic that comes up again and again within GCSE exams, so here's an additional activity to aid in teaching, it can be assigned as homework or done within class, whatever suits you!

@@ -10,7 +10,7 @@ socialimg: /img/blog.webp
 
 # Hello!
 
-My brand new website has just launched! You can view it [here](https://neoski.tk).
+My brand new website has just launched! You can view it [here](https://neoski.uk).
 
 ## Content
 
@@ -20,11 +20,11 @@ A frequent theme on this site will be London as I plan to guide you through the 
 
 ### L﻿inks
 
-- [Home](https://neoski.tk/)
-- [Blog](https://neoski.tk/post)
-- [Teaching Resources](https://neoski.tk/teach)
-- [Links](https://neoski.tk/links)
-- [Contact Me](https://neoski.tk/contact)
-- [About Me](https://neoski.tk/about)
+- [Home](https://neoski.uk/)
+- [Blog](https://neoski.uk/post)
+- [Teaching Resources](https://neoski.uk/teach)
+- [Links](https://neoski.uk/links)
+- [Contact Me](https://neoski.uk/contact)
+- [About Me](https://neoski.uk/about)
 
 **Great things are coming soon - are you ready for the adventure?**

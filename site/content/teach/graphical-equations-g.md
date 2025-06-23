@@ -7,7 +7,7 @@ socialimg: /img/teach.jpg
 tags: ["Mathematics", "GCSE"]
 files:
   - subheading: Graphical Equations (GeoGebra)
-    fileurl: https://link.neoski.tk/graphical-equations-g
+    fileurl: https://link.neoski.uk/graphical-equations-g
 ---
 
 Equations are a complex subjects with many different variations so understanding their graphs is a step to success. Luckily for you, I have made a graph of exactly that!

@@ -56,6 +56,8 @@ I've visited all manner of countries, here is a complete list:
 
 There have been a few on my travels, so here they are too!
 
+> Adam's Peak 🇱🇰
+
 > Volcán Atitlán 🇬🇹
 
 > Volcán Barú 🇵🇦

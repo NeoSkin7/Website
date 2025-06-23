@@ -7,7 +7,7 @@ socialimg: /img/teach.jpg
 tags: ["Physics", "Quantum Physics", "GCSE"]
 files:
   - subheading: Quantum Timeline (Genially)
-    fileurl: https://link.neoski.tk/quantum-timeline
+    fileurl: https://link.neoski.uk/quantum-timeline
 ---
 
 Quantum physics is a fascinating topic of study - so why not interest your GCSE students by using this timeline to show how what they learn at GCSE is important!

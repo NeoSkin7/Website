@@ -10,7 +10,7 @@ socialimg: /img/team.webp
 
 ![Neo Skinner](/img/neo.jpg)
 
-Neo Skinner is the organisation founder and director and, as such, has the final say in decisions - after listening to his team first, of course. You can find out more about him [here](https://neoski.tk/about/).
+Neo Skinner is the organisation founder and director and, as such, has the final say in decisions - after listening to his team first, of course. You can find out more about him [here](https://neoski.uk/about/).
 
 # Tyler Rocha, The Resident Evil Genius
 

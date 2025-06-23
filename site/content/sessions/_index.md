@@ -23,7 +23,7 @@ To join sessions and find out more about the programme, please join the programm
 {{< rawhtml >}}
 
 <div class="tc">
-    <a href="https://link.neoski.tk/sessions" class="btn raise">Join the Google Classroom</a>
+    <a href="https://link.neoski.uk/sessions" class="btn raise">Join the Google Classroom</a>
 </div>
 <br>
 {{< /rawhtml >}}

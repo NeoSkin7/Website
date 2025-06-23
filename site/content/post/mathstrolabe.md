@@ -31,7 +31,7 @@ I am hard at work upon a selection of custom-made GCSE ‘hard’ papers that ai
 {{<rawhtml>}}
 
 <div class="tc ma3">
-<a href="https://maths.neoski.tk/contact/" class="btn raise">Get Access!</a>
+<a href="https://maths.neoski.uk/contact/" class="btn raise">Get Access!</a>
 </div>
 {{</rawhtml>}}
 
@@ -49,7 +49,7 @@ In the future, you can expect pages detailing revision advice, exam preparation,
 
 ## The Current State of Affairs
 
-Currently, the website is available at [maths.neoski.tk](http://maths.neoski.tk) or at the button below and has been optimised for desktop only, although you can expect a mobile version to be made available soon. As always with initial launches, this is still a ‘work in progress’ and it is highly likely that things may not always work as expected or be available, please let me know your thoughts via the contact page if there is anything you would like to see added or anything you think could be changed - I’m always open to suggestions!
+Currently, the website is available at [maths.neoski.uk](http://maths.neoski.uk) or at the button below and has been optimised for desktop only, although you can expect a mobile version to be made available soon. As always with initial launches, this is still a ‘work in progress’ and it is highly likely that things may not always work as expected or be available, please let me know your thoughts via the contact page if there is anything you would like to see added or anything you think could be changed - I’m always open to suggestions!
 
 Finally, if anyone would like to join the voluntary team and help to shape and develop the website, please contact me on the contact page and I’ll be more than happy to welcome you onto the team!
 
@@ -58,7 +58,7 @@ Finally, if anyone would like to join the voluntary team and help to shape and d
 {{<rawhtml>}}
 
 <div class="tc ma3">
-<a href="https://maths.neoski.tk" class="btn raise">Start Exploring</a>
+<a href="https://maths.neoski.uk" class="btn raise">Start Exploring</a>
 </div>
 {{</rawhtml>}}
 

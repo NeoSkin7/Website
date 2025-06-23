@@ -61,6 +61,6 @@ socialimg: /img/about.webp
 <br>
 
 <center>
-    <a rel="nofollow" href="https://link.neoski.tk/goodreads"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
+    <a rel="nofollow" href="https://link.neoski.uk/goodreads"><img alt="goodreads.com" style="border:0" src="https://s.gr-assets.com/images/widget/widget_logo.gif" /></a>
   </center>
 {{</rawhtml>}}
