@@ -85,6 +85,10 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@use './imports/_debug';*/
 
+:root {
+  color-scheme: dark;
+}
+
 /* Fonts */
 @font-face {
   font-family: "itc-souvenir-demi";
