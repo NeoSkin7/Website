@@ -94,6 +94,8 @@
   border-radius: 5px;
 }
 
+#silktide-wrapper .st-button--primary {}
+
 #silktide-wrapper .st-button--primary:hover {
   background-color: var(--backgroundColor);
   color: var(--primaryColor);
@@ -366,12 +368,6 @@
   height: 34px;
   width: 74px;
   cursor: pointer;
-  background-color: transparent;
-  line-height: inherit;
-  opacity: 1;
-  padding: inherit;
-  pointer-events: inherit;
-
 }
 
 #silktide-modal .switch:focus-within {
