@@ -91,20 +91,20 @@
 					description: "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
 					required: false,
 					onAccept: function () {
-						gtag('consent', 'update', {
-							analytics_storage: 'granted',
-						});
-						dataLayer.push({
-							'event': 'consent_accepted_analytical',
-						});
-						console.log("Analytical cookies accepted")
+						console.log("Analytical cookies accepted");
 						const scriptElement = document.querySelector('[data-cookie-consent="tracking"]');
 						if (scriptElement) {
 							scriptElement.type = "text/javascript";
 							console.log("Analytical cookies enabled");
 						} else {
 							console.error("ERROR Analytical cookies not found");
-						}
+						};
+						gtag('consent', 'update', {
+							analytics_storage: 'granted',
+						});
+						dataLayer.push({
+							'event': 'consent_accepted_analytical',
+						});
 					},
 					onReject: function () {
 						gtag('consent', 'update', {
@@ -139,12 +139,12 @@
 	<!-- Google Analytics -->
 	<script type="text/plain" data-cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ"></script>
 	<script type="text/plain" data-cookie-consent="tracking">
-			window.dataLayer = window.dataLayer || [];
-			function gtag() { dataLayer.push(arguments); }
-			gtag('js', new Date());
-	
-			gtag('config', 'G-EMF804TXLZ');
-		</script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'G-EMF804TXLZ');
+	</script>
 	<!-- end of Google Analytics-->
 
 	<!-- Microsoft Clarity -->
