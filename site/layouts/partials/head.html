@@ -64,11 +64,75 @@
 	<!-- Twemoji -->
 	<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous"></script>
 
-	<!-- Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
-	<script type="text/javascript" src="//www.freeprivacypolicy.com/public/cookie-consent/4.1.0/cookie-consent.js" charset="UTF-8"></script>
-	<script type="text/javascript" charset="UTF-8">
-		document.addEventListener('DOMContentLoaded', function () {
-			cookieconsent.run({ "notice_banner_type": "interstitial", "consent_type": "express", "palette": "dark", "language": "en", "page_load_consent_levels": ["strictly-necessary"], "notice_banner_reject_button_hide": false, "preferences_center_close_button_hide": false, "page_refresh_confirmation_buttons": false, "website_privacy_policy_url": "https://neoski.uk/privacy", "website_name": "NeoSki" });
+	<!-- Cookie Consent -->
+	<link rel="stylesheet" id="silktide-consent-manager-css" href="/cookie-consent/silktide-consent-manager.css">
+	<script src="/cookie-consent/silktide-consent-manager.js"></script>
+	<script>
+		silktideCookieBannerManager.updateCookieBannerConfig({
+			background: {
+				showBackground: false
+			},
+			cookieIcon: {
+				position: "bottomLeft"
+			},
+			cookieTypes: [
+				{
+					id: "necessary",
+					name: "Necessary",
+					description: "<p>These cookies are necessary for the website to function properly and cannot be switched off. They help with things like logging in and setting your privacy preferences.</p>",
+					required: true,
+					onAccept: function () {
+						console.log("Necessary cookies accepted");
+					}
+				},
+				{
+					id: "analytical",
+					name: "Analytical",
+					description: "<p>These cookies help us improve the site by tracking which pages are most popular and how visitors move around the site.</p>",
+					required: false,
+					onAccept: function () {
+						gtag('consent', 'update', {
+							analytics_storage: 'granted',
+						});
+						dataLayer.push({
+							'event': 'consent_accepted_analytical',
+						});
+						console.log("Analytical cookies accepted")
+						const scriptElement = document.querySelector('[data-cookie-consent="tracking"]');
+						if (scriptElement) {
+							scriptElement.type = "text/javascript";
+							console.log("Analytical cookies enabled");
+						} else {
+							console.error("ERROR Analytical cookies not found");
+						}
+					},
+					onReject: function () {
+						gtag('consent', 'update', {
+							analytics_storage: 'denied',
+						});
+					}
+				}
+			],
+			text: {
+				banner: {
+					description: "<p>Cookies are used on this site to enhance your user experience and analyze traffic. We are transparent about the cookies we use and you can change your preferences at any point during your browsing experience. For more information, please view our <a href=\"https://neoski.uk/privacy/\">Privacy Policy</a>.</p>",
+					acceptAllButtonText: "Accept all",
+					acceptAllButtonAccessibleLabel: "Accept all cookies",
+					rejectNonEssentialButtonText: "Reject non-essential",
+					rejectNonEssentialButtonAccessibleLabel: "Reject non-essential",
+					preferencesButtonText: "Preferences",
+					preferencesButtonAccessibleLabel: "Toggle preferences"
+				},
+				preferences: {
+					title: "Customize your cookie preferences",
+					description: "<p><span style=\"font-size: 1rem; letter-spacing: 0.02rem;\">We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</span></p>",
+					creditLinkText: "Consent by Silktide",
+					creditLinkAccessibleLabel: "Cookie consent provided by Silktide"
+				}
+			},
+			position: {
+				banner: "bottomCenter"
+			}
 		});
 	</script>
 
@@ -92,8 +156,6 @@
 			})(window, document, "clarity", "script", "i9x2jzu2l7");
 		</script>
 	<!-- end of Microsoft Clarity-->
-
-	<noscript>Cookie Consent by <a href="https://www.freeprivacypolicy.com/">Free Privacy Policy Generator</a></noscript>
-	<!-- End Cookie Consent by FreePrivacyPolicy.com https://www.FreePrivacyPolicy.com -->
+	<!-- end of Cookie Consent -->
 
 </head>

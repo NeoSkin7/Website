@@ -1,4 +1,4 @@
 ---
 title: "Privacy Policy"
-subtitle: "Last updated: August 04, 2023"
+subtitle: "Last updated: 23 July 2025"
 ---

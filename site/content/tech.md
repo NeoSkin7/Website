@@ -101,7 +101,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - React
 - Workbox
 
-### JavaScript Libraries
+#### JavaScript Libraries
 
 - Emotion
 - MobX
