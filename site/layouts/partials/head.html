@@ -78,8 +78,11 @@
 
 		gtag('config', 'G-EMF804TXLZ');
 
-		gtag('consent', 'update', {
-			analytics_storage: 'denied',
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'ad_user_data': 'denied',
+			'ad_personalization': 'denied',
+			'analytics_storage': 'denied'
 		});
 	</script>
 	<!-- end of Google Analytics-->
@@ -130,16 +133,17 @@
 							console.error("ERROR Analytical cookies not found");
 						};
 						gtag('consent', 'update', {
-							analytics_storage: 'granted',
+							'ad_user_data': 'granted',
+							'ad_personalization': 'granted',
+							'ad_storage': 'granted',
+							'analytics_storage': 'granted'
 						});
 						dataLayer.push({
 							'event': 'consent_accepted_analytical',
 						});
 					},
 					onReject: function () {
-						gtag('consent', 'update', {
-							analytics_storage: 'denied',
-						});
+						console.log("Analytical cookies rejected");
 					}
 				}
 			],
@@ -155,7 +159,7 @@
 				},
 				preferences: {
 					title: "Customize your cookie preferences",
-					description: "<p><span style=\"font-size: 1rem; letter-spacing: 0.02rem;\">We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</span></p>",
+					description: "<p>We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
 					creditLinkText: "Consent by Silktide",
 					creditLinkAccessibleLabel: "Cookie consent provided by Silktide"
 				}

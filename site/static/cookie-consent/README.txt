@@ -46,7 +46,7 @@ silktideCookieBannerManager.updateCookieBannerConfig({
   ],
   text: {
     banner: {
-      description: "<p>Cookies are used on this site to enhance your user experience and analyze traffic. We are transparent about the cookies we use and you can change your preferences at any point during your browsing experience. For more information, please view our <a href=\"https://neoski.uk/privacy/\">Privacy Policy</a>.</p>",
+      description: "<p>Cookies are used on this site to enhance your user experience and analyze traffic. We are transparent about the cookies we use and you can change your preferences at any point during your browsing experience. For more information, please view our <a href=\"\\&quot;https://neoski.uk/privacy/\\&quot;\">Privacy Policy</a>.</p>",
       acceptAllButtonText: "Accept all",
       acceptAllButtonAccessibleLabel: "Accept all cookies",
       rejectNonEssentialButtonText: "Reject non-essential",
@@ -56,7 +56,7 @@ silktideCookieBannerManager.updateCookieBannerConfig({
     },
     preferences: {
       title: "Customize your cookie preferences",
-      description: "<p><span style=\"font-size: 1rem; letter-spacing: 0.02rem;\">We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</span></p>",
+      description: "<p>We respect your right to privacy. You can choose below not to allow some types of cookies. Your cookie preferences will apply across our website.</p>",
       creditLinkText: "Consent by Silktide",
       creditLinkAccessibleLabel: "Cookie consent provided by Silktide"
     }
