@@ -10,17 +10,129 @@ socialimg: /img/tech.webp
 
 ## Technologies
 
-This website uses the following technologies:
+In probably the worst alphabetical order you will ever see, this website uses the following technologies:
+
+### Analytics
+
+- Google Analytics
+- Microsoft Clarity
+
+### Asset Pipeline
+
+- Webpack
+
+### Build Image
+
+- Ubuntu Focal 20.04
+
+### Cloud-Based Publishing Tool
+
+- GitHub
+
+### Content Delivery Network (CDN)
+
+- Amazon S3
+- Unpkg
+- Netlify
+- jsDelivr
+
+### Content Management System (CMS)
+
+- Netlify
+
+#### CMS Plugins
+
+- Lighthouse
+- Inline Source
+- Minify HTML
+- Sitemap
+- Submit Sitemap
+
+### Cookie Manager
+
+- FreePrivacyPolicy.com
+
+### Domain Registrar
+
+- Porkbun
+
+### Email
+
+- MailChimp
+
+### Fonts
+
+- Cooper Black
+- ITC Souvenir Demi
+- Nunito Sans
+
+#### Font Scripts
+
+- Google Font API
+- Twitter Emoji (Twemoji)
+
+### Image Optimisation
+
+- ImageResizer
+
+### Image Source
+
+- Pexels
+
+### Integrated Development Environment (IDE)
+
+- Visual Studio Code
 
 ### Languages
 
 - HTML 5.0
 - CSS 3.0
-- JS
+- JavaScript
+
+#### CSS Extensions
+
+- Sass
+
+#### JavaScript Frameworks
+
+- Emotion
+- React
+- PostCSS
+- Workbox
+- MathJax
+
+### JavaScript Libraries
+
+- Emotion
+- MobX
+- Polyfill
+
+#### JavaScript Runtime
+
+- Node.js 20.x
+
+### Marketing Automation
+
+- MailChimp
+
+### Metadata Protocol
+
+- Open Graph
+
+### PaaS
+
+- Netlify
+- Amazon Web Services
 
 ### Package Manager
 
 - Yarn
+
+### Security
+
+- HSTS
+- reCAPTCHA
+- Let's Encrypt
 
 ### Static Site Generator
 
@@ -30,110 +142,12 @@ This website uses the following technologies:
 
 - Victor Hugo
 
-### Asset Pipeline
-
-- Webpack
-
 ### Transcompiler
 
 - Babel
-
-### CSS Extensions
-
-- Sass
 
 ### Version Control System
 
 - Git
 
-### Cloud-Based Publishing Tool
-
-- GitHub
-
-### Development
-
-- Emotion
-
-### Payment Processors
-
-- Patreon
-
-### PaaS
-
-- Netlify
-- Amazon Web Services
-
-### JavaScript Frameworks
-
-- Emotion
-- React
-- PostCSS
-- Workbox
-- MathJax
-
-### Widgets
-
-- Patreon
-
-### Security
-
-- HSTS
-- reCAPTCHA
-
-### Marketing Automation
-
-- MailChimp
-
-### JavaScript Libraries
-
-- MobX
-- Polyfill
-
-### Fonts
-
-- Cooper Black
-- ITC Souvenir Demi
-- Nunito Sans
-
-### Font Scripts
-
-- Google Font API
-- Twitter Emoji (Twemoji)
-
-### Email
-
-- MailChimp
-
-### CDN
-
-- Amazon S3
-- Unpkg
-- Netlify
-- jsDelivr
-
-### Analytics
-
-- Google Analytics
-- Microsoft Clarity
-
-### CMS
-
-- Netlify
-
-### IDE
-
-- Visual Studio Code
-
-### Image Source
-
-- Pexels
-
-### Image Optimisation
-
-- ImageResizer
-
-### Miscellaneous
-
-- PWA
-- Open Graph
-- FreePrivacyPolicy.com
+Website built by [The Crofton](https://neoski.uk/skinnermedia/crofton).
