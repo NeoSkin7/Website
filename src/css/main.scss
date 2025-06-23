@@ -137,3 +137,20 @@ sub {
   vertical-align: sub;
   font-size: smaller;
 }
+
+label.popup {
+  font-size: 0.875rem;
+  font-weight: 800;
+  color: var(--white);
+  background-color: var(--primary);
+  border-radius: var(--border-radius);
+  padding: var(--spacing-extra-small) var(--spacing-small);
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  opacity: 0;
+  line-height: 1;
+  transition: var(--hover-transition);
+  z-index: 2;
+}

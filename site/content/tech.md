@@ -50,7 +50,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### Cookie Manager
 
-- FreePrivacyPolicy.com
+- Silktide
 
 ### Domain Registrar
 
