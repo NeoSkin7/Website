@@ -4,6 +4,14 @@
 
 {{ partial "short-text" .Params.blurb}}
 
+{{ partial "short-text" .Params.test-title}}
+
+<div class="pb4">
+    {{ range .Params.testimonials }}
+    {{ partial "blockquote" . }}
+    {{ end }}
+</div>
+
 {{ partial "text-and-image" (dict "imageUrl" .Params.teach.image "heading" .Params.teach.heading "text"
 .Params.teach.text "buttonText" "Discover" "buttonLink" "/teaching") }}
 

@@ -5,8 +5,14 @@ summary: I am a digital creator and educator based in the United Kingdom. My mis
 image: /img/refuel.webp
 socialimg: /img/about-bottom.webp
 blurb:
-  heading: Hello!
-  text: "Welcome to my home on the internet. My name is Neo Skinner (or NeoSki) and here you can find my blog, links, contact information, and much more! All the opinions are my own and some areas may be created purely for satirical and comedy purposes. However, I also post some content about myself and (it appears) London. Please enjoy browsing my website and remember to always be wary of what you find elsewhere on the internet!"
+  heading: "Self-Styled:"
+  text: "I am a maverick theoretical physicist on a mission to make the world a better and more diverse place through improved education and opportunities. I have worked on many projects and have established a reputation as a science writer and educator through both traditional and contemporary methods. But, that's what I think - don't just take it from me, you must hear the opinions and testimonials of others to form a full opinion of any topic."
+test-title:
+  heading: "Independently Styled:"
+testimonials:
+  - author: Ephram Matocha - Scientific Advisor
+    quote: >-
+      When it comes to knowing things that are not taught in schools, Neo definitely knows about them. From the standard model to Hawking Radiation he knows it. He's a naturally skilled teacher who has helped me with my academic studies. This human being is a generational talent and has a hard working mindset that most people my age lack.
 teach:
   image: /img/teach.webp
   heading: "Teaching"
