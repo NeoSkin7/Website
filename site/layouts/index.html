@@ -4,9 +4,8 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-{{ partial "short-text" .Params.testTitle}}
-
 <div class="pb4">
+    <h2 class="f2 b lh-title mb2 w-40-l">Independently Styled</h2>
     {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
     {{ end }}

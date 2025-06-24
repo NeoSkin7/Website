@@ -7,8 +7,6 @@ socialimg: /img/about-bottom.webp
 blurb:
   heading: "Self-Styled:"
   text: "I am a maverick theoretical physicist on a mission to make the world a better and more diverse place through improved education and opportunities. I have worked on many projects and have established a reputation as a science writer and educator through both traditional and contemporary methods. But, that's what I think - don't just take it from me, you must hear the opinions and testimonials of others to form a full opinion of any topic."
-testTitle:
-  heading: "Independently Styled:"
 testimonials:
   - author: Ephram Matocha - Scientific Advisor
     quote: >-
