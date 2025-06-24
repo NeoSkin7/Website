@@ -36,9 +36,9 @@ The beautiful thing about revision is that everyone does it differently. I am, b
 
 ### 3 - Exam Practice
 
-> What is the capital of Honduras? Tegucigalpa ✔️
+> What is the capital of Honduras? Tegucigalpa ✅
 >
-> What is the capital of Venezuela? Caracas ✔️
+> What is the capital of Venezuela? Caracas ✅
 
 Finally, use past exam papers and practice questions to hone your knowledge. Exam boards often like to set challenging 'fringe' questions that cover obscure points of the specification, but they also like to repeat question formats - make sure you are aware of the kinds of questions they can ask and the obscure knowledge to secure a high grade.
 
