@@ -1,12 +1,12 @@
 ---
 title: "That guy on the internet."
 subtitle: “Life would be tragic if it weren't funny.” ― Stephen Hawking
-summary: I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.
+summary: I am a maverick theoretical physicist and mathematician on a mission to make the world a better and more diverse place through improved education and opportunities.
 image: /img/refuel.webp
 socialimg: /img/about-bottom.webp
 blurb:
   heading: "Self-Styled:"
-  text: "I am a maverick theoretical physicist on a mission to make the world a better and more diverse place through improved education and opportunities. I have worked on many projects and have established a reputation as a science writer and educator through both traditional and contemporary methods. But, that's what I think - don't just take it from me, you must hear the opinions and testimonials of others to form a full opinion of any topic."
+  text: "I am a maverick theoretical physicist and mathematician on a mission to make the world a better and more diverse place through improved education and opportunities. I have worked on many projects and have established a reputation as a science writer and educator through both traditional and contemporary methods. But, that's what I think - don't just take it from me, you must hear the opinions and testimonials of others to form a full opinion of any topic."
 testimonials:
   - author: Ephram Matocha - Scientific Advisor
     quote: >-
