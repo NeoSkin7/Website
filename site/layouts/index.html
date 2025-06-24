@@ -4,18 +4,12 @@
 
 {{ partial "short-text" .Params.blurb}}
 
-<div class="pb4">
+<div class="pb4 flex-1 mhn1-1 ph3 center mw7">
     <h2 class="f2 b lh-title mb2 w-40-l">Independently Styled</h2>
     {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
     {{ end }}
 </div>
-
-{{ partial "text-and-image" (dict "imageUrl" .Params.teach.image "heading" .Params.teach.heading "text"
-.Params.teach.text "buttonText" "Discover" "buttonLink" "/teaching") }}
-
-{{ partial "text-and-image" (dict "imageUrl" .Params.blog.image "heading" .Params.blog.heading "text"
-.Params.blog.text "buttonText" "Read More" "buttonLink" "/post") }}
 
 {{ partial "blog" . }}
 

@@ -11,12 +11,4 @@ testimonials:
   - author: Ephram Matocha - Scientific Advisor
     quote: >-
       When it comes to knowing things that are not taught in schools, Neo definitely knows about them. From the standard model to Hawking Radiation he knows it. He's a naturally skilled teacher who has helped me with my academic studies. This human being is a generational talent and has a hard working mindset that most people my age lack.
-teach:
-  image: /img/teach.webp
-  heading: "Teaching"
-  text: "My website hosts some (in my opinion) high quality teaching resources for students to learn about this increasingly modern world. Content includes: Internet safety, Science, Computing, Mathematics, and (if you look hard enough) English. I have attended a few eye-opening courses from Imperial College London which have informed some of the content you see here."
-blog:
-  image: /img/blog.webp
-  heading: "Blog"
-  text: "My blog is filled with stuff that I find interesting and can include anything fom climate change to the lead in pencils. A recurring topic seems to be London - I don't know why though!"
 ---
