@@ -24,7 +24,7 @@ intro:
       more1: >
         I am to use the internet and digital media to transfer vital educational information to the world. The internet will make this task exceedingly easy and I hope that this website is just the beginning of an educational media revolution. There are already many services creating digital educational media but I think that the area still requires a lot more work to make it widely accessible and the standard for teaching resources the world over.
       more2: >
-        In the future, a digital mission statement will be posted on this website that I hope will reach schools and other educational facilities the world over and help to guide them in creating their own digital resources for their students. For the moment, you can view some of my own attempts at this via the (Links)[https://link.neoski.uk] page.
+        In the future, a digital mission statement will be posted on this website that I hope will reach schools and other educational facilities the world over and help to guide them in creating their own digital resources for their students. For the moment, you can view some of my own attempts at this via the Links page.
       image: /img/links.webp
   heading: What I Do
   description: >
