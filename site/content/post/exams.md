@@ -14,7 +14,9 @@ Coping with exams is one of the hardest tasks of _most_ our lives. However, I ha
 
 Every successful exam strategy must begin with revision. It must end with it too. We cannot motor on through exams without any practice, it's a bit like trying to paint the London skyline after seeing it once a year ago - how do you think that would go?
 
-![The London Skyline](/img/blog/24-06-2025/london.png "Not bad, eh?")
+![The London Skyline](/img/blog/24-06-2025/london.png)
+
+#### Not bad, eh?
 
 So, with revision established as essential, what does that look like? In itself, revision is a rather vague term which could mean anything from doing lots of questions to talking to yourself about topics (yes, people do that). With that in mind, I promote a three technique scheme:
 

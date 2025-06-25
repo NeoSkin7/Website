@@ -58,6 +58,8 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### Email
 
+- Brevo
+- ImprovMX
 - MailChimp
 
 ### Fonts
