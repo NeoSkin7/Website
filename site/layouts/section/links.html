@@ -55,6 +55,23 @@
     </div>
   </ul>
 
+  <div class="pv4">
+    <div class="flex-l mhn1-l ph3 center mw7">
+      <h2 class="f2 b lh-title mb2 w-40-l">{{ .Params.heading4 }}</h2>
+    </div>
+  </div>
+
+  <ul class="flex-ns flex-column mhn1-ns pa3">
+    <div class="w-50-ns ph1-ns flex flex-column">
+      {{ range .Params.links4 }}
+      <a href="{{ .linkurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
+        <img src="{{ .imgurl }}" alt="{{ .subheading }}" width="50px">
+        <h3 class="f4 b lh-solid primary tc" style="width: 87%;">{{ .subheading }}</h3>
+      </a>
+      {{ end }}
+    </div>
+  </ul>
+
 </div>
 
 {{ end }}

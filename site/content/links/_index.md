@@ -8,15 +8,9 @@ links1:
   - subheading: "Instagram"
     linkurl: https://link.neoski.uk/instagram
     imgurl: /img/instagram.svg
-  - subheading: "Threads"
-    linkurl: https://link.neoski.uk/threads
-    imgurl: /img/threads.svg
   - subheading: "YouTube"
     linkurl: https://link.neoski.uk/youtube
     imgurl: /img/youtube.svg
-  - subheading: "Tellonym"
-    linkurl: https://link.neoski.uk/tellonym
-    imgurl: /img/tellonym.svg
   - subheading: "Twitter"
     linkurl: https://link.neoski.uk/twitter
     imgurl: /img/twitter.svg
@@ -26,29 +20,22 @@ links1:
   - subheading: "Facebook"
     linkurl: https://link.neoski.uk/facebook
     imgurl: /img/facebook.svg
-  - subheading: "TikTok"
-    linkurl: https://link.neoski.uk/tiktok
-    imgurl: /img/tiktok.svg
-  - subheading: "Twitch"
-    linkurl: https://link.neoski.uk/twitch
-    imgurl: /img/twitch.svg
-  - subheading: "Patreon"
-    linkurl: https://link.neoski.uk/patreon
-    imgurl: /img/patreon.svg
-  - subheading: "Pinterest"
-    linkurl: https://link.neoski.uk/pinterest
-    imgurl: /img/pinterest.svg
-  - subheading: "Snapchat"
-    linkurl: https://link.neoski.uk/snapchat
-    imgurl: /img/snapchat.svg
   - subheading: "Reddit"
     linkurl: https://link.neoski.uk/reddit
     imgurl: /img/reddit.svg
   - subheading: "Quora"
     linkurl: https://link.neoski.uk/quora
     imgurl: /img/quora.svg
-heading2: "Projects"
+heading2: "Academic"
 links2:
+  - subheading: "figshare"
+    linkurl: https://link.neoski.uk/figshare
+    imgurl: /img/figshare.svg
+  - subheading: "ORCID"
+    linkurl: https://link.neoski.uk/orcid
+    imgurl: /img/orcid.svg
+heading3: "Projects"
+links3:
   - subheading: "Learn More About My Projects"
     linkurl: /projects/
     imgurl: /img/more.svg
@@ -70,8 +57,8 @@ links2:
   - subheading: "CodePen"
     linkurl: https://link.neoski.uk/codepen
     imgurl: /img/codepen.svg
-heading3: "Other"
-links3:
+heading4: "Other"
+links4:
   - subheading: "Wikipedia"
     linkurl: https://link.neoski.uk/wikipedia
     imgurl: /img/wikipedia.svg
