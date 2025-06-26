@@ -5,8 +5,8 @@ draft: "false"
 description: Learn about the history of the London Underground network in the
   first instalment of Transport in London.
 summary: Learn about the history of the London Underground network in the first instalment of Transport in London.
-image: /img/tin-pt1-underground-train.jpg
-socialimg: /img/tin-pt1-underground-train.jpg
+image: /img/blog/17-08-2022/train.jpg
+socialimg: /img/blog/17-08-2022/train.jpg
 ---
 
 # Welcome
@@ -15,13 +15,13 @@ To the first instalment of Transport in London (TiN) and the first blog series o
 
 ## The Original Six
 
-![A Metropolitan Railway Company Locomotive](/img/tin-pt1-underground-metropolitan.jpg)
+![A Metropolitan Railway Company Locomotive](/img/blog/17-08-2022/metropolitan.jpg)
 
 The London Underground is arguably one of the most famous railway systems in the world. The world's first underground railway opened in 1863 courtesy of the Metropolitan Railway Company and ran between six stations from Paddington to Farringdon.
 
 ### Going Underground
 
-![Train Tunnel](/img/tin-pt1-underground-tunnel.jpg)
+![Train Tunnel](/img/blog/17-08-2022/tunnel.jpg)
 
 The original underground lines were built using a method called cut-and-cover. In this technique, wide trenches would be dug and then covered with a roof and dirt to create the train running tunnel. This was very disruptive as it saw the destruction of many roads in order to build tunnels.
 
@@ -31,7 +31,7 @@ Since then, the original six have been joined by 266 other stations (272 total) 
 
 ### Harry Beck's Map
 
-![The Original Tube Map](/img/tin-pt1-underground-map.jpg)
+![The Original Tube Map](/img/blog/17-08-2022/map.jpg)
 
 In 1933, Harry Beck was commissioned to create a map of the London Underground network, this has since become an icon of the system and is used by metro systems across the world.
 
@@ -41,7 +41,7 @@ In 1933, all of the individual railway companies (that gave their names to the m
 
 ## Transport for London
 
-![Oyster Card](/img/tin-pt1-underground-oyster.jpg)
+![Oyster Card](/img/blog/17-08-2022/oyster.jpg)
 
 Finally, the current company Transport for London (TfL) took ownership of the network in 2003 and introduced the world to the forerunner of contactless bank cards, the Oyster card.
 
