@@ -28,7 +28,7 @@ Canada has a grand total of ten provinces (at least according to the omnipotent 
 
 ![Province Flags](/img/blog/24-07-2025/provinces.jpg)
 
-#### Can you count to 10?
+#### Can You Count to 10?
 
 Quebec is a province defined by the St Lawrence river and what I picture a French-designed USA to look like, whilst Ontario is dominated by the Great Lakes and, as a direct comparison, a Britain designed by the US Founding Fathers.
 
@@ -36,9 +36,9 @@ True to form, the primary language of Quebec is French, whilst Ontario’s is En
 
 As you may imagine from my vivid descriptions, there are architectural differences, with Quebec feeling, on the whole, much older than its eastern counterpart and with just a touch more class. All of Canada is modern by UK standards, and its abundance of space means that large boulevards are the norm and clover-leaf interchanges are the four-way transport solutions of choice - how American!
 
-> ### Running the maths…
+> ### Running the Maths…
 >
-> Canada is the fourth largest country in the world by land area at 9,093,507 square kilometres, working out as just over 37 United Kingdoms (at 242,741 km^2^), and the second by total area (9,984,670 km^2^) with 8.9% of its total area comprising of water. Quebec and Ontario are the two largest provinces by total area in that order, whilst the order is switched if measuring by population. Interestingly, the largest territory is Nunavut, which has almost twice the area of Ontario - making it the largest administrative division by area.
+> Canada is the fourth largest country in the world by land area at 9,093,507 square kilometres, working out as just over 37 United Kingdoms (at 242,741 km²), and the second by total area (9,984,670 km²) with 8.9% of its total area comprising of water. Quebec and Ontario are the two largest provinces by total area in that order, whilst the order is switched if measuring by population. Interestingly, the largest territory is Nunavut, which has almost twice the area of Ontario - making it the largest administrative division by area.
 
 ## Metric?
 
@@ -46,7 +46,7 @@ One of my favourite games to play when visiting a new country is: Are they metri
 
 ![How Metric?](/img/blog/24-07-2025/sml_metric.png)
 
-#### My definition of gaming is different to yours
+#### My Definition of Gaming is Different to Yours
 
 From the collection of images above, I am conflicted about whether or not to pronounce Canada metric, grocery stores still use pounds (that strange ‘lb’ symbol) for a start! So, it might help to understand the history of metrication: much like the UK, Canada began metrication in 1971 and this saw the government urge many different industries and companies to switch to an SI-unit based measurement system. And they were more successful than us! Canada made the difficult switch to metric road signs in 1977, and its currency had already been decimal for decades - two of the most difficult factors solved seamlessly. Thus, Canada _really_ is metric.
 
@@ -54,7 +54,7 @@ However, I am still saddened to see bananas measured in pounds and beer in pints
 
 As a side note, I was particularly pleased to find that road sign times use the 24 hour clock - how novel! I have long wished that the UK adopted 24 hour times for parking restrictions, but alas! We are stuck with the old-fashioned am and pm system.
 
-> ### Quite the length!
+> ### Quite the Length!
 >
 > Canada also boasts the world’s longest coastline which is a whopping 265,523 (CIA) or 202,080 (WRI) kilometres. Note the differences in length; this is important. Coastline length is a heavily contested figure, with different organisations and groups claiming different lengths due to a phenomenon known as the coastline paradox. The paradox is that higher resolutions of coastline lengths will provide much larger results than those at lower resolutions - leading to heavily contested measurements!
 
@@ -66,7 +66,7 @@ Poutine is an interesting dish, chips and gravy I can certainly get behind as on
 
 ![Pie and Poutine](/img/blog/24-07-2025/poutine.jpg)
 
-#### Two classics in one
+#### Two Classics in One
 
 I was fortunate enough to sample my poutine with tourtière, French Canada’s answer to a meat pie, consisting of pork, beef, potatoes, and onions in a rich gravy usually encased in a lovely pastry case. The version I was served lacked the pastry, instead replacing it with poutine to cut down on the carbs - my body thanks them. The review? It is very nice if you are a fan of beef and pork, which just so happen to be my least favourite meats… I did enjoy it though!
 
@@ -76,7 +76,7 @@ Tim Hortons hosts the ‘Dunkin Donuts’ experience north of the border, with s
 
 ![Tim Hortons and Timbits](/img/blog/24-07-2025/sml_tim-hortons.png)
 
-#### The prodigal baker doth provide
+#### The Prodigal Baker Doth Provide
 
 Finally, Pizza Pizza does exactly what it says on the tin: pizza. Canada’s answer to Domino’s is nothing to write home about, but it is a high street staple with almost 60 years of experience.
 
@@ -84,11 +84,11 @@ If you, like me, get excited by holey baked goods, it may interest you to know t
 
 ![A Bagel](/img/blog/24-07-2025/sml_bagels.png)
 
-#### What’s in the box?
+#### What’s In the Box?
 
 I can highly recommend the all dressed club bagel (not pictured - it did not last long…).
 
-> ### Ecstatic? I’m electric!
+> ### Ecstatic? I’m Electric!
 >
 > Canada’s electrical system is three-phase, with three 120 V 60 Hz phases at 120 degrees to each other. Standard outlets provide one of these phases (120 V 60 Hz), and two phases are tied to produce 240 V for high-power appliances (in kitchens, etc.). The North American standard type A sockets are used throughout the country with 15 A ratings, and high-use sockets are often loose as springs wear over time. GFCI is a common feature in bathrooms, but there are no installation-wide ground fault protections.
 
@@ -98,7 +98,7 @@ During the trip, I visited both Tadoussac’s Sentier dunes and the Algonquin Pr
 
 ![Sentier Dunes and Algonquin Park](/img/blog/24-07-2025/sml_nature.png)
 
-#### Nature at its finest (L: Sentier dunes, C&R: Algonquin Provincial Park)
+#### Nature At Its Finest (L: Sentier dunes, C&R: Algonquin Provincial Park)
 
 If you are planning a visit, the Sentier dunes are fairly out of the way and might take a little bit of research - there is a viewing platform not too far from the dunes which gives a great view accessible via a short trail.
 
@@ -115,7 +115,7 @@ However, I would like to give a word of warning to anyone else visiting: prepare
 
 Oh, and try not to stand too close to anyone - you do not want to get caught up in someone else’s mosquito cloud too!
 
-> ### A tow truck towing truck towing trucks
+> ### A Tow Truck Towing Truck Towing Trucks
 >
 > No, that is not a joke; it is entirely possible that you may find things that wild in Canada. During my trip, it became a regular occurrence to find vehicles towing unusual things - including other vehicles! Some of my favourites included cars towing three-wheeled trikes and even a motor home towing a car…
 
@@ -125,13 +125,13 @@ The Canadian Dollar (CAD) is the national currency of Canada and immediately ser
 
 ![The 5 Coins](/img/blog/24-07-2025/coins.jpg)
 
-#### Ship, beaver, moose, duck, bear
+#### Ship, Beaver, Moose, Duck, Bear
 
 As for the banknotes, the frontier series is the most common in circulation and features bold colours with portraits of important governing figures from Canada’s past. Banknote denominations include 5, 10, 20, 50 and 100 dollars. There is also a vertical 10 dollar banknote, and future designs are planned for other denominations - this is exciting!
 
 Coins are currently in the process of changing to feature a portrait of King Charles III, and all banknotes still feature Queen Elizabeth II. This may sound strange - the King?! But, there is good reason: Canada is actually still a constitutional monarchy sharing the head of state with the UK.
 
-> ### It just makes cents
+> ### It Just Makes Cents
 >
 > Canada does not have a one cent coin. It sounds crazy, but it has been true since 2012 - you cannot get less than 5 cents in your change when paying in cash. This is because minting a cent became more expensive than a cent, which just does not make any sense! So, when receiving change, the totals are rounded up or down to the nearest 5 cents and you receive the difference. $1.99 really is a scam.
 
@@ -148,21 +148,21 @@ The Canadian parliament is located in buildings in Ottawa, and usually both the 
 
 ![Government Building and Changing of the Guard](/img/blog/24-07-2025/sml_gov.png)
 
-#### Enough spires for ya?
+#### Enough Spires for Ya?
 
 Each of the Canadian provinces also has its own government, responsible for the administration of the province.
 
 If you visit the Canadian parliament at around 0945, you might just be lucky enough to catch the changing of the guard - a ceremony that lasts over an hour! During the change-over, the marching band treats spectators to a medley of Canadian pop, including Shania Twain and Avril Lavigne.
 
-> ### Harsh conditions
+> ### Harsh Conditions
 >
-> Whilst exploring Canada, I saw many ways in which the population has adapted to deal with extreme temperature fluctuations. You see, whilst summer is hot at 27 °C, winter is also cold at -7 °C - data for Toronto in July (max) and January (min). A prominent feature in Quebéc (the city) is the high-pitched curved roofs, which make for pretty photographs but also ensure that snow does not collect and collapse the roof!
+> Whilst exploring Canada, I saw many ways in which the population has adapted to deal with extreme temperature fluctuations. You see, whilst summer is hot at 27 °C, winter is also cold at −7 °C - data for Toronto in July (max) and January (min). A prominent feature in Quebéc (the city) is the high-pitched curved roofs, which make for pretty photographs but also ensure that snow does not collect and collapse the roof!
 
 ## Closing Thoughts
 
 ![Niagara Falls](/img/blog/24-07-2025/niagara.jpg)
 
-#### Worth the trip?
+#### Worth the Trip?
 
 Whilst my goal was not to provide a travel guide, I do hope that you might find this persuasive enough to consider a trip to Canada for yourself! I found myself marvelling at everything from architecture to beaver dams and so much more; it really is a fantastic place to go. Great food, great people and great places - all the boxes are ticked.
 
