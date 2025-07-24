@@ -23,7 +23,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### Build Image
 
-- Ubuntu Focal 20.04
+- Ubuntu Noble 24.04
 
 ### Cloud-Based Publishing Tool
 
