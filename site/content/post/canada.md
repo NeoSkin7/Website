@@ -1,6 +1,6 @@
 ---
 title: Canada
-date: 2025-07-24T13:00:00.000Z
+date: 2025-07-24T08:00:00.000Z
 draft: "false"
 description: I went to Canada - here is what I thought
 summary: I went to Canada - here is what I thought
