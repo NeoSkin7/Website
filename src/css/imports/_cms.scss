@@ -80,7 +80,7 @@
   }
 
   & ul {
-    margin-left: 1.33rem;
+    margin-left: 2.33rem;
     & > li:before {
       content: "✱";
       left: -1.33rem;
@@ -112,7 +112,6 @@
     padding: var(--spacing-medium);
     color: var(--primary);
     font-weight: 700;
-    font-size: 1.25rem;
     margin-bottom: var(--spacing-medium);
     & p {
       margin: 0;

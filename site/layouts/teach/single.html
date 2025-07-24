@@ -18,9 +18,9 @@
     {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
     {{ .Content }}
   </div>
-  <ul class="flex-ns flex-column mhn1-ns pa3">
+  <ul class="flex-ns flex-column mhn1-ns">
     <div class="w-50-ns ph1-ns flex flex-column">
-      <h2 class="f3 b lh-title pa3 primary black">Files</h2>
+      <h2 class="f3 b lh-title primary black mb3">Files</h2>
       {{ range .Params.files }}
       <a href="{{ .fileurl }}" class="no-underline pa3 bg-grey-1 br1 mb2 db raise flex items-center">
         <h3 class="f4 b lh-solid primary">{{ .subheading }}</h3>
