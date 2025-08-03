@@ -16,7 +16,7 @@ I suppose I should start with a _rough_ itinerary, so here goes:
 
 The trip lasted a total of 17 days, including travel time, and was centred around 7 different locations which were, in order of appearance: Québec, Tadoussac (St. Lawrence River), Montréal, Ottawa, Whitney (Algonquin Park), Niagara Falls, and Toronto.
 
-![Toronto and Whitney Signs](/img/blog/24-07-2025/sml_toronto-to-whitney.png)
+![Toronto and Whitney Signs](/img/blog/24-07-2025/toronto-to-whitney.png)
 
 #### From Toronto to Whitney
 
@@ -44,7 +44,7 @@ As you may imagine from my vivid descriptions, there are architectural differenc
 
 One of my favourite games to play when visiting a new country is: Are they metric? And this trip was no different! (I know, I play sad games…) So, how metric is Canada?
 
-![How Metric?](/img/blog/24-07-2025/sml_metric.png)
+![How Metric?](/img/blog/24-07-2025/metric.png)
 
 #### My Definition of Gaming is Different to Yours
 
@@ -74,7 +74,7 @@ Of course, Canada is no stranger to fast food - it is somewhat unavoidable given
 
 Tim Hortons hosts the ‘Dunkin Donuts’ experience north of the border, with sweet baked goods and enough caffeine to sink a small battleship. Their most notable item is donut holes, which they delightfully call timbits - available to buy individually (why?) and as packs of 10, 20, and 50.
 
-![Tim Hortons and Timbits](/img/blog/24-07-2025/sml_tim-hortons.png)
+![Tim Hortons and Timbits](/img/blog/24-07-2025/tim-hortons.png)
 
 #### The Prodigal Baker Doth Provide
 
@@ -82,7 +82,7 @@ Finally, Pizza Pizza does exactly what it says on the tin: pizza. Canada’s ans
 
 If you, like me, get excited by holey baked goods, it may interest you to know that Montréal is one of the bagel capitals of the world. St-Viateur Bagel is Montréal’s bagel institution, with 5 locations serving 10 different bagel types and a choice of 11 fillings! Its Mont-Royal location is the best place to go for a bagel lunch, breakfast, or even dinner (at a push).
 
-![A Bagel](/img/blog/24-07-2025/sml_bagels.png)
+![A Bagel](/img/blog/24-07-2025/bagels.png)
 
 #### What’s In the Box?
 
@@ -96,7 +96,7 @@ I can highly recommend the all dressed club bagel (not pictured - it did not las
 
 During the trip, I visited both Tadoussac’s Sentier dunes and the Algonquin Provincial Park (via Whitney). Canada has some fantastic and remarkable landscapes and animals, which I thoroughly enjoyed exploring and cannot recommend highly enough.
 
-![Sentier Dunes and Algonquin Park](/img/blog/24-07-2025/sml_nature.png)
+![Sentier Dunes and Algonquin Park](/img/blog/24-07-2025/nature.png)
 
 #### Nature At Its Finest (L: Sentier dunes, C&R: Algonquin Provincial Park)
 
@@ -146,7 +146,7 @@ The governmental system of Canada is composed of four elements which are designe
 
 The Canadian parliament is located in buildings in Ottawa, and usually both the Senate and the House of Commons are located in the same building. Usually, because the building was under renovation during my visit, and thus the chambers had been relocated temporarily.
 
-![Government Building and Changing of the Guard](/img/blog/24-07-2025/sml_gov.png)
+![Government Building and Changing of the Guard](/img/blog/24-07-2025/gov.png)
 
 #### Enough Spires for Ya?
 
