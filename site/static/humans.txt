@@ -1,8 +1,7 @@
-
 /* TEAM */
     Head Dev: Neo Skinner
-    Contact: neoski.skinnermedia@gmail.com, neoski.tk
-    Twitter: @NeoSkin7
+    Contact: thatguy@neoski.uk, neoski.uk
+    Links: link.neoski.uk
     From: Poole, Dorset, England
 
     The Resident Evil Genius: Tyler Rocha
@@ -11,10 +10,10 @@
 
     The Eager Scout: Oliver Heckford
 
-    neoski.tk/skinnermedia/team
+    neoski.uk/skinnermedia/team
 
 /* THANKS */
-    To everyone who has ever attempted to help me in any way and to everyone and anyone who engages in my content. Love you long time xxx
+    To everyone who has ever attempted to help me in any way and to everyone and anyone who engages in my content. Love you long time ;)
 
 /* SITE */
-    neoski.tk/tech
+    neoski.uk/tech
