@@ -3,7 +3,7 @@ title: Quantum Timeline (GCSE)
 date: 2022-12-17T15:00:00.000Z
 description: A timeline of quantum physics for GCSE students.
 summary: A timeline of quantum physics for GCSE students.
-socialimg: /img/teach.jpg
+socialimg: /img/work-mag.webp
 tags: ["Physics", "Quantum Physics", "GCSE"]
 files:
   - subheading: Quantum Timeline (Genially)

@@ -4,8 +4,8 @@ date: 2023-08-13T08:00:00.000Z
 draft: "false"
 description: Over the last couple of months, I have enjoyed creating a brand new NeoSki experience for your enjoyment - and now it’s time to announce it to you!
 summary: Over the last couple of months, I have enjoyed creating a brand new NeoSki experience for your enjoyment - and now it’s time to announce it to you!
-image: /img/blog/13-08-2023/thumb.png
-socialimg: /img/blog/13-08-2023/thumb.png
+image: /img/post/mathstrolabe/thumb.png
+socialimg: /img/post/mathstrolabe/thumb.png
 ---
 
 I have always been producing mathematics content for my website - from interactive activities to step-by-step guides, I’ve been experimenting since day one with how to best present and teach mathematics content. So, what’s new? I have now decided to put all of my mathematics content in one place with my new branch and website: Mathstrolabe!
@@ -24,7 +24,7 @@ So how does it work?
 
 ### 1. Future Content
 
-![Custom Papers](/img/blog/13-08-2023/papers.png)
+![Custom Papers](/img/post/mathstrolabe/papers.png)
 
 I am hard at work upon a selection of custom-made GCSE ‘hard’ papers that aim to test students abilities to their full and enable teachers the best possible insight into what students know and what they need to work on. So far, I have completed papers 1 and 2, with paper 3 on the horizon. However, these papers have been designed with mock examinations in mind, so they are locked to public access, but if you are a teacher or an institution you can contact me below to gain full access!
 

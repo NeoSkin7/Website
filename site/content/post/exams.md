@@ -4,8 +4,8 @@ date: 2025-06-24T08:00:00.000Z
 draft: "false"
 description: People often ask me how I deal with exams - so just how do I do it?
 summary: People often ask me how I deal with exams - so just how do I do it?
-image: /img/blog/24-06-2025/thumb.png
-socialimg: /img/blog/24-06-2025/thumb.png
+image: /img/post/exams/thumb.png
+socialimg: /img/post/exams/thumb.png
 ---
 
 Coping with exams is one of the hardest tasks of _most_ our lives. However, I have some tips and tricks to share that might just help you out!
@@ -14,7 +14,7 @@ Coping with exams is one of the hardest tasks of _most_ our lives. However, I ha
 
 Every successful exam strategy must begin with revision. It must end with it too. We cannot motor on through exams without any practice, it's a bit like trying to paint the London skyline after seeing it once a year ago - how do you think that would go?
 
-![The London Skyline](/img/blog/24-06-2025/london.png)
+![The London Skyline](/img/post/exams/london.png)
 
 #### Not bad, eh?
 

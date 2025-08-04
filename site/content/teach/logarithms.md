@@ -3,7 +3,7 @@ title: Logarithms (A-Level)
 date: 2022-12-11T13:00:00.000Z
 description: Your quick revision guide to A-Level logarithms.
 summary: Your quick revision guide to A-Level logarithms.
-socialimg: /img/teach.jpg
+socialimg: /img/work-mag.webp
 tags: ["Mathematics", "A-Level Guides", "A-Level"]
 files:
   - subheading: A-Level Logarithms Quick Revision Guide (PDF)

@@ -3,7 +3,7 @@ title: Graphical Equations (GCSE)
 date: 2022-12-17T17:00:00.000Z
 description: A graph of different equations.
 summary: A graph of different equations.
-socialimg: /img/teach.jpg
+socialimg: /img/work-mag.webp
 tags: ["Mathematics", "GCSE"]
 files:
   - subheading: Graphical Equations (GeoGebra)

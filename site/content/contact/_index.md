@@ -2,7 +2,7 @@
 title: "Contact"
 summary: I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.
 logo: "/img/logo.svg"
-socialimg: /img/about-bottom.webp
+socialimg: /img/banner.webp
 contact_entries:
   - heading: Newsletter
     text: "Subscribe for my free newsletter below!"

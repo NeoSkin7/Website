@@ -1,83 +1,83 @@
 ---
 title: "Links"
 summary: I have way too many links... You can view them here!
-image: /img/links.webp
-socialimg: /img/links.webp
+image: /img/cable.webp
+socialimg: /img/cable.webp
 heading1: "Social"
 links1:
   - subheading: "Instagram"
     linkurl: https://link.neoski.uk/instagram
-    imgurl: /img/instagram.svg
+    imgurl: /img/link-icons/instagram.svg
   - subheading: "YouTube"
     linkurl: https://link.neoski.uk/youtube
-    imgurl: /img/youtube.svg
+    imgurl: /img/link-icons/youtube.svg
   - subheading: "Twitter"
     linkurl: https://link.neoski.uk/twitter
-    imgurl: /img/twitter.svg
+    imgurl: /img/link-icons/twitter.svg
   - subheading: "Spotify"
     linkurl: https://link.neoski.uk/spotify
-    imgurl: /img/spotify.svg
+    imgurl: /img/link-icons/spotify.svg
   - subheading: "Facebook"
     linkurl: https://link.neoski.uk/facebook
-    imgurl: /img/facebook.svg
+    imgurl: /img/link-icons/facebook.svg
   - subheading: "Reddit"
     linkurl: https://link.neoski.uk/reddit
-    imgurl: /img/reddit.svg
+    imgurl: /img/link-icons/reddit.svg
   - subheading: "Quora"
     linkurl: https://link.neoski.uk/quora
-    imgurl: /img/quora.svg
+    imgurl: /img/link-icons/quora.svg
 heading2: "Academic"
 links2:
   - subheading: "figshare"
     linkurl: https://link.neoski.uk/figshare
-    imgurl: /img/figshare.svg
+    imgurl: /img/link-icons/figshare.svg
   - subheading: "ORCID"
     linkurl: https://link.neoski.uk/orcid
-    imgurl: /img/orcid.svg
+    imgurl: /img/link-icons/orcid.svg
 heading3: "Projects"
 links3:
   - subheading: "Learn More About My Projects"
     linkurl: /projects/
-    imgurl: /img/more.svg
+    imgurl: /img/link-icons/more.svg
   - subheading: "Mathstrolabe"
     linkurl: https://link.neoski.uk/mathstrolabe
-    imgurl: /img/mathstrolabe.svg
+    imgurl: /img/link-icons/mathstrolabe.svg
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.uk/skinnerscience
-    imgurl: /img/skinnerscience.svg
+    imgurl: /img/link-icons/skinnerscience.svg
   - subheading: "Code Archive"
     linkurl: https://link.neoski.uk/code
-    imgurl: /img/code.svg
+    imgurl: /img/link-icons/code.svg
   - subheading: "Wallpapers"
     linkurl: https://link.neoski.uk/wallpapers
-    imgurl: /img/wallpapers.svg
+    imgurl: /img/link-icons/wallpapers.svg
   - subheading: "GitHub"
     linkurl: https://link.neoski.uk/github
-    imgurl: /img/github.svg
+    imgurl: /img/link-icons/github.svg
   - subheading: "CodePen"
     linkurl: https://link.neoski.uk/codepen
-    imgurl: /img/codepen.svg
+    imgurl: /img/link-icons/codepen.svg
 heading4: "Other"
 links4:
   - subheading: "Wikipedia"
     linkurl: https://link.neoski.uk/wikipedia
-    imgurl: /img/wikipedia.svg
+    imgurl: /img/link-icons/wikipedia.svg
   - subheading: "GoodReads"
     linkurl: https://link.neoski.uk/goodreads
-    imgurl: /img/goodreads.svg
+    imgurl: /img/link-icons/goodreads.svg
   - subheading: "Last.fm"
     linkurl: https://link.neoski.uk/lastfm
-    imgurl: /img/lastfm.svg
+    imgurl: /img/link-icons/lastfm.svg
   - subheading: "Linkedin"
     linkurl: https://link.neoski.uk/linkedin
-    imgurl: /img/linkedin.svg
+    imgurl: /img/link-icons/linkedin.svg
   - subheading: "Internet Archive"
     linkurl: https://link.neoski.uk/internetarchive
-    imgurl: /img/ia.svg
+    imgurl: /img/link-icons/ia.svg
   - subheading: "Microsoft Community"
     linkurl: https://link.neoski.uk/mscommunity
-    imgurl: /img/microsoft.svg
+    imgurl: /img/link-icons/microsoft.svg
   - subheading: "Google Developer Profile"
     linkurl: https://link.neoski.uk/g-dev
-    imgurl: /img/google.svg
+    imgurl: /img/link-icons/google.svg
 ---

@@ -4,15 +4,15 @@ date: 2023-07-30T08:00:00.000Z
 draft: "false"
 description: Threads burst onto the social media scene on the 5th of July this year and whilst it has certainly gained attention, is it a good platform and should you use it?
 summary: Threads burst onto the social media scene on the 5th of July this year and whilst it has certainly gained attention, is it a good platform and should you use it?
-image: /img/blog/30-07-2023/threads_bg.png
-socialimg: /img/blog/30-07-2023/threads_bg.png
+image: /img/post/threads/thumb.png
+socialimg: /img/post/threads/thumb.png
 ---
 
 The short answer is: yes. But, the long answer is a lot more complicated.
 
 ## What is Threads?
 
-![Threads vs Twitter](/img/blog/30-07-2023/threads_v_twitter.png)
+![Threads vs Twitter](/img/post/threads/threads_v_twitter.png)
 
 Threads is Meta’s answer to Twitter and was developed in response to Elon Musk’s acquisition of the rival platform early last year (Twitter was recently rebranded as X - more on that later - this post refers to Twitter as the longer-standing name). However, it is worth noting that it is not a like-for-like recreation, Twitter has a more advanced feature set with features such as a trending list, hashtags, profile cover images and a web client - not to mention TweetDeck.
 
@@ -22,7 +22,7 @@ The core principles of Threads are precisely like Twitter’s, though, with user
 
 ## Is Threads Good?
 
-![Twitter Blue Sign Up Page](/img/blog/30-07-2023/twitter_blue.png)
+![Twitter Blue Sign Up Page](/img/post/threads/twitter_blue.png)
 
 Here the comparisons with Twitter really count alongside the recent activities of Elon Musk. Threads is shaping up to be a lot calmer platform with less abhorrent content than Twitter and due to its links with Instagram already has a well-established and highly functional verification program. The same cannot be said for Twitter.
 

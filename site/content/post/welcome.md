@@ -4,8 +4,8 @@ date: 2022-08-17T08:22:03.144Z
 draft: "false"
 description: My website has just launched and I'm excited to invite you along for the ride!
 summary: My website has just launched and I'm excited to invite you along for the ride!
-image: /img/blog.webp
-socialimg: /img/blog.webp
+image: /img/typewriter.webp
+socialimg: /img/typewriter.webp
 ---
 
 # Hello!
@@ -18,7 +18,7 @@ On my website, I aim to bring you the latest and greatest news from across STEM 
 
 A frequent theme on this site will be London as I plan to guide you through the insides of the great city as I take time to explore it myself.
 
-### L﻿inks
+### Links
 
 - [Home](https://neoski.uk/)
 - [Blog](https://neoski.uk/post)
