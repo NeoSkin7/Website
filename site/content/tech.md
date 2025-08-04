@@ -76,6 +76,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Image Optimisation
 
 - ImageResizer
+- pinga
 
 ### Image Source
 
@@ -129,6 +130,10 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Package Manager
 
 - Yarn
+
+### PDF Optimisation
+
+- 4dots Free PDF Compress
 
 ### Security
 

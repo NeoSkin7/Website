@@ -8,12 +8,19 @@
 		{{ .Content }}
 
 		<div class="flex-ns mb3">
-			{{ range .Params.contact_entries }}
 			<div>
-				<h3 class="f3 b lh-title mb2 primary">{{ .heading }}</h3>
-				<p>{{ .text }}</p>
+				<h3 class="f3 b lh-title mb2 primary">Newsletter</h3>
+				<p>Subscribe for my free newsletter below!</p>
 			</div>
-			{{ end }}
+		</div>
+
+		{{ partial "newsletter-form" . }}
+
+		<div class="flex-ns mb3">
+			<div>
+				<h3 class="f3 b lh-title mb2 primary">Links</h3>
+				<p>View all my links on the <a href="https://link.neoski.uk">Links</a> page.</p>
+			</div>
 		</div>
 
 		{{ partial "contact-form" . }}
