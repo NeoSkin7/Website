@@ -7,7 +7,7 @@ socialimg: /img/work-mag.webp
 tags: ["Mathematics", "GCSE Guides", "GCSE"]
 files:
   - subheading: GCSE Right-Angle Trigonometry Guide (PDF)
-    fileurl: ../../files/trigonometry-r.pdf
+    fileurl: /files/teach/trigonometry-r/guide.pdf
   - subheading: GCSE Right-Angle Trigonometry Quiz (Kahoot Single-Player)
     fileurl: https://kahoot.it/challenge/?quiz-id=f1f61669-055d-4180-9d62-37cd883fc689&single-player=true
   - subheading: GCSE Right-Angle Trigonometry Quiz (Kahoot Multi-Player)

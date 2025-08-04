@@ -7,7 +7,7 @@ socialimg: /img/work-mag.webp
 tags: ["Physics", "GCSE Guides", "GCSE"]
 files:
   - subheading: GCSE Radioactivity Guide (PDF)
-    fileurl: ../../files/radioactivity.pdf
+    fileurl: /files/teach/radioactivity/guide.pdf
   - subheading: GCSE Right-Angle Trigonometry Quiz (Kahoot Single-Player)
     fileurl: https://kahoot.it/challenge/?quiz-id=e8679760-9528-4ad6-ada9-0324786bba4f&single-player=true
   - subheading: GCSE Right-Angle Trigonometry Quiz (Kahoot Multi-Player)

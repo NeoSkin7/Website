@@ -7,7 +7,7 @@ socialimg: /img/work-mag.webp
 tags: ["Mathematics", "A-Level Guides", "A-Level"]
 files:
   - subheading: A-Level Logarithms Quick Revision Guide (PDF)
-    fileurl: ../../files/logarithms.pdf
+    fileurl: /files/teach/logarithms/guide.pdf
 ---
 
 Logarithms are an entirely new mathematical function not explored at GCSE so it's important that you revise them in depth. Thus this resources was created.

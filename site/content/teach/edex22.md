@@ -8,21 +8,21 @@ socialimg: /img/teach/edex22/edex22.png
 tags: ["Chemistry", "Physics", "EdEx", "GCSE"]
 files:
   - subheading: ALL FILES (.ZIP)
-    fileurl: ../../files/edex22/edex22.zip
+    fileurl: /files/teach/edex22/edex22.zip
   - subheading: Booklet (.DOCX)
-    fileurl: ../../files/edex22/booklet.docx
+    fileurl: /files/teach/edex22/booklet.docx
   - subheading: Booklet (.PDF)
-    fileurl: ../../files/edex22/booklet.pdf
+    fileurl: /files/teach/edex22/booklet.pdf
   - subheading: Mark Scheme (.DOCX)
-    fileurl: ../../files/edex22/mark-scheme.docx
+    fileurl: /files/teach/edex22/mark-scheme.docx
   - subheading: Presentation (.PPTX)
-    fileurl: ../../files/edex22/presentation.pptx
+    fileurl: /files/teach/edex22/presentation.pptx
   - subheading: Presentation (.PDF)
-    fileurl: ../../files/edex22/presentation.pdf
+    fileurl: /files/teach/edex22/presentation.pdf
   - subheading: Demonstrations (.DOCX)
-    fileurl: ../../files/edex22/demos.docx
+    fileurl: /files/teach/edex22/demos.docx
   - subheading: Alexandre Emile Béguyer de Chancourtois Periodic Table 1862 (.PNG)
-    fileurl: ../../files/edex22/periodic-table.png
+    fileurl: /files/teach/edex22/periodic-table.png
   - subheading: Periodic Table Development Documentary (YouTube)
     fileurl: https://www.youtube.com/embed/83RSwczyyRY
 ---
