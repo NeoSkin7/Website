@@ -8,6 +8,9 @@ links1:
   - subheading: "Instagram"
     linkurl: https://link.neoski.uk/instagram
     imgurl: /img/link-icons/instagram.svg
+  - subheading: "Threads"
+    linkurl: https://link.neoski.uk/threads
+    imgurl: /img/link-icons/threads.svg
   - subheading: "YouTube"
     linkurl: https://link.neoski.uk/youtube
     imgurl: /img/link-icons/youtube.svg
@@ -65,12 +68,12 @@ links4:
   - subheading: "GoodReads"
     linkurl: https://link.neoski.uk/goodreads
     imgurl: /img/link-icons/goodreads.svg
+  - subheading: "Numista"
+    linkurl: https://link.neoski.uk/numista
+    imgurl: /img/link-icons/numista.svg
   - subheading: "Last.fm"
     linkurl: https://link.neoski.uk/lastfm
     imgurl: /img/link-icons/lastfm.svg
-  - subheading: "Linkedin"
-    linkurl: https://link.neoski.uk/linkedin
-    imgurl: /img/link-icons/linkedin.svg
   - subheading: "Internet Archive"
     linkurl: https://link.neoski.uk/internetarchive
     imgurl: /img/link-icons/ia.svg
