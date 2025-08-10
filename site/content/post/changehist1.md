@@ -64,7 +64,7 @@ Oscar Wilde was born in 1854 and, over the course of his life, grew to become on
 
 _The Importance of Being Earnest_ was first performed on the 14th of February 1895 and, whilst the play triumphed, Wilde had received a calling card from the Marquess of Queensberry. The card accused Oscar Wilde of being a sodomite - a slur used against people engaging in homosexual relations. During the subsequent libel proceedings, it arose that Wilde was, in fact, homosexual, and he was charged with sodomy and gross indecency, eventually leading to his imprisonment on the 25th of May 1895.
 
-It would take until 1967 for Homosexuality to finally achieve legal status in the United Kingdom.
+It would take until 1967 for homosexuality to finally achieve legal status in the United Kingdom.
 
 ![Oscar Wilde and Alan Turing](/img/post/changehist1/wilde.png)
 
