@@ -13,12 +13,6 @@ links1:
   - subheading: "SkinnerScience"
     linkurl: https://link.neoski.uk/skinnerscience
     imgurl: /img/link-icons/skinnerscience.svg
-  - subheading: "Poole North Scout Group"
-    linkurl: https://link.neoski.uk/pnsg
-    imgurl: /img/link-icons/pnsg.svg
-  - subheading: "Salamander Explorers"
-    linkurl: https://link.neoski.uk/tsexu
-    imgurl: /img/link-icons/tsexu.svg
 section2:
   heading: Depreciated
   text: "These are the projects that I don't maintain, either because I've given up or, yeah, I've given up..."

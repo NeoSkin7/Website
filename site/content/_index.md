@@ -1,6 +1,6 @@
 ---
 title: "That guy on the internet."
-subtitle: “Life would be tragic if it weren't funny.” ― Stephen Hawking
+subtitle: This is Neo Skinner, NeoSki, speaking...
 summary: Neo Skinner is a maverick theoretical physicist and mathematician on a mission to make the world a better and more diverse place through improved education and opportunities.
 image: /img/refuel.webp
 socialimg: /img/banner.webp
