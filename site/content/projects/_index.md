@@ -7,6 +7,9 @@ section1:
   heading: Maintained
   text: "These are the projects that are still regularly updated, unlike others..."
 links1:
+  - subheading: "The D-Series"
+    linkurl: https://link.neoski.uk/d-series
+    imgurl: /img/link-icons/d-series.svg
   - subheading: "Mathstrolabe"
     linkurl: https://link.neoski.uk/mathstrolabe
     imgurl: /img/link-icons/mathstrolabe.svg
