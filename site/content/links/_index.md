@@ -42,6 +42,9 @@ links3:
   - subheading: "Learn More About My Projects"
     linkurl: /projects/
     imgurl: /img/link-icons/more.svg
+  - subheading: "The D-Series"
+    linkurl: https://link.neoski.uk/d-series
+    imgurl: /img/link-icons/d-series.svg
   - subheading: "Mathstrolabe"
     linkurl: https://link.neoski.uk/mathstrolabe
     imgurl: /img/link-icons/mathstrolabe.svg

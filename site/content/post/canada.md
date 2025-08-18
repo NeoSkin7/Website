@@ -38,7 +38,7 @@ As you may imagine from my vivid descriptions, there are architectural differenc
 
 > ### Running the Maths…
 >
-> Canada is the fourth largest country in the world by land area at 9,093,507 square kilometres, working out as just over 37 United Kingdoms (at 242,741 km²), and the second by total area (9,984,670 km²) with 8.9% of its total area comprising of water. Quebec and Ontario are the two largest provinces by total area in that order, whilst the order is switched if measuring by population. Interestingly, the largest territory is Nunavut, which has almost twice the area of Ontario - making it the largest administrative division by area.
+> Canada is the fourth largest country in the world by land area at 9,093,507 square kilometres, working out as just over 37 United Kingdoms (at 242,741 km{{< sup "2" >}}), and the second by total area (9,984,670 km{{< sup "2" >}}) with 8.9% of its total area comprising of water. Quebec and Ontario are the two largest provinces by total area in that order, whilst the order is switched if measuring by population. Interestingly, the largest territory is Nunavut, which has almost twice the area of Ontario - making it the largest administrative division by area.
 
 ## Metric?
 
