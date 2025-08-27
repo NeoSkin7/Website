@@ -70,8 +70,8 @@
 
 	<!-- Cookie Consent -->
 	<!-- Google Analytics -->
-	<script type="text/javascript" data-cookie-consent="tracking-on" src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ" async></script>
-	<script type="text/javascript" data-cookie-consent="tracking-on">
+	<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ" async></script>
+	<script type="text/javascript">
 		window.dataLayer = window.dataLayer || [];
 		function gtag() { dataLayer.push(arguments); }
 		gtag('js', new Date());
@@ -88,7 +88,7 @@
 	<!-- end of Google Analytics-->
 
 	<!-- Microsoft Clarity -->
-	<script type="text/javascript" data-cookie-consent="tracking-on">
+	<script type="text/javascript">
 		(function (c, l, a, r, i, t, y) {
 			c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
 			t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
@@ -96,8 +96,8 @@
 		})(window, document, "clarity", "script", "i9x2jzu2l7");
 
 		window.clarity('consentv2', {
-			ad_storage: "denied",
-			analytics_storage: "denied"
+			ad_Storage: "denied",
+			analytics_Storage: "denied"
 		});
 	</script>
 	<!-- end of Microsoft Clarity-->
@@ -130,13 +130,6 @@
 					required: false,
 					onAccept: function () {
 						console.log("Analytical cookies accepted");
-						const cookieElement = document.querySelector('[data-cookie-consent="tracking-off"]');
-						if (cookieElement) {
-							cookieElement.type = "text/javascript";
-							console.log("Analytical cookies enabled");
-						} else {
-							console.error("ERROR Analytical cookies not found");
-						};
 						gtag('consent', 'update', {
 							'ad_user_data': 'granted',
 							'ad_personalization': 'granted',
@@ -144,9 +137,10 @@
 							'analytics_storage': 'granted'
 						});
 						window.clarity('consentv2', {
-							ad_storage: "granted",
-							analytics_storage: "granted"
+							'ad_storage': 'granted',
+							'analytics_storage': 'granted'
 						});
+						window.clarity('consent', true);
 						dataLayer.push({
 							'event': 'consent_accepted_analytical',
 						});
