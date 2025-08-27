@@ -17,9 +17,16 @@ links1:
     linkurl: https://link.neoski.uk/skinnerscience
     imgurl: /img/link-icons/skinnerscience.svg
 section2:
+  heading: Completed
+  text: "These are the projects which have reached their conclusion gracefully. It probably goes without saying that I am really rather proud of them."
+links2:
+  - subheading: "Skinner's Scientific Spectrum"
+    linkurl: https://link.neoski.uk/spectrum
+    imgurl: /img/link-icons/spectrum.svg
+section3:
   heading: Depreciated
   text: "These are the projects that I don't maintain, either because I've given up or, yeah, I've given up..."
-links2:
+links3:
   - subheading: "LocalAreaRadio"
     linkurl: https://link.neoski.uk/localarearadio
     imgurl: /img/link-icons/lar-trans.svg
@@ -29,10 +36,10 @@ links2:
   - subheading: "Skinner Technology Archive"
     linkurl: https://link.neoski.uk/skinnertechnologyarchive
     imgurl: /img/link-icons/sta.svg
-section3:
+section4:
   heading: Legacy
   text: "These are the projects with lofty intentions that didn't make it through the bumpy alpha process. Some of them were intended as businesses offering services, which are of course unavailable. Overall, these are market flops and diabolical messes by the looks of it."
-links3:
+links4:
   - subheading: "Skinner Family Inc."
     linkurl: https://link.neoski.uk/skinnerfamilyinc
     imgurl: /img/link-icons/sfi.svg
