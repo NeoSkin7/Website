@@ -42,6 +42,8 @@ I've visited all manner of countries, here is a complete list:
 
 > Panama 🇵🇦
 
+> Poland 🇵🇱
+
 > Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
 
 > Spain 🇪🇸
