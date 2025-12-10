@@ -30,7 +30,7 @@ With that context, it is perhaps easier to see how, once begun, religion becomes
 >
 > Everything starts with **beliefs**, opinions held by us which we assumed to be true - examples of this include that 'Arsenal are the best football team since the invention of sliced bread,' and that 'the works of Shakespeare are some of the most confusing plays ever written.'
 >
-> When a set of beliefs are particularly philosophical and concern 'unknowables,' such as morals and life itself (yes, we are going deep), they from the basis of **faith**. It is in this context that faith is used as an umbrella term for personal philosophy.
+> When a set of beliefs are particularly philosophical and concern 'unknowables,' such as morals and life itself (yes, we are going deep), they form the basis of **faith**. It is in this context that faith is used as an umbrella term for personal philosophy.
 >
 > When a faith is shared amongst a group of people, this leads to the formation of **religion**. Religion is the formal system of faith and is often marked by sacred or holy texts and the creation of solid rules for living under faith (for example, the ten commandments). Formal religion involves the establishment of a central organisation that arbitrates and controls activities within the faith.
 >
