@@ -16,15 +16,15 @@ The Nobel Prize posters are here, it's time to talk about the Nobel Prize in Phy
 
 That's a bit of a mouthful - so let's break it down...
 
-# The Quantum Scale
+## The Quantum Scale
 
 The question of the Nobel Prize this year is: "What is the largest system that exhibits quantum effects?" - how large can we make a system before quantum effects are unobservable?
 
 How did they answer that?
 
-# Explaining the Prize
+## Explaining the Prize
 
-## Electrons in Superconductors
+### Electrons in Superconductors
 
 Let's start with a bit of theory. In superconductors, electrons form pairs - known as Cooper pairs - with electrons of opposing spin states. So, we have a spin up electron paired with a spin down electron. Now, electrons are usually subject to the Pauli exclusion principle, which says that no two electrons can occupy the same state.
 
@@ -40,7 +40,7 @@ From 1984 to 1985, our Nobel laureates utilised this fact in something called a 
 
 #### Firing Little Waves at Electrons
 
-## What are Quantum Effects
+### What are Quantum Effects
 
 But, what effects are we talking about here? All quantum systems are (1.) quantised, and they (2.) show tunnelling:
 
@@ -54,7 +54,7 @@ But, tunnelling, if you leave a trapped quantum system for a long enough period 
 
 The laureates observed tunnelling by introducing a current to the Josephson junction: we would expect there to be no voltage flowing across the junction as there is a non-conducting barrier. But, that's not what they found! Instead, a little while after the current was introduced, a voltage did indeed flow. That's a voltage across somewhere where there would not normally be a voltage - and that's because of quantum tunnelling!
 
-# Conclusion
+## Conclusion
 
 All of this demonstrates that quantum effects occur over scales much larger than we initially thought, as we traditionally observe these effects for single particles, but we now have evidence - thanks to our laureates - of quantum effects for a system of billions of particles.
 
