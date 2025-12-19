@@ -12,7 +12,7 @@ You can view the video here: [The Nobel Prize in Physics 2025](https://www.insta
 
 The Nobel Prize posters are here, it's time to talk about the Nobel Prize in Physics!
 
-> The Nobel Prize in Physics 2025 was awarded jointly to John Clarke, Michel H. Devoret and John M. Martinis "for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit"
+> The Nobel Prize in Physics 2025 was awarded jointly to John Clarke, Michel H. Devoret and John M. Martinis "for the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit" (The Royal Swedish Academy of Sciences, 2025)
 
 That's a bit of a mouthful - so let's break it down...
 
