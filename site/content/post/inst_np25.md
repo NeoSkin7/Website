@@ -69,8 +69,7 @@ And you might just find that - pretty cool.
 - Patel, P. (2020). What Are Cooper Pairs & How Are They Responsible For Superconductivity? [online] Science ABC. Available at: [scienceabc.com/pure-sciences/what-are-cooper-pairs-how-are-they-responsible-for-superconductivity.html](https://www.scienceabc.com/pure-sciences/what-are-cooper-pairs-how-are-they-responsible-for-superconductivity.html) [Accessed 19 Dec. 2025].
 - The Royal Swedish Academy of Sciences (2025). Nobel Prize in Physics 2025. [online] The Nobel Prize. Available at: [nobelprize.org/prizes/physics/2025/press-release](https://www.nobelprize.org/prizes/physics/2025/press-release) [Accessed 19 Dec. 2025].
 
-### Image Sources
+Image Credit:
 
-Article Icon: Content from _The Royal Swedish Academy of Sciences_, 2025
-
-Other Images: Content from _Johan Jarnestad/The Royal Swedish Academy of Sciences_, 2025
+- Thumbnail from _The Royal Swedish Academy of Sciences_, 2025
+- Other images from _Johan Jarnestad/The Royal Swedish Academy of Sciences_, 2025
