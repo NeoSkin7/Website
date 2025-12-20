@@ -8,7 +8,7 @@ image: /img/post/inst_np25/thumb.png
 socialimg: /img/post/inst_np25/thumb.png
 ---
 
-You can view the video here: [The Nobel Prize in Physics 2025](https://www.instagram.com/reel/DScrwioDa_d)
+You can view the video here: [The Nobel Prize in Physics 2025](https://vid.neoski.uk/inst/np25)
 
 The Nobel Prize posters are here, it's time to talk about the Nobel Prize in Physics!
 

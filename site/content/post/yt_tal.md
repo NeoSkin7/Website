@@ -8,7 +8,7 @@ image: /img/post/yt_tal/thumb.png
 socialimg: /img/post/yt_tal/thumb.png
 ---
 
-You can view the video here: [Teachers are LIARS](https://youtu.be/NR7aWGRX5Ug)
+You can view the video here: [Teachers are LIARS](https://vid.neoski.uk/yt/tal)
 
 The best teachers are liars. But, that’s a good thing for both students and teachers because it ensures that teachers can specialise and teach to the best of their abilities within a specialism, whilst students only understand what they need for each topic and thus have clarity about subject content.
 
