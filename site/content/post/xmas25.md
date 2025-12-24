@@ -2,8 +2,8 @@
 title: "When Does Christmas Start?"
 date: 2025-12-24T08:00:00.000Z
 draft: "false"
-description: 'Christmas is the ubiquitous winter holiday for billions of people across the globe, but a question that has always troubled me is: "Just when does it start?"'
-summary: 'Christmas is the ubiquitous winter holiday for billions of people across the globe, but a question that has always troubled me is: "Just when does it start?"'
+description: "Christmas is the ubiquitous winter holiday for billions of people across the globe, but a question that has always troubled me is: “Just when does it start?”"
+summary: "Christmas is the ubiquitous winter holiday for billions of people across the globe, but a question that has always troubled me is: “Just when does it start?”"
 image: /img/post/xmas25/thumb.png
 socialimg: /img/post/xmas25/thumb.png
 ---
