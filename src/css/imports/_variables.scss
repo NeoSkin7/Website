@@ -11,9 +11,17 @@
   --black: #ffffff;
 
   /* Typography */
-  --font-family: "itc-souvenir-demi", Nunito Sans, -apple-system,
+  --default-font: "itc-souvenir-demi", Nunito Sans, -apple-system,
     BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue",
     ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
+  --acc-font: Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next",
+    avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial,
+    sans-serif;
+  --title-font: "cooper-black", Nunito Sans, -apple-system, BlinkMacSystemFont,
+    "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
+    "segoe ui", arial, sans-serif;
+  --font-family: var(--default-font);
+  --title-family: var(--title-font);
   --line-height: 1.5;
 
   --font-size: 18px;
@@ -33,7 +41,7 @@
   --spacing-extra-extra-large: 8rem;
   --spacing-extra-extra-extra-large: 16rem;
 
-  /* Miscelaneous */
+  /* Miscellaneous */
   --border-radius: 0.25rem;
   --hover-transition: all 150ms ease;
 }

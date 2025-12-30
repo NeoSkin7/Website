@@ -150,18 +150,3 @@
 		)
 	};
 </script>
-
-<script>
-	function fontSwitch() {
-
-		var font = document.documentElement.style.getPropertyValue('--font-family');
-
-		if (font == '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif') {
-			document.documentElement.style.setProperty('--font-family', 'Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif');
-			console.log("Switched to accessible font");
-		} else {
-			document.documentElement.style.setProperty('--font-family', '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif');
-			console.log("Switched to default font");
-		}
-	}
-</script>

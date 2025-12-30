@@ -6,7 +6,7 @@
   & h4,
   & h5,
   & h6 {
-    font-family: "cooper-black";
+    font-family: var(--title-family);
     text-transform: uppercase;
     text-align: left;
     font-weight: var(--bold-font-weight);
