@@ -177,24 +177,20 @@
 
 	<!-- Accessibility -->
 	<script>
+		let acc = 0;
+
 		function fontSwitch() {
-
-			let acc = 0;
-
 			if (acc == 0) {
 				document.documentElement.style.setProperty('--font-family', 'var(--acc-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
-				acc = 1;
+				let acc = 1;
 				console.log("Switched to accessible font");
-			} else if (acc == 1) {
+			} else {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				acc = 0;
+				let acc = 0;
 				console.log("Switched to default font");
-			} else {
-				console.log("Error, current font unknown");
 			}
-		}
 	</script>
 
 </head>
