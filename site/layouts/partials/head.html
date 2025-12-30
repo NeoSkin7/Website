@@ -183,11 +183,13 @@
 			if (acc == 0) {
 				document.documentElement.style.setProperty('--font-family', 'var(--acc-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
+				document.documentElement.style.setProperty('--acc-button', 'var(--default-font)');
 				acc = 1;
 				console.log("Switched to accessible font");
 			} else {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
+				document.documentElement.style.setProperty('--acc-button', 'var(--acc-font)');
 				acc = 0;
 				console.log("Switched to default font");
 			}

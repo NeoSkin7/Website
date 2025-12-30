@@ -152,20 +152,21 @@ label.popup {
 }
 
 .acc-button {
-  display: none;
   position: fixed;
   bottom: 10px;
   right: 10px;
   justify-content: center;
-  align-items: center;
   width: 60px;
   height: 60px;
   border-radius: 50%;
   padding: 0px;
   border: none;
-  background-color: var(--cookieIconColor);
+  background-color: var(--primary);
+  color: var(--white);
   cursor: pointer;
   box-shadow: 0px 0px 6px 0px #0000001a;
   pointer-events: auto;
   animation: silktide-fadeIn 0.3s ease-in-out forwards;
+  z-index: 1;
+  font-family: var(--acc-button);
 }
