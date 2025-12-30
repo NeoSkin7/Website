@@ -183,12 +183,12 @@
 			if (acc == 0) {
 				document.documentElement.style.setProperty('--font-family', 'var(--acc-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
-				let acc = 1;
+				acc = 1;
 				console.log("Switched to accessible font");
 			} else {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				let acc = 0;
+				acc = 0;
 				console.log("Switched to default font");
 			}
 		}
