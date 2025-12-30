@@ -15,6 +15,13 @@
 		<div class="flex-ns justify-between">
 
 			<div>
+				<h3 class="f4 b lh-title mb1 primary">Accessibility</h3>
+				<ul class="mb3">
+					<li><a id="font-switch" onclick="fontSwitch();" href="javascript:void(0)" class="link">Switch to Accessible Font</a></li>
+				</ul>
+			</div>
+
+			<div>
 				<h3 class="f4 b lh-title mb1 primary">NeoSki</h3>
 				<ul class="mb3">
 					<li><a href="/" class="link">Home</a></li>
@@ -142,4 +149,17 @@
 			{ base: 'https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/' }
 		)
 	};
+</script>
+
+<script>
+	function fontSwitch() {
+
+		var font = document.documentElement.style.getPropertyValue('--font-family');
+
+		if (font == '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;') {
+			document.documentElement.style.setProperty('--font-family', 'Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;');
+		} else {
+			document.documentElement.style.setProperty('--font-family', '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif;');
+		}
+	}
 </script>
