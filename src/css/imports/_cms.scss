@@ -47,6 +47,7 @@
   & a {
     color: var(--primary);
     transition: var(--hover-transition);
+    line-break: anywhere;
     &:hover {
       background-color: var(--highlight);
       color: var(--white);
