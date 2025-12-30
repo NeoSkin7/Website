@@ -194,11 +194,11 @@
 
 			if (tfont == 0) {
 				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
-				var font = 1;
+				var tfont = 1;
 				console.log("Switched to accessible title font");
 			} else {
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				var font = 0;
+				var tfont = 0;
 				console.log("Switched to default title font");
 			}
 		}
