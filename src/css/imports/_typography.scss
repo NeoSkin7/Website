@@ -23,6 +23,17 @@ p {
   margin-bottom: var(--spacing-medium);
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--title-family);
+  text-transform: uppercase;
+  text-align: left;
+}
+
 strong {
   font-weight: var(--bold-font-weight);
 }

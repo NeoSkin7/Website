@@ -179,15 +179,27 @@
 	<script>
 		function fontSwitch() {
 
-			var font = document.documentElement.style.getPropertyValue('--font-family');
-			var tfont = document.documentElement.style.getPropertyValue('--title-family');
+			var font = 0;
+			var tfont = 0;
 
-			if (font == '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif') {
-				document.documentElement.style.setProperty('--font-family', 'Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif');
+			if (font == 0) {
+				document.documentElement.style.setProperty('--font-family', 'var(--acc-font)');
+				var font = 1;
 				console.log("Switched to accessible font");
 			} else {
-				document.documentElement.style.setProperty('--font-family', '"itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial, sans-serif');
+				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
+				var font = 0;
 				console.log("Switched to default font");
+			}
+
+			if (tfont == 0) {
+				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
+				var font = 1;
+				console.log("Switched to accessible title font");
+			} else {
+				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
+				var font = 0;
+				console.log("Switched to default title font");
 			}
 		}
 	</script>
