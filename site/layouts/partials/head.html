@@ -179,27 +179,20 @@
 	<script>
 		function fontSwitch() {
 
-			let font = 0;
-			let tfont = 0;
+			let acc = 0;
 
-			if (font == 0) {
+			if (acc == 0) {
 				document.documentElement.style.setProperty('--font-family', 'var(--acc-font)');
-				font = 1;
-				console.log("Switched to accessible font");
-			} else {
-				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
-				font = 0;
-				console.log("Switched to default font");
-			}
-
-			if (tfont == 0) {
 				document.documentElement.style.setProperty('--title-family', 'var(--acc-font)');
-				tfont = 1;
-				console.log("Switched to accessible title font");
-			} else {
+				acc = 1;
+				console.log("Switched to accessible font");
+			} else if (acc == 1) {
+				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				tfont = 0;
-				console.log("Switched to default title font");
+				acc = 0;
+				console.log("Switched to default font");
+			} else {
+				console.log("Error, current font unknown");
 			}
 		}
 	</script>
