@@ -10,7 +10,7 @@
 
   {{ block "header" . }}{{ partial "nav" . }}{{end}}
 
-  {{ block "main" . }}{{ end }}
+  <div role="main">{{ block "main" . }}{{ end }}</div>
 
   {{ block "footer" . }}{{ partial "footer" . }}{{end}}
 
