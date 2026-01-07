@@ -8,7 +8,7 @@
 	<link rel="preconnect" href="https://neoski.uk/fonts/">
 
 	<!-- Preloads -->
-	<link rel="preload" as="image" href="{{.imageUrl}}" fetchpriority="high">
+	<link rel="preload" as="image" href="{{ .Params.image }}" fetchpriority="high">
 
 	<!-- Stylesheet -->
 	{{ $stylesheet := .Site.Data.webpack.main }}
