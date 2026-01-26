@@ -30,7 +30,7 @@ The second mission is Astrobotic’s Griffin Mission One (Griffin-1), which hope
 
 The initial hundred-day mission will be launched in a SpaceX Falcon Heavy rocket, and the rover is equipped with advanced autonomous navigation systems, which - if they work - will dramatically reduce the risk of rover exploration.
 
-More excitingly for me, though, Griffin-1's main payload - the CubeRover-1 - will be used to calculate pi ($\pi$) on the moon! Although its main purpose is to test the onboard radioisotope heater and the communication systems.
+More excitingly for me, though, Griffin-1's main payload - the CubeRover-1 - will be used to calculate pi \(\pi\) on the moon! Although its main purpose is to test the onboard radioisotope heater and the communication systems.
 
 > Find out more about Griffin Mission One and Astrobotic's other missions in their [moon manifest](https://www.astrobotic.com/lunar-delivery/manifest). Matt Parker is responsible for calculating pi on the moon and you can find out more about it on [the Moon Pi website](https://pi.space) and [the Kickstarter page](https://www.kickstarter.com/projects/standupmaths/moon-pi-were-going-to-calculate-on-the-moon).
 
