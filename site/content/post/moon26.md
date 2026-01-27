@@ -1,6 +1,6 @@
 ---
 title: We're Going Back to the Moon!
-date: 2026-01-26T08:00:00.000Z
+date: 2026-01-27T08:00:00.000Z
 draft: "false"
 description: VIDEO TRANSCRIPT - 2026 is the year of the moon, so lets discuss the missions.
 summary: VIDEO TRANSCRIPT - 2026 is the year of the moon, so lets discuss the missions.
@@ -24,6 +24,8 @@ They hope to make observations of the geology and landscape of the back of the m
 
 > Information about the Artemis II mission can be found on [the NASA website](https://www.nasa.gov/mission/artemis-ii).
 
+![The Observatory](/img/post/moon26/telescope.png)
+
 ## Griffin Mission One
 
 The second mission is Astrobotic’s Griffin Mission One (Griffin-1), which hopes to land a rover on the lunar surface. The major purpose of sending this rover is to test their technology, with the long term goal of making rover tech available to companies.
@@ -34,6 +36,8 @@ More excitingly for me, though, Griffin-1's main payload - the CubeRover-1 - wil
 
 > Find out more about Griffin Mission One and Astrobotic's other missions in their [moon manifest](https://www.astrobotic.com/lunar-delivery/manifest). Matt Parker is responsible for calculating $\pi$ on the moon and you can find out more about it on [the Moon Pi website](https://pi.space) and [the Kickstarter page](https://www.kickstarter.com/projects/standupmaths/moon-pi-were-going-to-calculate-on-the-moon).
 
+![The Moon](/img/post/moon26/moon.png)
+
 ---
 
 ### Sources
@@ -42,4 +46,7 @@ Information was sourced from the NASA and Astrobotic websites.
 
 Image Credit:
 
-Images of the observatory and moon are kindly provided by _Royal Holloway, University of London_.
+- "The Moon (near side)" by Gregory H. Revera, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0) [modified], via Wikimedia Commons
+- "Orion with the ESA Service Module" by NASA, [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en) [modified], via Flickr
+- Mission patches from _NASA_, _Astrobotic_, and _Matt Parker (Moon Pi)_
+- Images of the observatory and moon are kindly provided by _Royal Holloway, University of London_
