@@ -46,7 +46,7 @@ $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=k\frac{L}{3\sigma_y}
 $$
 
-which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $\unit[1]{m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1] [^5] [^7].
+which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $1\text{m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1][^5][^7].
 
 Now, that all sounds like a lot! Let me break down each term:
 
@@ -60,7 +60,7 @@ The first assumption I will make is the type of rock that Sisyphus is condemned 
 
 The value of the wear coefficient is specific to a material, and there are often even differences in the experimental value between different samples of the same material[^6]. Once again, I cannot experiment with samples, so this means that I have to make more assumptions: in this case that the boulder is uniform and that there is very little difference in the wear coefficient between granite samples (samples are also uniform).
 
-With all this taken into account, a bit of searching gives me a value for $k$ of $\unitfrac[0.0017]{mg}{Nm}$[^3] or $\unitfrac[1.7\times10^{-9}]{kg}{Nm}$ (the units used here are chosen so the equation make sense). Phew!
+With all this taken into account, a bit of searching gives me a value for $k$ of $0.0017\text{mg/Nm}$[^3] or $1.7\times10^{-9}\text{kg/Nm}$ (the units used here are chosen so the equation make sense). Phew!
 
 ### Applied Load
 
@@ -76,7 +76,7 @@ By Newton's Third Law (explained below), we also have a force of the slope pushi
 
 ![Resolving the Forces](/img/post/sisyphus/components.png)
 
-With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $\unit[250]{N}$[^4] for males ($\unit{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
+With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{N}$[^4] for males ($\text{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
 
 Putting this together gives the equation:
 
@@ -96,7 +96,7 @@ $$
 P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}
 $$
 
-The unknowns in this equation are $m$ - which we are trying to calculate - $\mu$ and $\vartheta$. We can tackle $\mu$ first by assuming that Sisyphus is on a rather steep slope with an incline of $15^\circ$, which I have chosen as the steepest street in the world is a $20^\circ$ slope[^8] and I suspect that this is slightly too much for a consistent $\units[250]{N}$ force (to be fair, $15^\circ$ is probably still too much, but I think this is a fair assumption).
+The unknowns in this equation are $m$ - which we are trying to calculate - $\mu$ and $\vartheta$. We can tackle $\mu$ first by assuming that Sisyphus is on a rather steep slope with an incline of $15^\circ$, which I have chosen as the steepest street in the world is a $20^\circ$ slope[^8] and I suspect that this is slightly too much for a consistent $250\text{N}$ force (to be fair, $15^\circ$ is probably still too much, but I think this is a fair assumption).
 
 > ### Newton’s Third Law
 >
@@ -116,7 +116,7 @@ $$
 P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}\implies m=\frac{P}{\mu\mathrm{g}\cos{\vartheta}+\mathrm{g}\sin{\vartheta}}
 $$
 
-And, substituting in the values I assumed, this gives the mass as $\unit[30.397]{kg}$.
+And, substituting in the values I assumed, this gives the mass as $30.397\text{kg}$.
 
 Now, can you remember what we needed the mass for? We needed it for the load! The equation I gave you before for this was:
 
@@ -124,15 +124,15 @@ $$
 L=m\mathrm{g}\cos{\vartheta}
 $$
 
-For a gradient of $15^\circ$ and a mass of $\unit[30.397]{kg}$, this works out as $\unit[288.03]{N}$. Wow! That was a lot of work…
+For a gradient of $15^\circ$ and a mass of $30.397\text{kg}$, this works out as $288.03\text{N}$. Wow! That was a lot of work…
 
 ### Yield Stress
 
-Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $\unit[310]{MPa}$[^2] or $\unit[3.1\times10^8]{Pa}$ is the largest value for granite (here $\unit{Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
+Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $310\text{MPa}$[^2] or $3.1\times10^8\text{Pa}$ is the largest value for granite (here $\text{Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
 
 ### The Result
 
-We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $\unitfrac[5.2651\times10^{-16}]{m^{3}}{m}$ for the volume worn away by Sisyphus per metre.
+We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $5.2651\times10^{-16}\text{m${}^{3}$/m}$ for the volume worn away by Sisyphus per metre.
 
 ![And, Finally...](/img/post/sisyphus/archard-calc.png)
 
@@ -144,7 +144,7 @@ $$
 t=\frac{V}{v\frac{\mathrm{d}V}{\mathrm{d}s}}
 $$
 
-where we can find the erosion time $t$ by dividing the total volume $V$ of the boulder by the amount of volume eroded in one second. We find the erosion volume per unit time by multiplying our Archard's Law result by the speed of Sisyphus, as the speed $v$ is simply the distance moved in one second. The speed is our final assumption: I chose $\unitfrac[1]{m}{s}$ as a casual walking pace and reasonable continuous strenuous pushing rate - although this is probably optimistic!
+where we can find the erosion time $t$ by dividing the total volume $V$ of the boulder by the amount of volume eroded in one second. We find the erosion volume per unit time by multiplying our Archard's Law result by the speed of Sisyphus, as the speed $v$ is simply the distance moved in one second. The speed is our final assumption: I chose $1\text{m/s}$ as a casual walking pace and reasonable continuous strenuous pushing rate - although this is probably optimistic!
 
 > ### Understanding Speed
 >
@@ -166,21 +166,21 @@ where we can find the erosion time $t$ by dividing the total volume $V$ of the b
 > \frac{\mathrm{d}V}{\mathrm{d}t}=\frac{\mathrm{d}V}{\mathrm{d}s}\frac{\mathrm{d}s}{\mathrm{d}t}
 > $$
 >
-> where all of the $\mathrm{d}$s used here signify small changes in the quantities they are in front of - for example a small change in distance is $\mathrm{d}s$.
+> where $\mathrm{d}$ is used here signify small changes in the quantity it is in front of - for example a small change in distance is $\mathrm{d}s$.
 
-Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $\unitfrac[2660]{kg}{m^3}$[^2], which we can plug into the density formula below:
+Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{kg/m${}^3$}$[^2], which we can plug into the density formula below:
 
 $$
 \rho=\frac{m}{V}\implies V=\frac{m}{\rho}
 $$
 
-This gives a value of $\unit[0.011428]{m^3}$.
+This gives a value of $0.011428\text{m${}^3$}$.
 
-Putting everything together, our final result is (drumroll please): $\unit[2.1705\times10^{13}]{s}$, or $\unit[687800]{years}$!
+Putting everything together, our final result is (drumroll please): $2.1705\times10^{13}\text{s}$, or $687800\text{years}$!
 
 ### Interpretation
 
-This result, $\unit[687800]{years}$ might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
+This result, $687800\text{years}$ might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
 
 However, I am not quite done…
 
@@ -210,7 +210,7 @@ $$
 L=\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
 $$
 
-with $V_i$ equalling the initial volume of the boulder, 0.011428 m cubed. Archard's Law is then:
+with $V_i$ equalling the initial volume of the boulder, $0.011428\text{m${}^3$}$. Archard's Law is then:
 
 $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=\frac{k}{3\sigma_y}\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
@@ -228,28 +228,12 @@ Bonus points are to be awarded for spotting the assumptions I have neglected to 
 
 ### Sources
 
-References:
-
-[^1]: Delaney, B. and Wang, Q.J. (2025). Archard’s Law: Foundations, Extensions, and Critiques. Encyclopedia, [online] 5(3), p.124. doi:https://doi.org/10.3390/encyclopedia5030124.
-
-[^2]: Matmake (2018). Properties of Granite. [online] Matmake. Available at: https://matmake.com/materials-data/granite-properties.html [Accessed 24 Feb. 2026].
-
-[^3]: Sukhomlinov, S.V., Müser, M.H. and Persson, J. (2026). Granite sliding on granite: friction, wear rates, surface topography, and the scale-dependence of rate-state effects. arXiv: Physics Geophysics. [online] doi:https://doi.org/10.48550/arXiv.2512.01765.
-
-[^4]: Welly (2025). How many newtons is a normal push? Understanding human force. [online] Welly. Available at: https://welly.it.com/how-many-newtons-is-a-normal-push [Accessed 24 Feb. 2026].
-
-[^5]: Wikipedia Contributors (2020). Abrasion (mechanical). [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Abrasion_(mechanical) [Accessed 24 Feb. 2026].
-
-[^6]: Wikipedia Contributors (2021). Wear coefficient. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Wear_coefficient [Accessed 24 Feb. 2026].
-
-[^7]: Wikipedia Contributors (2023). Archard equation. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/Archard_equation [Accessed 24 Feb. 2026].
-
-[^8]: Wikipedia Contributors (2023). List of steepest roads and streets. [online] Wikipedia. Available at: https://en.wikipedia.org/wiki/List_of_steepest_roads_and_streets [Accessed 24 Feb. 2026].
+References are included below this section.
 
 Story Sources:
 
-- Britannica Editors (2018). Sisyphus. In: Encyclopædia Britannica. [online] Available at: [britannica.com/topic/Sisyphus](https://www.britannica.com/topic/Sisyphus) [Accessed 24 Feb. 2026].
-- Kapach, A. (2022). Sisyphus. [online] Mythopedia. Available at: [mythopedia.com/topics/sisyphus](mythopedia.com/topics/sisyphus) [Accessed 24 Feb. 2026].
+- Britannica Editors (2018). Sisyphus. In: _Encyclopædia Britannica_. [online] Available at: [britannica.com/topic/Sisyphus](https://www.britannica.com/topic/Sisyphus) [Accessed 24 Feb. 2026].
+- Kapach, A. (2022). _Sisyphus_. [online] Mythopedia. Available at: [mythopedia.com/topics/sisyphus](https://mythopedia.com/topics/sisyphus) [Accessed 24 Feb. 2026].
 
 [Read more about how I use Wikipedia.](https://neoski.uk/post/wikipedia)
 
@@ -257,4 +241,20 @@ Image and Video Credit:
 
 - "Sisyphus" by Antonio Zanchi, Public domain, via Wikimedia Commons [modified]
 - "Hermaic Stele of Zeus" by George E. Koronaios, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
-- "Pyxis of Zeus and Aigina" by Caeciliusinhorto, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons
+- "Pyxis of Zeus and Aigina" by Caeciliusinhorto, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Common
+
+[^1]: Delaney, B. and Wang, Q.J. (2025). Archard’s Law: Foundations, Extensions, and Critiques. _Encyclopedia_, [online] 5(3), p.124. doi: [10.3390/encyclopedia5030124](https://doi.org/10.3390/encyclopedia5030124).
+
+[^2]: Matmake (2018). _Properties of Granite_. [online] Matmake. Available at: [matmake.com/materials-data/granite-properties.html](https://matmake.com/materials-data/granite-properties.html) [Accessed 24 Feb. 2026].
+
+[^3]: Sukhomlinov, S.V., Müser, M.H. and Persson, J. (2026). Granite sliding on granite: friction, wear rates, surface topography, and the scale-dependence of rate-state effects. _arXiv: Physics Geophysics_. [online] doi: [10.48550/arXiv.2512.01765](https://doi.org/10.48550/arXiv.2512.01765).
+
+[^4]: Welly (2025). _How many newtons is a normal push? Understanding human force_. [online] Welly. Available at: [welly.it.com/how-many-newtons-is-a-normal-push](https://welly.it.com/how-many-newtons-is-a-normal-push) [Accessed 24 Feb. 2026].
+
+[^5]: Wikipedia Contributors (2020). _Abrasion (mechanical)_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Abrasion\_(mechanical)](<https://en.wikipedia.org/w/index.php?title=Abrasion_(mechanical)&oldid=1332657203>) [Accessed 24 Feb. 2026].
+
+[^6]: Wikipedia Contributors (2021). _Wear coefficient_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Wear_coefficient](https://en.wikipedia.org/w/index.php?title=Wear_coefficient&oldid=1297844434) [Accessed 24 Feb. 2026].
+
+[^7]: Wikipedia Contributors (2023). _Archard equation_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Archard_equation](https://en.wikipedia.org/w/index.php?title=Archard_equation&oldid=1328536533) [Accessed 24 Feb. 2026].
+
+[^8]: Wikipedia Contributors (2023). _List of steepest roads and streets_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/List_of_steepest_roads_and_streets](https://en.wikipedia.org/w/index.php?title=List_of_steepest_roads_and_streets&oldid=1304109582) [Accessed 24 Feb. 2026].
