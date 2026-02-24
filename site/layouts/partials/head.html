@@ -67,8 +67,13 @@
 	<!-- MathJax -->
 	<script defer>
 		window.MathJax = {
+			loader: {
+				load: ['[tex]/units']
+			},
 			tex: {
-				inlineMath: { '[+]': [['$', '$']] }
+				inlineMath: { '[+]': [['$', '$']] },
+				packages: { '[+]': ['units'] },
+				units: { ugly: true }
 			},
 			svg: {
 				fontCache: 'global'
