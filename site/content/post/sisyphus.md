@@ -1,7 +1,7 @@
 ---
 title: "The Condemnation of Sisyphus"
-date: 2026-02-26T08:00:00.000Z
-draft: "true"
+date: 2026-02-24T20:00:00.000Z
+draft: "false"
 description: The tragic story of Sisyphus is one of the most famous tales of Greek mythology, but is there a way Sisyphus could be relieved of his eternal burden? I think so!
 summary: The tragic story of Sisyphus is one of the most famous tales of Greek mythology, but is there a way Sisyphus could be relieved of his eternal burden? I think so!
 image: /img/post/sisyphus/thumb.png
