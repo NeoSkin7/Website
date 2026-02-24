@@ -76,7 +76,7 @@ By Newton's Third Law (explained below), we also have a force of the slope pushi
 
 ![Resolving the Forces](/img/post/sisyphus/components.png)
 
-With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{ N}$[^4] for males ($\text{ N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
+With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{ N}$[^4] for males ($\text{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
 
 Putting this together gives the equation:
 
@@ -128,7 +128,7 @@ For a gradient of $15^\circ$ and a mass of $30.397\text{ kg}$, this works out as
 
 ### Yield Stress
 
-Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $310\text{ MPa}$[^2] or $3.1\times10^8\text{ Pa}$ is the largest value for granite (here $\text{ Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
+Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $310\text{ MPa}$[^2] or $3.1\times10^8\text{ Pa}$ is the largest value for granite (here $\text{Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
 
 ### The Result
 
