@@ -68,7 +68,11 @@
 	<script defer>
 		window.MathJax = {
 			tex: {
-				inlineMath: { '[+]': [['$', '$']] }
+				block: [['\[', '\]'], ['$$', '$$']],
+				inline: [['\(', '\)'], ['$', '$']]
+			},
+			loader: {
+				load: ['ui/safe']
 			},
 			svg: {
 				fontCache: 'global'
