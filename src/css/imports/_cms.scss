@@ -12,6 +12,7 @@
     font-weight: var(--bold-font-weight);
     line-height: 1.25;
     margin-bottom: var(--spacing-small);
+    overflow-wrap: break-word;
   }
 
   & h1 {
