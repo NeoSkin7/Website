@@ -46,7 +46,7 @@ $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=k\frac{L}{3\sigma_y}
 $$
 
-which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $1\text{ m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1][^5][^7].
+which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $1\text{ m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1] [^5] [^7].
 
 Now, that all sounds like a lot! Let me break down each term:
 
