@@ -1,7 +1,7 @@
 ---
 title: "The Condemnation of Sisyphus"
 date: 2026-02-24T20:00:00.000Z
-draft: "false"
+draft: "true"
 description: The tragic story of Sisyphus is one of the most famous tales of Greek mythology, but is there a way Sisyphus could be relieved of his eternal burden? I think so!
 summary: The tragic story of Sisyphus is one of the most famous tales of Greek mythology, but is there a way Sisyphus could be relieved of his eternal burden? I think so!
 image: /img/post/sisyphus/thumb.png
@@ -248,8 +248,8 @@ References:
 
 Story Sources:
 
-- Britannica Editors (2018). Sisyphus. In: Encyclopædia Britannica. [online] Available at: https://www.britannica.com/topic/Sisyphus [Accessed 24 Feb. 2026].
-- Kapach, A. (2022). Sisyphus. [online] Mythopedia. Available at: https://mythopedia.com/topics/sisyphus/ [Accessed 24 Feb. 2026].
+- Britannica Editors (2018). Sisyphus. In: Encyclopædia Britannica. [online] Available at: [britannica.com/topic/Sisyphus](https://www.britannica.com/topic/Sisyphus) [Accessed 24 Feb. 2026].
+- Kapach, A. (2022). Sisyphus. [online] Mythopedia. Available at: [mythopedia.com/topics/sisyphus](mythopedia.com/topics/sisyphus) [Accessed 24 Feb. 2026].
 
 [Read more about how I use Wikipedia.](https://neoski.uk/post/wikipedia)
 
