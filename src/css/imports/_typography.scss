@@ -33,6 +33,10 @@ h6 {
   text-transform: uppercase;
   text-align: left;
   word-wrap: break-word;
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
 }
 
 strong {

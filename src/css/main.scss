@@ -94,7 +94,8 @@
   font-family: "itc-souvenir-demi";
   font-style: normal;
   font-weight: 400;
-  src: url(https://neoski.uk/fonts/itc_souvenir_demi.woff2) format("woff2"),
+  src:
+    url(https://neoski.uk/fonts/itc_souvenir_demi.woff2) format("woff2"),
     url(https://neoski.uk/fonts/itc_souvenir_demi.woff) format("woff");
   font-display: swap;
 }
@@ -103,7 +104,8 @@
   font-family: "cooper-black";
   font-style: normal;
   font-weight: 400;
-  src: url(https://neoski.uk/fonts/cooper_black.woff2) format("woff2"),
+  src:
+    url(https://neoski.uk/fonts/cooper_black.woff2) format("woff2"),
     url(https://neoski.uk/fonts/cooper_black.woff) format("woff");
   font-display: swap;
 }
@@ -115,6 +117,11 @@ footer a.link {
 
 p {
   text-align: justify;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  hyphens: auto;
 }
 
 .tc {
