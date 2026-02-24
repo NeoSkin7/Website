@@ -46,7 +46,7 @@ $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=k\frac{L}{3\sigma_y}
 $$
 
-which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $1\text{m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1][^5][^7].
+which says that the change in volume $V$ of the boulder per unit distance $s$ (in this case $1\text{ m}$), $\frac{\mathrm{d}V}{\mathrm{d}s}$, is equal to the load applied $L$ divided by 3 times the yield stress $\sigma_y$, with constant $k$ called the wear coefficient[^1][^5][^7].
 
 Now, that all sounds like a lot! Let me break down each term:
 
@@ -60,7 +60,7 @@ The first assumption I will make is the type of rock that Sisyphus is condemned 
 
 The value of the wear coefficient is specific to a material, and there are often even differences in the experimental value between different samples of the same material[^6]. Once again, I cannot experiment with samples, so this means that I have to make more assumptions: in this case that the boulder is uniform and that there is very little difference in the wear coefficient between granite samples (samples are also uniform).
 
-With all this taken into account, a bit of searching gives me a value for $k$ of $0.0017\text{mg/Nm}$[^3] or $1.7\times10^{-9}\text{kg/Nm}$ (the units used here are chosen so the equation make sense). Phew!
+With all this taken into account, a bit of searching gives me a value for $k$ of $0.0017\text{ mg/Nm}$[^3] or $1.7\times10^{-9}\text{ kg/Nm}$ (the units used here are chosen so the equation make sense). Phew!
 
 ### Applied Load
 
@@ -76,7 +76,7 @@ By Newton's Third Law (explained below), we also have a force of the slope pushi
 
 ![Resolving the Forces](/img/post/sisyphus/components.png)
 
-With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{N}$[^4] for males ($\text{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
+With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{ N}$[^4] for males ($\text{ N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
 
 Putting this together gives the equation:
 
@@ -96,7 +96,7 @@ $$
 P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}
 $$
 
-The unknowns in this equation are $m$ - which we are trying to calculate - $\mu$ and $\vartheta$. We can tackle $\mu$ first by assuming that Sisyphus is on a rather steep slope with an incline of $15^\circ$, which I have chosen as the steepest street in the world is a $20^\circ$ slope[^8] and I suspect that this is slightly too much for a consistent $250\text{N}$ force (to be fair, $15^\circ$ is probably still too much, but I think this is a fair assumption).
+The unknowns in this equation are $m$ - which we are trying to calculate - $\mu$ and $\vartheta$. We can tackle $\mu$ first by assuming that Sisyphus is on a rather steep slope with an incline of $15^\circ$, which I have chosen as the steepest street in the world is a $20^\circ$ slope[^8] and I suspect that this is slightly too much for a consistent $250\text{ N}$ force (to be fair, $15^\circ$ is probably still too much, but I think this is a fair assumption).
 
 > ### Newton’s Third Law
 >
@@ -116,7 +116,7 @@ $$
 P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}\implies m=\frac{P}{\mu\mathrm{g}\cos{\vartheta}+\mathrm{g}\sin{\vartheta}}
 $$
 
-And, substituting in the values I assumed, this gives the mass as $30.397\text{kg}$.
+And, substituting in the values I assumed, this gives the mass as $30.397\text{ kg}$.
 
 Now, can you remember what we needed the mass for? We needed it for the load! The equation I gave you before for this was:
 
@@ -124,15 +124,15 @@ $$
 L=m\mathrm{g}\cos{\vartheta}
 $$
 
-For a gradient of $15^\circ$ and a mass of $30.397\text{kg}$, this works out as $288.03\text{N}$. Wow! That was a lot of work…
+For a gradient of $15^\circ$ and a mass of $30.397\text{ kg}$, this works out as $288.03\text{ N}$. Wow! That was a lot of work…
 
 ### Yield Stress
 
-Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $310\text{MPa}$[^2] or $3.1\times10^8\text{Pa}$ is the largest value for granite (here $\text{Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
+Now for something a bit easier! The yield stress is the stress (force per unit area) that an object can resist before permanently deforming and breaking. This another value which we can conveniently just grab straight from a search: $310\text{ MPa}$[^2] or $3.1\times10^8\text{ Pa}$ is the largest value for granite (here $\text{ Pa}$ is for Pascals, the unit of stress as force per unit area) - again assuming the hardest possible job for Sisyphus.
 
 ### The Result
 
-We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $5.2651\times10^{-16}\text{m${}^{3}$/m}$ for the volume worn away by Sisyphus per metre.
+We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $5.2651\times10^{-16}\text{ m${}^{3}$/m}$ for the volume worn away by Sisyphus per metre.
 
 ![And, Finally...](/img/post/sisyphus/archard-calc.png)
 
@@ -144,7 +144,7 @@ $$
 t=\frac{V}{v\frac{\mathrm{d}V}{\mathrm{d}s}}
 $$
 
-where we can find the erosion time $t$ by dividing the total volume $V$ of the boulder by the amount of volume eroded in one second. We find the erosion volume per unit time by multiplying our Archard's Law result by the speed of Sisyphus, as the speed $v$ is simply the distance moved in one second. The speed is our final assumption: I chose $1\text{m/s}$ as a casual walking pace and reasonable continuous strenuous pushing rate - although this is probably optimistic!
+where we can find the erosion time $t$ by dividing the total volume $V$ of the boulder by the amount of volume eroded in one second. We find the erosion volume per unit time by multiplying our Archard's Law result by the speed of Sisyphus, as the speed $v$ is simply the distance moved in one second. The speed is our final assumption: I chose $1\text{ m/s}$ as a casual walking pace and reasonable continuous strenuous pushing rate - although this is probably optimistic!
 
 > ### Understanding Speed
 >
@@ -168,19 +168,19 @@ where we can find the erosion time $t$ by dividing the total volume $V$ of the b
 >
 > where $\mathrm{d}$ is used here signify small changes in the quantity it is in front of - for example a small change in distance is $\mathrm{d}s$.
 
-Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{kg/m${}^3$}$[^2], which we can plug into the density formula below:
+Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{ kg/m${}^3$}$[^2], which we can plug into the density formula below:
 
 $$
 \rho=\frac{m}{V}\implies V=\frac{m}{\rho}
 $$
 
-This gives a value of $0.011428\text{m${}^3$}$.
+This gives a value of $0.011428\text{ m${}^3$}$.
 
-Putting everything together, our final result is (drumroll please): $2.1705\times10^{13}\text{s}$, or $687800\text{years}$!
+Putting everything together, our final result is (drumroll please): $2.1705\times10^{13}\text{ s}$, or $687800\text{ years}$!
 
 ### Interpretation
 
-This result, $687800\text{years}$ might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
+This result, $687800\text{ years}$ might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
 
 However, I am not quite done…
 
@@ -210,7 +210,7 @@ $$
 L=\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
 $$
 
-with $V_i$ equalling the initial volume of the boulder, $0.011428\text{m${}^3$}$. Archard's Law is then:
+with $V_i$ equalling the initial volume of the boulder, $0.011428\text{ m${}^3$}$. Archard's Law is then:
 
 $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=\frac{k}{3\sigma_y}\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
