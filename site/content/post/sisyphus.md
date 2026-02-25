@@ -184,7 +184,7 @@ Putting everything together, our final result is (drumroll please): $2.1705\time
 
 ### Interpretation
 
-This result, $687800\text{ years}$ might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
+This result, $687800\text{ years}$, might seem like a long time, but it is most definitely shorter than Sisyphus was condemned for: eternity! Eternity is an awfully long time.
 
 However, I am not quite done…
 
