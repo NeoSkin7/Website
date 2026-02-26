@@ -1,7 +1,7 @@
 ---
 title: "The Challenger Disaster: Why Data Science Is Important"
 date: 2026-02-26T08:00:00.000Z
-draft: "false"
+draft: "true"
 description: VIDEO TRANSCRIPT - What happens when NASA misunderstands data?
 summary: VIDEO TRANSCRIPT - What happens when NASA misunderstands data?
 image: /img/post/challenger/thumb.png
