@@ -1,7 +1,7 @@
 ---
 title: "The Challenger Disaster: Why Data Science Is Important"
 date: 2026-02-26T08:00:00.000Z
-draft: "true"
+draft: "false"
 description: VIDEO TRANSCRIPT - What happens when NASA misunderstands data?
 summary: VIDEO TRANSCRIPT - What happens when NASA misunderstands data?
 image: /img/post/challenger/thumb.png
@@ -42,7 +42,7 @@ Now, NASA knew that their O-rings became less effective at lower temperatures, w
 
 This is the graph that NASA managers were presented with (Figure 6, above)[^7]. Can you find a correlation between the number of incidents and the joint temperature? NASA managers and engineers couldn't, so they proceeded with the launch.
 
-{{\< video src="/vid/post/challenger/explosion.mp4" type="video/mp4" loop="true" muted="true" autoplay="true" preload="auto" poster="/img/post/challenger/poster.png" >}}
+{{< video src="/vid/post/challenger/explosion.mp4" type="video/mp4" loop="true" muted="true" autoplay="true" preload="auto" poster="/img/post/challenger/poster.png" >}}
 
 The launch of the Challenger space shuttle began on January 28th, 1986, at 11:38 am with the ignition of the solid rocket boosters. But, 73 seconds into the launch, tragedy struck - the shuttle exploded, killing the entire crew of seven, including scientists and a school teacher.
 
