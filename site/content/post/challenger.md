@@ -30,11 +30,11 @@ It's 1986, and NASA have a problem with their Challenger Space Shuttle[^1] - you
 
 The operating principles of a Space Shuttle are relatively simple; the main Orbiter vehicle is launched by two sets of rocket boosters[^2], powered by liquid hydrogen and oxygen stored in the famous orange external tank. Two minutes after launch[^3], the boosters fall away, and the Orbiter is powered by the three rocket engines.
 
-By burning liquid hydrogen in thrusters in a large supply of oxygen, the Space Shuttle achieves the thrust needed for lift off. Now, the O-rings we're interested in sealed the fuel pipe joints on the shuttle. The hydrogen was burned here (Diagrams below) in the Solid Rocket Booster, with the pipe joints located just here (Circled section, below) - those were sealed with the O-rings[^4].
+By burning liquid hydrogen in thrusters in a large supply of oxygen, the Space Shuttle achieves the thrust needed for lift off. Now, the O-rings we're interested in sealed the fuel pipe joints on the shuttle. The hydrogen was burned here (diagrams below) in the Solid Rocket Booster, with the pipe joints located just here (circled section, below) - those were sealed with the O-rings[^4].
 
 ![The Position of the Field Joint](/img/post/challenger/joint-pos.png)
 
-Now, NASA knew that their O-rings became less effective at lower temperatures, with a reduction of elasticity of 5 times between 75 and 30 degrees Fahrenheit - that means that their O-rings were 5 times worse at returning to their original shape. Moreover, the air temperature at launch was 36 degrees Fahrenheit (which is roughly 2 degrees Celsius) - that was 15 degrees colder than any previous launch [^5]. Those were extremely worrying conditions, so they commissioned a graph[^6].
+Now, NASA knew that their O-rings became less effective at lower temperatures, with a reduction of elasticity of 5 times between 75 and 30 degrees Fahrenheit - that means that their O-rings were 5 times worse at returning to their original shape. Moreover, the air temperature at launch was 36 degrees Fahrenheit (which is roughly 2 degrees Celsius) - that was 15 degrees colder than any previous launch[^5]. Those were extremely worrying conditions, so they commissioned a graph[^6].
 
 ## The Fatal Graph
 
