@@ -62,6 +62,8 @@ It has been just over 40 years since the Challenger disaster, and NASA now have 
 
 Footnotes are included below this section.
 
+Credit to Hannah Fry for the inspiration for this video, and to Royal Holloway, University of London, for filming permission.
+
 ### Sources
 
 - National Aeronautics and Space Administration (2006). Solid Rocket Boosters and Post-Launch Processing. [online] John F. Kennedy Space Center. National Aeronautics and Space Administration. Available at: [www3.nasa.gov/centers/kennedy/pdf/167440main_SRBProcessing06.pdf](https://www3.nasa.gov/centers/kennedy/pdf/167440main_SRBProcessing06.pdf) [Accessed 19 Feb. 2026].
