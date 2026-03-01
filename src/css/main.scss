@@ -85,6 +85,9 @@
 /* Uncomment out the line below to help debug layout issues */
 /*@use './imports/_debug';*/
 
+/* Silktide Cookie Consent */
+@use "./silktide-consent-manager.scss";
+
 :root {
   color-scheme: dark;
 }

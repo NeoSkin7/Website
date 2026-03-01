@@ -13,7 +13,7 @@
   --focus: 0 0 0 2px #ffffff, 0 0 0 4px #000000, 0 0 0 6px #ffffff;
   --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
   --fontFamily: Helvetica Neue, Segoe UI, Arial, sans-serif;
-  --primaryColor: #1D95F8;
+  --primaryColor: #1d95f8;
   --backgroundColor: #050505;
   --textColor: #ffffff;
   --backdropBackgroundColor: #00000033;
@@ -30,7 +30,7 @@
   border: 0px;
   display: flex;
   justify-content: center;
-  align-items: center
+  align-items: center;
 }
 
 /* Backdrop (Global) */
@@ -94,8 +94,6 @@
   border-radius: 5px;
 }
 
-#silktide-wrapper .st-button--primary {}
-
 #silktide-wrapper .st-button--primary:hover {
   background-color: var(--backgroundColor);
   color: var(--primaryColor);
@@ -132,7 +130,9 @@
   opacity: 0;
   animation: silktide-slideInDown 350ms ease-out forwards;
   animation-delay: 0.3s;
-  box-shadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
+  box-shadow:
+    -5px 5px 10px 0px #00000012,
+    0px 0px 50px 0px #0000001a;
 }
 
 #silktide-banner:focus {
@@ -186,7 +186,7 @@
 
 #silktide-banner .preferences:after {
   display: block;
-  content: '>';
+  content: ">";
   text-decoration: none;
 }
 
@@ -215,7 +215,6 @@
   width: 24px;
   height: 24px;
 }
-
 
 #silktide-banner .actions {
   display: flex;
@@ -253,7 +252,9 @@
   transform: translate(0px, -20px);
   opacity: 0;
   animation: silktide-slideInUp-center 350ms ease-out forwards;
-  box-shadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
+  box-shadow:
+    -5px 5px 10px 0px #00000012,
+    0px 0px 50px 0px #0000001a;
   font-family: var(--fontFamily);
   color: var(--textColor);
   flex-direction: column;
@@ -412,7 +413,9 @@
   position: absolute;
   top: 7px;
   right: 8px;
-  transition: right 150ms ease-out, opacity 150ms ease-out;
+  transition:
+    right 150ms ease-out,
+    opacity 150ms ease-out;
 }
 
 #silktide-modal .switch__off {
@@ -424,26 +427,26 @@
 }
 
 /* Checked Switch Styles */
-#silktide-modal .switch input:checked+.switch__pill {
+#silktide-modal .switch input:checked + .switch__pill {
   background: var(--primaryColor);
 }
 
-#silktide-modal .switch input:checked~.switch__dot {
+#silktide-modal .switch input:checked ~ .switch__dot {
   left: calc(100% - 32px);
 }
 
-#silktide-modal .switch input:checked~.switch__off {
+#silktide-modal .switch input:checked ~ .switch__off {
   right: calc(100% - 32px);
   opacity: 0;
 }
 
-#silktide-modal .switch input:checked~.switch__on {
+#silktide-modal .switch input:checked ~ .switch__on {
   right: calc(100% - 34px);
   opacity: 1;
 }
 
 /* Disabled Switch Styles */
-#silktide-modal .switch input:disabled+.switch__pill {
+#silktide-modal .switch input:disabled + .switch__pill {
   opacity: 0.65;
   cursor: not-allowed;
 }
