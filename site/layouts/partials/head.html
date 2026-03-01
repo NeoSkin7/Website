@@ -6,6 +6,7 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://neoski.uk/fonts/">
+	<link rel="preconnect" href="https://cdn.jsdelivr.net/npm/mathjax@4/">
 
 	<!-- Preloads -->
 	<link rel="preload" as="image" href="{{ .Params.image }}" fetchpriority="high">
@@ -17,7 +18,10 @@
 	{{ end }}
 
 	<!-- Google Fonts -->
-	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap" rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript>
+		<link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,700&display=swap" rel="stylesheet">
+	</noscript>
 
 	<!-- General -->
 	<meta charset="utf-8">
@@ -136,7 +140,6 @@
 	<!-- end of Microsoft Clarity-->
 
 	<!-- Consent Manager -->
-	<link rel="stylesheet" id="silktide-consent-manager-css" href="/cookie-consent/silktide-consent-manager.css">
 	<script src="/cookie-consent/silktide-consent-manager.js" defer></script>
 	<!-- end of Consent Manager -->
 	<!-- end of Cookie Consent -->
