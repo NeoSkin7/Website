@@ -113,7 +113,11 @@ Then, the coefficient of friction depends not only on the material of the boulde
 We are now in the position to actually do a calculation! Let us attempt to find the mass of the boulder. The first step is to rearrange our expression for $P$ to find the mass:
 
 $$
-P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}\implies m=\frac{P}{\mu\mathrm{g}\cos{\vartheta}+\mathrm{g}\sin{\vartheta}}
+P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}
+$$
+
+$$
+\implies m=\frac{P}{\mu\mathrm{g}\cos{\vartheta}+\mathrm{g}\sin{\vartheta}}
 $$
 
 And, substituting in the values I assumed, this gives the mass as $30.397\text{ kg}$.

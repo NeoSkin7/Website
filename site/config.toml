@@ -1,6 +1,6 @@
 baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
+languageCode = "en-gb"
+languageLang = "en-gb"
 title = "NeoSki"
 enableRobotsTXT = true
 [taxonomies]
