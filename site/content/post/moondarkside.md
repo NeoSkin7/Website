@@ -14,7 +14,7 @@ socialimg: /img/post/moondarkside/thumb.jpg
 
 You can view the video here: [Seeing the Dark Side of the Moon...](https://vid.neoski.uk/inst/moondarkside)
 
-{{< video src="/vid/post/moondarkside/launch.webm" type="video/webm" loop="false" muted="false" autoplay="false" preload="auto" poster="/img/post/moondarkside/poster.jpg" >}}
+{{< video src="/vid/post/moondarkside/launch.webm" type="video/webm" preload="auto" poster="/img/post/moondarkside/poster.jpg" >}}
 
 In just a couple of hours, at 2:45 PM ET (7:45 PM BST)[^1], the Artemis II mission will travel around the back of the Moon. Over seven hours of total time, the crew will make observations and take detailed photos of the dark side of the Moon - one of the main aims of the mission.
 
