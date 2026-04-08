@@ -20,9 +20,9 @@ In just a couple of hours, at 2:45 PM ET (7:45 PM BST)[^1], the Artemis II missi
 
 Now, to celebrate this, I thought I would put together some facts about the mission:
 
-First, you might have noticed that I'm holding a globe, well, if the Earth was this size, then the Moon would be about the size of a tennis ball and it would be about sixty metres away - that's quite a long distance! It has taken the mission over 5 days to travel to the Moon, and they'll go to a maximum of 252,760 miles from Earth (406,780 km).
+First, you might have noticed that I'm holding a globe, well, if the Earth was this size, then the Moon would be about the size of a tennis ball and it would be about sixty metres away - that's quite a long distance! It has taken the mission over 5 days to travel to the Moon, and they'll go to a maximum of 252 760 miles from Earth (406 780 km).
 
-The crew will come within 4,070 miles (6,550 km) of the Moon's surface and we'll lose contact with them for around 40 minutes during their observations. But, when we recontact them, we'll get photos from the 32 cameras which are around and within the Orion spacecraft which will be sent back for us to enjoy!
+The crew will come within 4 070 miles (6 550 km) of the Moon's surface and we'll lose contact with them for around 40 minutes during their observations. But, when we recontact them, we'll get photos from the 32 cameras which are around and within the Orion spacecraft which will be sent back for us to enjoy!
 
 ## Those Lovely Photos
 
