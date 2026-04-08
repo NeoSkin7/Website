@@ -1,6 +1,6 @@
 ---
 title: "You Can Help Too!"
-date: 2026-04-08T08:00:00.000Z
+date: 2026-04-09T08:00:00.000Z
 draft: "false"
 description: "Science is open and collaborative, and that includes you, too! Find out how you can get involved in citizen science in this article."
 summary: "Science is open and collaborative, and that includes you, too! Find out how you can get involved in citizen science in this article."
