@@ -2,23 +2,25 @@
 
 <div class="mw6 center ph3 pv4">
   <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-  <div class="flex flex-wrap justify-between grey-4">
-    <p>{{ .Date.Format "Mon, 2 Jan, 2006" }}</p>
-    <p>Read in {{ .ReadingTime }} minutes</p>
+  <div class="grey-4 mb3">
+    <div class="flex flex-wrap justify-between">
+      <p class="mb0">{{ .Date.Format "Mon, 2 Jan, 2006" }}</p>
+      <p class="mb0">Read in {{ .ReadingTime }} minutes</p>
+    </div>
     {{ if .Params.tags }}
-    <div class="tag-group">
+    <div class="tag-group grey-4">
       {{ range .Params.tags }}
       <span class="tag-text">
         <a href="/tags/{{. | urlize }}">{{.}}</a>
       </span>
       &nbsp;
       {{end}}
-      {{ end }}
-    </div>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
     </div>
   </div>
-  {{ end }}
+  <div class="cms mw6">
+    <p>{{ .Description }}</p>
+    {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}
