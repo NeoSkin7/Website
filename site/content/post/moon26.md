@@ -6,6 +6,7 @@ description: VIDEO TRANSCRIPT - 2026 is the year of the moon, so lets discuss th
 summary: VIDEO TRANSCRIPT - 2026 is the year of the moon, so lets discuss the missions.
 image: /img/post/moon26/thumb.png
 socialimg: /img/post/moon26/thumb.png
+tags: ["Physics", "NASA", "Artemis"]
 ---
 
 You can view the video here: [We're Going Back to the Moon!](https://vid.neoski.uk/inst/moon26)

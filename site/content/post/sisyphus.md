@@ -6,6 +6,7 @@ description: The tragic story of Sisyphus is one of the most famous tales of Gre
 summary: The tragic story of Sisyphus is one of the most famous tales of Greek mythology, but is there a way Sisyphus could be relieved of his eternal burden? I think so!
 image: /img/post/sisyphus/thumb.png
 socialimg: /img/post/sisyphus/thumb.png
+tags: ["Physics"]
 ---
 
 I was recently thinking about the Greek myth of Sisyphus, the tragic protagonist who pokes fun at the gods and pays the ultimate consequence: eternal damnation. But, what if the story is not quite that simple?

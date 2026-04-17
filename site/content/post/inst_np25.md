@@ -6,6 +6,7 @@ description: VIDEO TRANSCRIPT - What is the largest system that exhibits quantum
 summary: VIDEO TRANSCRIPT - What is the largest system that exhibits quantum effects?
 image: /img/post/inst_np25/thumb.png
 socialimg: /img/post/inst_np25/thumb.png
+tags: ["Physics"]
 ---
 
 You can view the video here: [The Nobel Prize in Physics 2025](https://vid.neoski.uk/inst/np25)

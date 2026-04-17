@@ -6,6 +6,7 @@ description: "Science is open and collaborative, and that includes you, too! Fin
 summary: "Science is open and collaborative, and that includes you, too! Find out how you can get involved in citizen science in this article."
 image: /img/post/citsci/thumb.png
 socialimg: /img/post/citsci/thumb.png
+tags: ["Physics", "NASA"]
 ---
 
 As the great communicator Carl Sagan once said, "we live in a society exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology." I invite you today to join the group of "hardly anyone" and unite with us in our pursuit of knowledge - by _doing_ science.

@@ -6,6 +6,7 @@ description: VIDEO TRANSCRIPT - Artemis II has reached the Moon, here are the ph
 summary: VIDEO TRANSCRIPT - Artemis II has reached the Moon, here are the photos they got!
 image: /img/post/moondarkside/thumb.jpg
 socialimg: /img/post/moondarkside/thumb.jpg
+tags: ["Physics", "NASA", "Artemis"]
 ---
 
 > ### About This Transcript
