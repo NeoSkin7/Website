@@ -5,7 +5,7 @@
   <div class="flex flex-wrap justify-between grey-4">
     <p>{{ .Date.Format "Mon, 2 Jan, 2006" }}</p>
     <p>Read in {{ .ReadingTime }} minutes</p>
-    {{ with .Params.tags }}
+    {{ if .Params.tags }}
     <div class="tag-group">
       {{ range .Params.tags }}
       <span class="tag-text">
