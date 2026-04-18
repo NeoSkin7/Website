@@ -9,7 +9,7 @@
     </div>
     {{ if .Params.tags }}
     <div class="tag-group grey-4">
-      {{ range .Params.tags }}
+      {{ range .Params.tags.Alphabetical }}
       <span class="tag-text">
         <a href="/tags/{{. | urlize }}">{{.}}</a>
       </span>
