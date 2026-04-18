@@ -5,9 +5,9 @@
   <div class="flex flex-wrap justify-between grey-4">
     <p>{{ .Date.Format "Mon, 2 Jan, 2006" }}</p>
     <div class="tag-group">
-      {{ range .Params.tags }}
+      {{ range .Params.terms }}
       <span class="tag-text">
-        <a href="/tags/{{. | urlize }}">{{.}}</a>
+        <a href="/terms/{{. | urlize }}">{{.}}</a>
       </span>
       &nbsp;
       {{end}}

@@ -5,6 +5,7 @@ title = "NeoSki"
 enableRobotsTXT = true
 [taxonomies]
   tag = 'tags'
+  term = 'terms'
 [markup]
     [markup.goldmark]
         [markup.goldmark.renderer]

@@ -5,7 +5,7 @@ description: My yearly instalment of educational goodness!
 summary: My yearly instalment of educational goodness!
 image: /img/teach/edex22/edex22.png
 socialimg: /img/teach/edex22/edex22.png
-tags: ["Chemistry", "Physics", "EdEx", "GCSE"]
+terms: ["Chemistry", "Physics", "EdEx", "GCSE"]
 files:
   - subheading: ALL FILES (.ZIP)
     fileurl: /files/teach/edex22/edex22.zip

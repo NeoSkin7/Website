@@ -4,7 +4,7 @@ date: 2022-12-04T17:00:00.000Z
 description: Your complete GCSE guide to enzymes.
 summary: Your complete GCSE guide to enzymes.
 socialimg: /img/work-mag.webp
-tags: ["Biology", "GCSE Guides", "GCSE"]
+terms: ["Biology", "GCSE Guides", "GCSE"]
 files:
   - subheading: GCSE Enzymes Guide (PDF)
     fileurl: /files/teach/enzymes/guide.pdf

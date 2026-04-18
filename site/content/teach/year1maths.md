@@ -4,7 +4,7 @@ date: 2025-10-16T15:00:00.000Z
 description: Collected Mathematical Problems for First Year Students (University)
 summary: Collected Mathematical Problems for First Year Students (University)
 socialimg: /img/work-mag.webp
-tags: ["Mathematics", "Problems", "University"]
+terms: ["Mathematics", "Problems", "University"]
 files:
   - subheading: Collected Mathematical Problems for First Year Students (PDF)
     fileurl: /files/teach/year1maths/problems.pdf

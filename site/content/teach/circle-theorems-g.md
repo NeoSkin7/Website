@@ -4,7 +4,7 @@ date: 2022-12-17T16:00:00.000Z
 description: A graph of different circle theorems.
 summary: A graph of different circle theorems.
 socialimg: /img/work-mag.webp
-tags: ["Mathematics", "GCSE"]
+terms: ["Mathematics", "GCSE"]
 files:
   - subheading: Graphical Circle Theorems (GeoGebra)
     fileurl: https://link.neoski.uk/circle-theorems-g
