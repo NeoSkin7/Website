@@ -37,3 +37,5 @@ The current SkinnerMedia cover image is "Film tapes scattered on table near smar
 # Other Images
 
 All other images are sourced from [Pexels](https://www.pexels.com/) or from other sources clearly listed within website pages. Any images on this website that are composite or logos are made specially for this purpose, all rights reserved.
+
+Images on tag and topic pages may be sourced from articles within their categories.

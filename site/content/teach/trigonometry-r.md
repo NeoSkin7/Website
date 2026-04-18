@@ -4,7 +4,7 @@ date: 2022-12-16T15:00:00.000Z
 description: Your complete GCSE guide to right-angle trigonometry.
 summary: Your complete GCSE guide to right-angle trigonometry.
 socialimg: /img/work-mag.webp
-terms: ["Mathematics", "GCSE Guides", "GCSE"]
+topics: ["Mathematics", "GCSE Guides", "GCSE"]
 files:
   - subheading: GCSE Right-Angle Trigonometry Guide (PDF)
     fileurl: /files/teach/trigonometry-r/guide.pdf

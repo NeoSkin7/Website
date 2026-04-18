@@ -88,7 +88,7 @@ Image and Video Credit:
 
 [^3]: This figure is inconsistently reported; the _Report to the Presidential Commission_ gives this stated value, which is "roughly [...] 24 miles down range." Other literature gives this value as 26.3 nautical miles, 45 km, or 146 000 ft.
 
-[^4]: This is a major oversimplification. The O-rings sealed the joints between sections of the motor case, within which liquid hydrogen and oxygen flowed. The joints were packed with putty and installed with two O-rings, which were sealed by the pressure of the liquid fuel within the motor case during launch. This setup forms a tang and clevis joint. The actual O-rings used were 0.25 inches in diameter, a lot smaller than the one I show in the video. These diagrams may be misleadingly annotated, it was the right booster which failed.
+[^4]: This is a major oversimplification. The O-rings sealed the joints between sections of the motor case, within which liquid hydrogen and oxygen flowed. The joints were packed with putty and installed with two O-rings, which were sealed by the pressure of the liquid fuel within the motor case during launch. This setup forms a tang and clevis joint. The actual O-rings used were 0.25 inches in diameter, a lot smaller than the one I show in the video. These diagrams may be misleadingly annotated, it was the right booster which failed. Note also that the hydrogen supplied by the tank reacted with solid aluminium fuel in the oxygen-rich environment to provide thrust, not that the hydrogen combusted (burned) directly to form water as the propellant.
 
 [^5]: Data from the _Report to the Presidential Commission_, this transcript is consistent with the original units. 36 °F ≈ 2.22 °C.
 

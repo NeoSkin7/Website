@@ -4,7 +4,7 @@ date: 2022-11-12T18:30:00.000Z
 description: Resources from a recent radioactivity session.
 summary: Resources from a recent radioactivity session.
 socialimg: /img/work-mag.webp
-terms: ["Physics", "GCSE and Beyond", "GCSE"]
+topics: ["Physics", "GCSE and Beyond", "GCSE"]
 files:
   - subheading: Notes (PDF)
     fileurl: /files/teach/more-on-radioactivity_12-11-2022/notes.pdf

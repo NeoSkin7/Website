@@ -4,7 +4,7 @@ date: 2023-04-13T16:00:00.000Z
 description: Your complete GCSE guide to radioactivity.
 summary: Your complete GCSE guide to radioactivity.
 socialimg: /img/work-mag.webp
-terms: ["Physics", "GCSE Guides", "GCSE"]
+topics: ["Physics", "GCSE Guides", "GCSE"]
 files:
   - subheading: GCSE Radioactivity Guide (PDF)
     fileurl: /files/teach/radioactivity/guide.pdf

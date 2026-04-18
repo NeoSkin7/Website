@@ -4,7 +4,7 @@ date: 2022-12-17T17:00:00.000Z
 description: A graph of different equations.
 summary: A graph of different equations.
 socialimg: /img/work-mag.webp
-terms: ["Mathematics", "GCSE"]
+topics: ["Mathematics", "GCSE"]
 files:
   - subheading: Graphical Equations (GeoGebra)
     fileurl: https://link.neoski.uk/graphical-equations-g
