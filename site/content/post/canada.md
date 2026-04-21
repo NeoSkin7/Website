@@ -16,9 +16,7 @@ I suppose I should start with a _rough_ itinerary, so here goes:
 
 The trip lasted a total of 17 days, including travel time, and was centred around 7 different locations which were, in order of appearance: Québec, Tadoussac (St. Lawrence River), Montréal, Ottawa, Whitney (Algonquin Park), Niagara Falls, and Toronto.
 
-![Toronto and Whitney Signs](/img/post/canada/toronto-to-whitney.png)
-
-#### From Toronto to Whitney
+![Toronto and Whitney Signs](/img/post/canada/toronto-to-whitney.png "From Toronto to Whitney")
 
 As I was travelling around, each of these centres occupied only 1 to 3 days of the trip each and it was, therefore, necessary to ‘live out of a suitcase’ for the trip such that an egregious amount of time was not spent unpacking and repacking, and items did not get forgotten!
 
@@ -26,9 +24,7 @@ As I was travelling around, each of these centres occupied only 1 to 3 days of t
 
 Canada has a grand total of ten provinces (at least according to the omnipotent Wikipedia) and during my trip, I had the pleasure of exploring just two: Quebec and Ontario. I exhibit these now as diametric friends - as different as it gets for the same country.
 
-![Province Flags](/img/post/canada/provinces.jpg)
-
-#### Can You Count to 10?
+![Province Flags](/img/post/canada/provinces.jpg "Can You Count to 10?")
 
 Quebec is a province defined by the St Lawrence river and what I picture a French-designed USA to look like, whilst Ontario is dominated by the Great Lakes and, as a direct comparison, a Britain designed by the US Founding Fathers.
 
@@ -44,9 +40,7 @@ As you may imagine from my vivid descriptions, there are architectural differenc
 
 One of my favourite games to play when visiting a new country is: Are they metric? And this trip was no different! (I know, I play sad games…) So, how metric is Canada?
 
-![How Metric?](/img/post/canada/metric.png)
-
-#### My Definition of Gaming is Different to Yours
+![How Metric?](/img/post/canada/metric.png "My Definition of Gaming is Different to Yours")
 
 From the collection of images above, I am conflicted about whether or not to pronounce Canada metric, grocery stores still use pounds (that strange ‘lb’ symbol) for a start! So, it might help to understand the history of metrication: much like the UK, Canada began metrication in 1971 and this saw the government urge many different industries and companies to switch to an SI-unit based measurement system. And they were more successful than us! Canada made the difficult switch to metric road signs in 1977, and its currency had already been decimal for decades - two of the most difficult factors solved seamlessly. Thus, Canada _really_ is metric.
 
@@ -64,9 +58,7 @@ It says rather a lot about a country that their national dish consists of fries,
 
 Poutine is an interesting dish, chips and gravy I can certainly get behind as one of our fish and chip shop favourites alongside curry sauce and mushy peas. However, the addition of cheese curds is baffling: they add almost nothing to the flavour and have a somewhat confusing rubbery texture; it is almost as though cheese curds were added purely to increase the cholesterol of the general populous. But, a national dish it remains, and it is definitely worth a try - especially with bacon!
 
-![Pie and Poutine](/img/post/canada/poutine.jpg)
-
-#### Two Classics in One
+![Pie and Poutine](/img/post/canada/poutine.jpg "Two Classics in One")
 
 I was fortunate enough to sample my poutine with tourtière, French Canada’s answer to a meat pie, consisting of pork, beef, potatoes, and onions in a rich gravy usually encased in a lovely pastry case. The version I was served lacked the pastry, instead replacing it with poutine to cut down on the carbs - my body thanks them. The review? It is very nice if you are a fan of beef and pork, which just so happen to be my least favourite meats… I did enjoy it though!
 
@@ -74,17 +66,13 @@ Of course, Canada is no stranger to fast food - it is somewhat unavoidable given
 
 Tim Hortons hosts the ‘Dunkin Donuts’ experience north of the border, with sweet baked goods and enough caffeine to sink a small battleship. Their most notable item is donut holes, which they delightfully call timbits - available to buy individually (why?) and as packs of 10, 20, and 50.
 
-![Tim Hortons and Timbits](/img/post/canada/tim-hortons.png)
-
-#### The Prodigal Baker Doth Provide
+![Tim Hortons and Timbits](/img/post/canada/tim-hortons.png "The Prodigal Baker Doth Provide")
 
 Finally, Pizza Pizza does exactly what it says on the tin: pizza. Canada’s answer to Domino’s is nothing to write home about, but it is a high street staple with almost 60 years of experience.
 
 If you, like me, get excited by holey baked goods, it may interest you to know that Montréal is one of the bagel capitals of the world. St-Viateur Bagel is Montréal’s bagel institution, with 5 locations serving 10 different bagel types and a choice of 11 fillings! Its Mont-Royal location is the best place to go for a bagel lunch, breakfast, or even dinner (at a push).
 
-![A Bagel](/img/post/canada/bagels.png)
-
-#### What’s In the Box?
+![A Bagel](/img/post/canada/bagels.png "What’s In the Box?")
 
 I can highly recommend the all dressed club bagel (not pictured - it did not last long…).
 
@@ -96,9 +84,7 @@ I can highly recommend the all dressed club bagel (not pictured - it did not las
 
 During the trip, I visited both Tadoussac’s Sentier dunes and the Algonquin Provincial Park (via Whitney). Canada has some fantastic and remarkable landscapes and animals, which I thoroughly enjoyed exploring and cannot recommend highly enough.
 
-![Sentier Dunes and Algonquin Park](/img/post/canada/nature.png)
-
-#### Nature At Its Finest (L: Sentier dunes, C&R: Algonquin Provincial Park)
+![Sentier Dunes and Algonquin Park](/img/post/canada/nature.png "Nature At Its Finest (L: Sentier dunes, C&R: Algonquin Provincial Park)")
 
 If you are planning a visit, the Sentier dunes are fairly out of the way and might take a little bit of research - there is a viewing platform not too far from the dunes which gives a great view accessible via a short trail.
 
@@ -123,9 +109,7 @@ Oh, and try not to stand too close to anyone - you do not want to get caught up 
 
 The Canadian Dollar (CAD) is the national currency of Canada and immediately served to impress me with modern designs for both coins and notes! Standard circulation coins begin with the 5, 10, and 25 cent coins (using a decimal system, $1 = 100¢), followed by the 1 and 2 dollar coins. 50 cent coins are minted, but have not circulated since 2004.
 
-![The 5 Coins](/img/post/canada/coins.jpg)
-
-#### Ship, Beaver, Moose, Duck, Bear
+![The 5 Coins](/img/post/canada/coins.jpg "Ship, Beaver, Moose, Duck, Bear")
 
 As for the banknotes, the frontier series is the most common in circulation and features bold colours with portraits of important governing figures from Canada’s past. Banknote denominations include 5, 10, 20, 50 and 100 dollars. There is also a vertical 10 dollar banknote, and future designs are planned for other denominations - this is exciting!
 
@@ -146,9 +130,7 @@ The governmental system of Canada is composed of four elements which are designe
 
 The Canadian parliament is located in buildings in Ottawa, and usually both the Senate and the House of Commons are located in the same building. Usually, because the building was under renovation during my visit, and thus the chambers had been relocated temporarily.
 
-![Government Building and Changing of the Guard](/img/post/canada/gov.png)
-
-#### Enough Spires for Ya?
+![Government Building and Changing of the Guard](/img/post/canada/gov.png "Enough Spires for Ya?")
 
 Each of the Canadian provinces also has its own government, responsible for the administration of the province.
 
@@ -160,9 +142,7 @@ If you visit the Canadian parliament at around 0945, you might just be lucky eno
 
 ## Closing Thoughts
 
-![Niagara Falls](/img/post/canada/niagara.jpg)
-
-#### Worth the Trip?
+![Niagara Falls](/img/post/canada/niagara.jpg "Worth the Trip?")
 
 Whilst my goal was not to provide a travel guide, I do hope that you might find this persuasive enough to consider a trip to Canada for yourself! I found myself marvelling at everything from architecture to beaver dams and so much more; it really is a fantastic place to go. Great food, great people and great places - all the boxes are ticked.
 
