@@ -20,9 +20,7 @@ During the night of the 24th of July 1797, Admiral Horatio Nelson and 700 Britis
 
 The calm silence of the night was shattered as cannon balls and musket bullets filled the air, foiling the British assault and wounding Nelson. With Admiral Nelson bleeding profusely and his plan in tatters, the British retreated. Back on board HMS Theseus, a surgeon tended to Nelson’s wound, amputating his right arm to create the Admiral’s now famous lopsided portrait.
 
-![Admiral Nelson and His Famous Ailment](/img/post/changehist1/nelson.png)
-
-#### One Naval Battle and One Arm-y Battle
+![Admiral Nelson and His Famous Ailment](/img/post/changehist1/nelson.png "One Naval Battle and One Arm-y Battle")
 
 ## 2. Six Pence - 1834 - King William IV
 
@@ -34,9 +32,7 @@ Slavery dominated the colonial world and formed the backbone of Tudor, Elizabeth
 
 In 1807, the Abolition of the Slave Trade Act was introduced, which put an end to the profitable transatlantic slave trade, but still did not outlaw the use of slaves across the empire. It would not be until the 1st of August 1834, when the Slavery Abolition Act of 1833 came into effect, that slavery was finally outlawed across the British Empire.
 
-![Slavery In All Its Gory Detail](/img/post/changehist1/slavery.png)
-
-#### A Terrible Business
+![Slavery In All Its Gory Detail](/img/post/changehist1/slavery.png "A Terrible Business")
 
 ## 3. One Shilling - 1853 - Queen Victoria
 
@@ -50,9 +46,7 @@ Cowpox is caused by a virus in the same family as the variola virus, which cause
 
 Smallpox was successfully eradicated by 1980 thanks to the resulting worldwide vaccination program, begun with the 1853 Act of Parliament.
 
-![The Smallpox Vaccine and Edward Jenner](/img/post/changehist1/vaccine.png)
-
-#### Disease Beware!
+![The Smallpox Vaccine and Edward Jenner](/img/post/changehist1/vaccine.png "Disease Beware!")
 
 ## 4. Half Crown - 1895 - Queen Victoria
 
@@ -66,9 +60,7 @@ _The Importance of Being Earnest_ was first performed on the 14th of February 18
 
 It would take until 1967 for homosexuality to finally achieve legal status in the United Kingdom.
 
-![Oscar Wilde and Alan Turing](/img/post/changehist1/wilde.png)
-
-#### Icons in More Ways to Count
+![Oscar Wilde and Alan Turing](/img/post/changehist1/wilde.png "Icons in More Ways to Count")
 
 ## 5. Farthing - 1914 - King George V
 
@@ -80,9 +72,7 @@ On the 5th of August 1914, _The London Gazette_ issued a statement from the Fore
 
 During the war, the Royal Mint turned its efforts towards manufacturing munitions and medals in aid of the war effort. Gold sovereigns, worth one pound (240 pence), were switched for the more convenient and cheaper one pound banknote during this time - the legacy of the pound note would last until 1983, when it was once again replaced by a coin.
 
-![The British Sovereign Will Win](/img/post/changehist1/ww1.png)
-
-#### Women Have Always Run the World
+![The British Sovereign Will Win](/img/post/changehist1/ww1.png "Women Have Always Run the World")
 
 Perhaps this adventure was a good idea, and maybe it was not. Either way, should enough people enjoy it, then there will almost certainly be a follow up - the coins are not yet done!
 

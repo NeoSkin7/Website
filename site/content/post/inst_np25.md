@@ -31,15 +31,11 @@ Let's start with a bit of theory. In superconductors, electrons form pairs - kno
 
 However, electrons in a Cooper pair act as one single particle and this means that their combined properties result in the pair not being subject to the exclusion principle. Because of this, these particles form a condensate, a system where all of the Cooper pairs are in the same state and that means that all of our Cooper pairs also act as one even bigger particle.
 
-![Superconductor Theory](/img/post/inst_np25/superconductors.png)
-
-#### That's Superconductors for Ya
+![Superconductor Theory](/img/post/inst_np25/superconductors.png "That's Superconductors for Ya")
 
 From 1984 to 1985, our Nobel laureates utilised this fact in something called a Josephson junction - a component formed from two superconducting layers separated by a thin non-conducting layer. This allowed them to observe quantum effects.
 
-![The Experimental Setup](/img/post/inst_np25/josephson.png)
-
-#### Firing Little Waves at Electrons
+![The Experimental Setup](/img/post/inst_np25/josephson.png "Firing Little Waves at Electrons")
 
 ### What are Quantum Effects
 
@@ -49,9 +45,7 @@ A quantised system, first of all, can only emit or absorb certain amounts of ene
 
 But, tunnelling, if you leave a trapped quantum system for a long enough period of time - we're talking about a random effect here - the system will eventually tunnel out of its trap, this is known as quantum tunnelling and that occurs because we deal not with particles, but with wavefunctions in quantum mechanics.
 
-![Quantum Tunnelling](/img/post/inst_np25/tunnelling.png)
-
-#### I'm Trapped! Not Anymore...
+![Quantum Tunnelling](/img/post/inst_np25/tunnelling.png "I'm Trapped! Not Anymore...")
 
 The laureates observed tunnelling by introducing a current to the Josephson junction: we would expect there to be no voltage flowing across the junction as there is a non-conducting barrier. But, that's not what they found! Instead, a little while after the current was introduced, a voltage did indeed flow. That's a voltage across somewhere where there would not normally be a voltage - and that's because of quantum tunnelling!
 
