@@ -23,7 +23,7 @@ The Artemis II mission had a number of different objectives:
 
 The main goal of the mission was to test the systems of the Orion spacecraft (used for the Artemis missions [pictured above]) and its suitability for human spaceflight. Initial testing was completed in 2022 with the Artemis I mission, which found that the spacecraft could successfully travel the distance required and perform the complex operations needed for lunar missions. However, Artemis I was uncrewed. This means that the initial mission, whilst a good test, could not test how well the craft supported humans, nor could it test the manual systems.
 
-So, Artemis II acted as an ‘acid test’ for human spaceflight back to the Moon. Over the coming months, the data collected from the mission will be analysed alongside astronaut feedback to improve the design of the spacecraft and its systems for future missions.
+So, Artemis II acted as an 'acid test' for human spaceflight back to the Moon. Over the coming months, the data collected from the mission will be analysed alongside astronaut feedback to improve the design of the spacecraft and its systems for future missions.
 
 ### 2. Record the Effects of Spaceflight on Human Health
 
@@ -55,7 +55,7 @@ Once again, the data collected from the lunar flybys are still being analysed, a
 
 ## Next for the Program
 
-Artemis II was given the number “II” for a reason: it was the second in the Artemis program of missions. But, it was _not_ the final mission! NASA has many more missions planned for the program, which promises to bring us _properly_ back to the Moon…
+Artemis II was given the number "II" for a reason: it was the second in the Artemis program of missions. But, it was _not_ the final mission! NASA has many more missions planned for the program, which promises to bring us _properly_ back to the Moon…
 
 ### Artemis III
 
