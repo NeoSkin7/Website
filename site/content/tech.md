@@ -32,6 +32,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Content Delivery Network (CDN)
 
 - Amazon S3
+- Cloudflare
 - jsDelivr
 - Netlify
 - Unpkg
@@ -55,6 +56,14 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ### Domain Registrar
 
 - Porkbun
+
+### Domain Name Server (DNS)
+
+- Netlify
+
+#### DNS Proxy
+
+- Cloudflare
 
 ### Email
 
@@ -137,6 +146,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 ### Security
 
+- Cloudflare
 - HSTS
 - Let's Encrypt
 - reCAPTCHA
