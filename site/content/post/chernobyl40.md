@@ -1,7 +1,7 @@
 ---
 title: "Chernobyl: 40 Years of Learning"
 date: 2026-05-16T08:00:00.000Z
-draft: "true"
+draft: "false"
 description: VIDEO TRANSCRIPT - What actually happened at Chernobyl?
 summary: VIDEO TRANSCRIPT - What actually happened at Chernobyl?
 image: /img/post/chernobyl40/thumb.png
