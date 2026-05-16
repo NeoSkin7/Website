@@ -83,23 +83,27 @@ Filming by Dhillon Johal. Thanks to Royal Holloway, University of London, for fi
 
 ### Sources
 
-- Čirjak, A. (2020). How Far Did Chernobyl Radiation Reach? [online] WorldAtlas. Available at: [worldatlas.com/articles/how-far-did-chernobyl-radiation-reach.html](https://www.worldatlas.com/articles/how-far-did-chernobyl-radiation-reach.html) [Accessed 16 May 2026].
-- Institution of Civil Engineers (2016). Chernobyl new safe confinement. [online] Institution of Civil Engineers (ICE). Available at: [ice.org.uk/what-is-civil-engineering/infrastructure-projects/chernobyl-new-safe-confinement](https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/chernobyl-new-safe-confinement) [Accessed 16 May 2026].
-- International Chernobyl Project International Advisory Committee (1991). Assessment of Radiological Consequences and Evaluation of Protective Measures. [online] Vienna: International Atomic Energy Agency. Available at: [www-pub.iaea.org/MTCD/publications/PDF/Pub885e_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub885e_web.pdf).
-- International Nuclear Safety Advisory Group (1986). INSAG-1 Summary Report on the Post-Accident Review Meeting on the Chernobyl Accident. Vienna: International Atomic Energy Agency.
-- International Nuclear Safety Advisory Group (1992). INSAG-7 The Chernobyl Accident: Updating of INSAG-1. [online] Vienna: International Atomic Energy Agency. Available at: [www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf).
-- Maden, C., Pipe, W. and Hunt, A. (2026). Chernobyl at 40: The decommissioning challenge. [online] World Nuclear News. Available at: [world-nuclear-news.org/articles/chernobyl-at-40-the-decommissioning-challenge-and-the-future#group-section-The-future-fouw0otdDO](https://www.world-nuclear-news.org/articles/chernobyl-at-40-the-decommissioning-challenge-and-the-future#group-section-The-future-fouw0otdDO) [Accessed 16 May 2026].
-- Pinchuk, N. (2019). Chernobyl accident timeline. [online] What is Nuclear. Available at: [whatisnuclear.com/chernobyl-timeline.html](https://whatisnuclear.com/chernobyl-timeline.html) [Accessed 16 May 2026].
-- USSR State Committee on the Utilization of Atomic Energy (1986). The Accident at the Chernobyl’ Nuclear Power Plant and Its Consequences. USSR State Committee on the Utilization of Atomic Energy.
-- Wikipedia Contributors (2025). Void coefficient. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Void_coefficient](https://en.wikipedia.org/w/index.php?title=Void_coefficient&oldid=1327476805) [Accessed 16 May 2026].
-- Wikipedia Contributors (2026). Chernobyl disaster. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Chernobyl_disaster](https://en.wikipedia.org/w/index.php?title=Chernobyl_disaster&oldid=1353579394) [Accessed 16 May 2026].
-- Wikipedia Contributors (2026). RBMK. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/RBMK](https://en.wikipedia.org/w/index.php?title=RBMK&oldid=1352044124) [Accessed 16 May 2026].
-- World Nuclear Association (2022). Sequence of Events – Chernobyl Accident Appendix 1. [online] World Nuclear Association. Available at: [world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events](https://world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events) [Accessed 16 May 2026].
-- World Nuclear Association (2025). Chernobyl Accident 1986. [online] World Nuclear Association. Available at: [world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident) [Accessed 16 May 2026].
+- Čirjak, A. (2020). _How Far Did Chernobyl Radiation Reach?_ [online] WorldAtlas. Available at: [worldatlas.com/articles/how-far-did-chernobyl-radiation-reach.html](https://www.worldatlas.com/articles/how-far-did-chernobyl-radiation-reach.html) [Accessed 16 May 2026].
+- Institution of Civil Engineers (2016). _Chernobyl new safe confinement_. [online] Institution of Civil Engineers (ICE). Available at: [ice.org.uk/what-is-civil-engineering/infrastructure-projects/chernobyl-new-safe-confinement](https://www.ice.org.uk/what-is-civil-engineering/infrastructure-projects/chernobyl-new-safe-confinement) [Accessed 16 May 2026].
+- International Chernobyl Project International Advisory Committee (1991). _Assessment of Radiological Consequences and Evaluation of Protective Measures_. [online] Vienna: International Atomic Energy Agency. Available at: [www-pub.iaea.org/MTCD/publications/PDF/Pub885e_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub885e_web.pdf).
+- International Nuclear Safety Advisory Group (1986). _INSAG-1 Summary Report on the Post-Accident Review Meeting on the Chernobyl Accident_. Vienna: International Atomic Energy Agency.
+- International Nuclear Safety Advisory Group (1992). _INSAG-7 The Chernobyl Accident: Updating of INSAG-1_. [online] Vienna: International Atomic Energy Agency. Available at: [www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf](https://www-pub.iaea.org/MTCD/publications/PDF/Pub913e_web.pdf).
+- Maden, C., Pipe, W. and Hunt, A. (2026). _Chernobyl at 40: The decommissioning challenge_. [online] World Nuclear News. Available at: [world-nuclear-news.org/articles/chernobyl-at-40-the-decommissioning-challenge-and-the-future#group-section-The-future-fouw0otdDO](https://www.world-nuclear-news.org/articles/chernobyl-at-40-the-decommissioning-challenge-and-the-future#group-section-The-future-fouw0otdDO) [Accessed 16 May 2026].
+- Pinchuk, N. (2019). _Chernobyl accident timeline_. [online] What is Nuclear. Available at: [whatisnuclear.com/chernobyl-timeline.html](https://whatisnuclear.com/chernobyl-timeline.html) [Accessed 16 May 2026].
+- USSR State Committee on the Utilization of Atomic Energy (1986). _The Accident at the Chernobyl’ Nuclear Power Plant and Its Consequences_. USSR State Committee on the Utilization of Atomic Energy.
+- Wikipedia Contributors (2025). _Void coefficient_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Void_coefficient](https://en.wikipedia.org/w/index.php?title=Void_coefficient&oldid=1327476805) [Accessed 16 May 2026].
+- Wikipedia Contributors (2026). _Chernobyl disaster_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Chernobyl_disaster](https://en.wikipedia.org/w/index.php?title=Chernobyl_disaster&oldid=1353579394) [Accessed 16 May 2026].
+- Wikipedia Contributors (2026). _RBMK_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/RBMK](https://en.wikipedia.org/w/index.php?title=RBMK&oldid=1352044124) [Accessed 16 May 2026].
+- World Nuclear Association (2022). _Sequence of Events – Chernobyl Accident Appendix 1_. [online] World Nuclear Association. Available at: [world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events](https://world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events) [Accessed 16 May 2026].
+- World Nuclear Association (2025). _Chernobyl Accident 1986_. [online] World Nuclear Association. Available at: [world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident](https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident) [Accessed 16 May 2026].
 
 [Read more about how I use Wikipedia.](https://neoski.uk/post/wikipedia)
 
 Image and Video Credit:
 
+- Figure 6 reproduced from _INSAG-1 Summary Report on the Post-Accident Review Meeting on the Chernobyl Accident_ [modified]
+- "Schematic Diagram of the RBMK-1000" reproduced from _The Accident at the Chernobyl’ Nuclear Power Plant and Its Consequences_ [modified]
+- "Fission" by Pearson Scott Foresman, Public domain, via Wikimedia Commons [modified]
+- "HD.6D.752" (Chain Reaction Diagram) by ENERGY.GOV, Public domain, via Wikimedia Commons [modified]
 - Figures 1 and II-3 reproduced from _INSAG-7 The Chernobyl Accident: Updating of INSAG-1_ [modified]
-- "Video of Challenger (STS-51-L) exploding soon after liftoff." by _NASA_, Public domain, via Wikimedia Commons
+- Figures 8 (Section B) and 5 (Section C) reproduced from _Assessment of Radiological Consequences and Evaluation of Protective Measures_ [modified]
