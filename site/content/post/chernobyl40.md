@@ -57,7 +57,7 @@ The operators began the test by cutting the steam supply to the turbine, causing
 
 But, the Chernobyl reactor had one fatal design flaw which no one had foreseen. The control rods were tipped with graphite, which increased the reactor power when the rods were removed. This meant that when the rods began to be inserted, the graphite tips moved into the centre of the core before the control rod. Now, the thing about graphite is it slows neutrons, which is why it increases the power, but also why it caused the reactor to heat up more whilst the control rods were being inserted.
 
-![Diagram of Control Rods and a Plot of Core Reactivity Against Time](/img/post/chernobyl40/rods-plot.png "Control Rods and the Change in Reactivity With Time (Spoiler)")
+![Diagram of Control Rods and a Plot of Core Reactivity Against Time](/img/post/chernobyl40/rods-plot.png "Control Rods (L) and the Change in Reactivity With Time (R)")
 
 This, combined with the extremely slow 18 second rod insert time, caused the core to rapidly increase in heat and power, reaching 100 times the normal power level in just four seconds, breaking the fuel apart and warping the control rod channels. Then, a massive explosion ripped through the reactor, steam had built up to uncontrollable levels and burst out the top of the reactor vessel - flinging off the top of the shielding straight through the roof of Unit 4.
 
@@ -65,7 +65,7 @@ That was the explosion at 1:24 AM, the result of the worst nuclear meltdown in h
 
 Firemen rushed to the scene to tackle the resulting blaze and the rapidly spreading nuclear material. The situation was finally controlled on the 6th of May, 9 days after the accident, and directly killed thirty people, with many more affected by the airborne radiation spread over 200 000 square kilometres.
 
-![The Dangers to Human Health and Spread of Radiation](/img/post/chernobyl40/effects.png "The Dangers to Human Health")
+![The Dangers to Human Health and Spread of Radiation](/img/post/chernobyl40/effects.png "The Dangers to Human Health (L) From the Spread of Nuclear Material (R)")
 
 ## A Safety Legacy
 
