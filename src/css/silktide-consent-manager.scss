@@ -12,14 +12,8 @@
 #silktide-wrapper {
   --focus: 0 0 0 2px #ffffff, 0 0 0 4px #000000, 0 0 0 6px #ffffff;
   --boxShadow: -5px 5px 10px 0px #00000012, 0px 0px 50px 0px #0000001a;
-  --fontFamily: Helvetica Neue, Segoe UI, Arial, sans-serif;
-  --primaryColor: #1d95f8;
-  --backgroundColor: #050505;
-  --textColor: #ffffff;
   --backdropBackgroundColor: #00000033;
   --backdropBackgroundBlur: 0px;
-  --cookieIconColor: #1d95f8;
-  --cookieIconBackgroundColor: #050505;
   position: fixed;
   bottom: 0;
   right: 0;
@@ -51,13 +45,13 @@
 #silktide-wrapper a {
   all: unset;
   display: inline-block;
-  color: var(--primaryColor);
+  color: var(--primary);
   text-decoration: underline;
 }
 
 #silktide-wrapper a:hover {
   cursor: pointer;
-  color: var(--textColor);
+  color: inherit;
 }
 
 /* --------------------------------
@@ -81,9 +75,9 @@
 -------------------------------- */
 
 #silktide-wrapper .st-button {
-  color: var(--backgroundColor);
-  background-color: var(--primaryColor);
-  border: 2px solid var(--primaryColor);
+  color: var(--white);
+  background-color: var(--primary);
+  border: 2px solid var(--primary);
   padding: 10px 20px;
   text-decoration: none;
   text-align: center;
@@ -95,27 +89,26 @@
 }
 
 #silktide-wrapper .st-button--primary:hover {
-  background-color: var(--backgroundColor);
-  color: var(--primaryColor);
+  background-color: var(--white);
+  color: var(--primary);
 }
 
 #silktide-wrapper .st-button--secondary {
-  background-color: var(--backgroundColor);
-  color: var(--primaryColor);
+  background-color: var(--white);
+  color: var(--primary);
 }
 
 #silktide-wrapper .st-button--secondary:hover {
-  background-color: var(--primaryColor);
-  color: var(--backgroundColor);
+  background-color: var(--primary);
+  color: var(--white);
 }
 
 /* --------------------------------
   Banner
 -------------------------------- */
 #silktide-banner {
-  font-family: var(--fontFamily);
-  color: var(--textColor);
-  background-color: var(--backgroundColor);
+  color: inherit;
+  background-color: var(--grey-1);
   box-sizing: border-box;
   padding: 32px;
   border-radius: 5px;
@@ -169,7 +162,7 @@
   border: none;
   padding: 0px;
   background-color: transparent;
-  color: var(--primaryColor);
+  color: var(--primary);
   cursor: pointer;
   font-size: 16px;
 }
@@ -181,7 +174,7 @@
 }
 
 #silktide-banner .preferences span:hover {
-  color: var(--textColor);
+  color: inherit;
 }
 
 #silktide-banner .preferences:after {
@@ -198,18 +191,18 @@
 
 #silktide-banner a {
   display: inline-block;
-  color: var(--primaryColor);
+  color: var(--primary);
   text-decoration: underline;
-  background-color: var(--backgroundColor);
+  background-color: var(--white);
 }
 
 #silktide-banner a:hover {
-  color: var(--textColor);
+  color: inherit;
 }
 
 #silktide-banner a.silktide-logo {
   display: block;
-  fill: var(--primaryColor);
+  fill: var(--primary);
   /* passed down to svg > path */
   margin-left: auto;
   width: 24px;
@@ -255,11 +248,10 @@
   box-shadow:
     -5px 5px 10px 0px #00000012,
     0px 0px 50px 0px #0000001a;
-  font-family: var(--fontFamily);
-  color: var(--textColor);
+  color: inherit;
   flex-direction: column;
   padding: 30px;
-  background-color: var(--backgroundColor);
+  background-color: var(--white);
   border-radius: 5px;
   box-sizing: border-box;
 }
@@ -276,10 +268,7 @@
 }
 
 #silktide-modal h1 {
-  font-family: var(--fontFamily);
-  color: var(--textColor);
-  font-size: 24px;
-  font-weight: 500;
+  color: inherit;
   margin: 0px;
 }
 
@@ -289,12 +278,12 @@
   padding: 10px;
   border: 0px;
   cursor: pointer;
-  background: var(--backgroundColor);
-  color: var(--primaryColor);
+  background: var(--white);
+  color: var(--primary);
 }
 
 #silktide-modal .modal-close svg {
-  fill: var(--primaryColor);
+  fill: var(--primary);
 }
 
 /* --------------------------------
@@ -317,16 +306,14 @@
 }
 
 #silktide-modal section::-webkit-scrollbar-thumb {
-  background-color: var(--textColor);
+  background-color: var(--black);
   /* Color of the scrollbar thumb */
   border-radius: 10px;
   /* Rounded corners for the thumb */
 }
 
 #silktide-modal p {
-  font-size: 16px;
-  line-height: 24px;
-  color: var(--textColor);
+  color: inherit;
   margin: 0px 0px 15px;
 }
 
@@ -348,8 +335,30 @@
   padding: 0px;
   margin: 0px 0px 10px;
   font-weight: 700;
-  color: var(--textColor);
-  font-size: 16px;
+  color: inherit;
+  font-size: 1.5rem;
+  line-height: 1.25;
+  font-weight: var(--bold-font-weight);
+  word-wrap: break-word;
+  font-family:
+    cooper-black,
+    Nunito Sans,
+    -apple-system,
+    BlinkMacSystemFont,
+    avenir next,
+    avenir,
+    helvetica,
+    helvetica neue,
+    ubuntu,
+    roboto,
+    noto,
+    segoe ui,
+    arial,
+    sans-serif;
+  font-family: var(--title-family);
+  hyphens: auto;
+  text-align: left;
+  text-transform: uppercase;
 }
 
 #silktide-modal .cookie-type-content {
@@ -388,7 +397,7 @@
   display: block;
   height: 34px;
   width: 74px;
-  background: var(--textColor);
+  background: var(--black);
   border-radius: 25px;
 }
 
@@ -399,7 +408,7 @@
   display: block;
   height: 30px;
   width: 30px;
-  background: var(--backgroundColor);
+  background: var(--white);
   border-radius: 50%;
   transition: left 150ms ease-out;
 }
@@ -409,7 +418,7 @@
   text-transform: uppercase;
   font-size: 15px;
   font-weight: 500;
-  color: var(--backgroundColor);
+  color: var(--white);
   position: absolute;
   top: 7px;
   right: 8px;
@@ -428,7 +437,7 @@
 
 /* Checked Switch Styles */
 #silktide-modal .switch input:checked + .switch__pill {
-  background: var(--primaryColor);
+  background: var(--primary);
 }
 
 #silktide-modal .switch input:checked ~ .switch__dot {
@@ -485,7 +494,7 @@
   border-radius: 50%;
   padding: 0px;
   border: none;
-  background-color: var(--cookieIconColor);
+  background-color: var(--primary);
   cursor: pointer;
   box-shadow: 0px 0px 6px 0px #0000001a;
   pointer-events: auto;
@@ -498,7 +507,7 @@
 }
 
 #silktide-cookie-icon svg {
-  fill: var(--cookieIconBackgroundColor);
+  fill: var(--white);
 }
 
 /* --------------------------------
