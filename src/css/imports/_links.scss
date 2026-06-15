@@ -20,18 +20,12 @@
   outline: 1px dotted currentColor;
 }
 
-a:not(.link),
-a:not(.card),
-a:not(footer.a) {
+a:not(.link, .card, footer.a) {
   color: var(--primary);
   transition: var(--hover-transition);
   word-wrap: break-word;
   &:hover {
     background-color: var(--highlight);
     color: var(--white);
-  }
-  &.no-color:hover {
-    background-color: var(--grey-1);
-    color: var(--primary);
   }
 }
