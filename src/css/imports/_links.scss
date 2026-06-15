@@ -20,7 +20,7 @@
   outline: 1px dotted currentColor;
 }
 
-:not(footer, nav).a:not(.link, .card) {
+:not(footer, nav, .cms).a:not(.link, .card) {
   color: var(--primary);
   transition: var(--hover-transition);
   word-wrap: break-word;
