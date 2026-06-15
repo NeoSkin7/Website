@@ -179,3 +179,9 @@ label.popup {
   animation: silktide-fadeIn 0.3s ease-in-out forwards;
   font-family: var(--acc-button);
 }
+
+.g-recaptcha iframe {
+  border-radius: 5px;
+  width: 302px;
+  height: 76px;
+}
