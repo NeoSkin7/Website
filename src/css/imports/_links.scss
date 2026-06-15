@@ -22,7 +22,7 @@
 
 a:not(.link),
 a:not(.card),
-:not(footer.a) {
+a:not(footer.a) {
   color: var(--primary);
   transition: var(--hover-transition);
   word-wrap: break-word;
