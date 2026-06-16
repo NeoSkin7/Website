@@ -20,8 +20,8 @@
   outline: 1px dotted currentColor;
 }
 
-main a:not(.link, .card),
-[role="main"] a:not(.link, .card) {
+main a:not(.link, .card, .btn),
+[role="main"] a:not(.link, .card, .btn) {
   color: var(--primary);
   transition: var(--hover-transition);
   word-wrap: break-word;
