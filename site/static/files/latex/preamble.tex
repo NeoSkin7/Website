@@ -1,0 +1,29 @@
+% Standard Packages
+\usepackage[left=0.70cm,right=0.70cm,top=0.70cm,bottom=0.70cm, includefoot]{geometry}
+\usepackage{graphicx}
+\usepackage{amssymb,amsmath}
+\usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
+
+% Scientific Packages
+\usepackage[separate-uncertainty=true]{siunitx}
+\usepackage{physics}
+\AtBeginDocument{\RenewCommandCopy\qty\SI}
+
+% Referencing Packages
+\usepackage[giveninits=true,dateabbrev=false,urldate=long, language=british]{biblatex}
+\addbibresource{main.bib}
+\DeclareNameFormat{default}{%
+  \nameparts{#1}%
+  \usebibmacro{name:family-given}
+    {\namepartfamily}
+    {\namepartgiveni}
+    {\namepartprefix}
+    {\namepartsuffix}%
+  \usebibmacro{name:andothers}%
+}
+\DeclareFieldFormat{urldate}{%
+  \kern-3pt, retrieved \thefield{urlday}\addspace%
+  \mkbibmonth{\thefield{urlmonth}}\addspace%
+  \thefield{urlyear}\isdot
+}
+\renewbibmacro{in:}{}
