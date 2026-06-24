@@ -17,7 +17,7 @@
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.prod.js"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.2",
+    "@babel/core": "^7.29.6",
     "@babel/preset-env": "^7.20.2",
     "babel-loader": "^9.1.0",
     "cross-env": "^7.0.3",
