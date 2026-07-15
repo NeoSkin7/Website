@@ -12,7 +12,7 @@
 \AtBeginDocument{\RenewCommandCopy\qty\SI}
 
 % Referencing Packages
-\usepackage[giveninits=true,dateabbrev=false,urldate=long,language=british]{biblatex}
+\usepackage[giveninits=true,dateabbrev=false,urldate=long,language=british,backend=biber]{biblatex}
 \addbibresource{main.bib}
 \DeclareNameFormat{default}{%
   \nameparts{#1}%
@@ -24,8 +24,9 @@
   \usebibmacro{name:andothers}%
 }
 \renewcommand{\bibinitperiod}{}
+\DeclareFieldFormat{url}{\textsc{url}\intitlepunct\url{#1},}
 \DeclareFieldFormat{urldate}{%
-  \kern-3pt, retrieved \thefield{urlday}\addspace%
+  retrieved \thefield{urlday}\addspace%
   \mkbibmonth{\thefield{urlmonth}}\addspace%
   \thefield{urlyear}\isdot
 }
