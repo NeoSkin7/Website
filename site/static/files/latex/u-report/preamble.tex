@@ -1,7 +1,7 @@
-\documentclass[10pt,twocolumn,twoside]{article}
+\documentclass[a4paper,twocolumn,twoside]{article}
 
 % Standard Packages
-\usepackage[left=0.70cm,right=0.70cm,top=0.70cm,bottom=0.70cm, includefoot]{geometry}
+\usepackage[margin=0.70cm,includefoot]{geometry}
 \usepackage{graphicx}
 \usepackage{amssymb,amsmath}
 \usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
@@ -12,7 +12,7 @@
 \AtBeginDocument{\RenewCommandCopy\qty\SI}
 
 % Referencing Packages
-\usepackage[giveninits=true,dateabbrev=false,urldate=long, language=british]{biblatex}
+\usepackage[giveninits=true,dateabbrev=false,urldate=long,language=british]{biblatex}
 \addbibresource{main.bib}
 \DeclareNameFormat{default}{%
   \nameparts{#1}%
