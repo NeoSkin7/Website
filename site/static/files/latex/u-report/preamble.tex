@@ -1,19 +1,21 @@
-\documentclass[a4paper,twocolumn,twoside]{article}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% RHUL REPORT PREAMBLE                         %
+% Preamble for RHUL undergraduate reports      %
+% Written by N. L. Skinner                     %
+% This is Version 1.6                          %
+% Updated 21/07/2026                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-% Standard Packages
-\usepackage[margin=0.70cm,includefoot]{geometry}
+\documentclass[a4paper,twocolumn,twoside]{article}
+\usepackage[margin=0.7cm,includefoot]{geometry}
 \usepackage{graphicx}
 \usepackage{amssymb,amsmath}
 \usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
-
-% Scientific Packages
 \usepackage[separate-uncertainty=true]{siunitx}
 \usepackage{physics}
 \AtBeginDocument{\RenewCommandCopy\qty\SI}
-
-% Referencing Packages
 \usepackage[giveninits=true,dateabbrev=false,urldate=long,sorting=none,language=british,backend=biber]{biblatex}
-\addbibresource{main.bib}
+\addbibresource{main.bib} % Expecting main.bib for all references
 \DeclareNameFormat{default}{%
   \nameparts{#1}%
   \usebibmacro{name:family-given}
