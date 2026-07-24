@@ -23,7 +23,7 @@
     "cross-env": "^7.0.3",
     "webpack": "^5.104.1",
     "webpack-cli": "^5.0.0",
-    "ws": "5.2.4"
+    "ws": "5.2.5"
   },
   "dependencies": {
     "@babel/preset-react": "^7.18.6",
