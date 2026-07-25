@@ -11,13 +11,16 @@
   --black: #ffffff;
 
   /* Typography */
-  --default-font: "itc-souvenir-demi", Nunito Sans, -apple-system,
-    BlinkMacSystemFont, "avenir next", avenir, helvetica, "helvetica neue",
-    ubuntu, roboto, noto, "segoe ui", arial, sans-serif;
-  --acc-font: Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next",
-    avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial,
+  --default-font:
+    "itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont,
+    "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
+    "segoe ui", arial, sans-serif;
+  --acc-font:
+    Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir,
+    helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial,
     sans-serif;
-  --title-font: "cooper-black", Nunito Sans, -apple-system, BlinkMacSystemFont,
+  --title-font:
+    "cooper-black", Nunito Sans, -apple-system, BlinkMacSystemFont,
     "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
     "segoe ui", arial, sans-serif;
   --font-family: var(--default-font);
@@ -26,8 +29,8 @@
   --line-height: 1.5;
 
   --font-size: 18px;
-  --font-size-m: 20px;
-  --font-size-l: 22px;
+  --font-size-m: 18px;
+  --font-size-l: 18px;
 
   --body-font-weight: 400;
   --bold-font-weight: 700;
