@@ -1,5 +1,5 @@
 ---
 title: Topics
-subtitle: Teaching resources by topic.
+subtitle: Educational content by topic.
 image: /img/work-mag.webp
 ---

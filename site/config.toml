@@ -7,6 +7,6 @@ enableRobotsTXT = true
   tag = 'tags'
   topic = 'topics'
 [markup]
-    [markup.goldmark]
-        [markup.goldmark.renderer]
-            unsafe = true
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

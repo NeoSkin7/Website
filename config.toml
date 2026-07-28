@@ -1,9 +1,11 @@
-languageCode = "en-us"
+baseurl = "/"
+languageCode = "en-gb"
+languageLang = "en-gb"
 title = "NeoSki"
-enableRobotsTXT = "true"
-baseURL = "https://neoski.uk/"
+enableRobotsTXT = true
 [taxonomies]
   tag = 'tags'
+  topic = 'topics'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
