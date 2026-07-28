@@ -2,4 +2,4 @@ User-agent: *
 
 Disallow: /admin/
 
-Sitemap: https://neoski.tk/sitemap.xml
+Sitemap: https://neoski.uk/sitemap.xml
