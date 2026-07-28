@@ -12,7 +12,7 @@ With the world seemingly in more of a mess than ever before, climate change is p
 
 Unfortunately, I have to admit that this article is the result of one such event, a heatwave that forced many of us in the UK to rethink this vast crisis. My contribution? An effort to highlight just how bad this problem really is…
 
-# 1. Electric Cars Are the Future
+## 1. Electric Cars Are the Future
 
 ![Electric Car Charging Port](/img/post/climatemyths/car.jpg)
 
@@ -36,7 +36,7 @@ Yes, I mention public transport. I accept it is not always the answer, but, as a
 
 The current debate in my mind is over the best alternative for things like shopping trips and long-distance travel, when there is an additional need for storage space. Do we rent cars or vans for this? Or should we improve public transport to make more space? Or even use hydrogen-powered vehicles? There is no right answer, but a lot of interesting ideas still to be considered.
 
-# 2. Recycling Is Sustainable
+## 2. Recycling Is Sustainable
 
 ![Recycling Symbol on Plastic Packaging](/img/post/climatemyths/plastic.jpg)
 
@@ -56,7 +56,7 @@ But, more to the point, plastics cannot be endlessly recycled. The complex polym
 
 And, one plastic reaches the end of its life, it ultimately ends up in landfill, where it takes millions of years to fully break down. Which means that our seemingly endless demand for plastic must be fuelled from our ever-decreasing crude oil reserves. And, to curb our reliance on fossil fuels, plastics will have to go too. (Unless we ever figure out the key to endless recycling or sustainable artificial plastics…)
 
-# 3. We Need to be Net Zero
+## 3. We Need to be Net Zero
 
 ![Tree Planting](/img/post/climatemyths/tree.jpg)
 
@@ -74,7 +74,7 @@ That is, for our efforts to make a far greater difference, we need to return to 
 
 As an aside, there is a whole other unspoken battle going on here with aerosols - the _other_ cause of climate change. This is well worth mentioning, but sadly would make this section far too long. If you are curious there is a link in the sources below for more information.
 
-# 4. Climate Change Just Causes Warming
+## 4. Climate Change Just Causes Warming
 
 ![Global Warming Stripe Diagram and Temperature Plot](/img/post/climatemyths/stripes.jpg)
 
@@ -90,7 +90,7 @@ There is also evidence to suggest that our seasons are on the move, with many of
 
 The effects of climate change on our planet are greater than many of us ever imagined and will stay around for a very long time. The best climate experts say that even if we completely stop our emissions now, it would still take decades for the Earth’s climate and weather systems to restabilise and return to pre-industrial conditions. But, there is hope, _decades_ are not quite as long as the _centuries_ it took for us to get to this mess.
 
-# 5. Stop Fossil Fuels
+## 5. Stop Fossil Fuels
 
 ![An Ocean Oil Platform](/img/post/climatemyths/oilrig.jpg)
 
@@ -112,7 +112,7 @@ But what does it underpin? Here are just a few examples of our reliance:
 
 The core message I want to convey here is that the fight against fossil fuels is not just one of energy, but also covers some of the world’s largest industries. Before we can cut our reliance on crude oil, we need to find new renewable ways of building, manufacturing, and transporting goods.
 
-# Conclusion
+## Conclusion
 
 After reading this all, you are probably not filled with hope. In fact, this seems like quite a gloomy article. But, I believe that a deeper understanding of the _problem_ of climate change can help us to reduce the impact of the _causes_ of climate change. This effort is a marathon, not a sprint, and we need international cooperation between citizens, companies, and governments in order to help prevent this, the biggest challenge ever to face humanity.
 

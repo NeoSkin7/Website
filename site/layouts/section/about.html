@@ -4,35 +4,37 @@
 
 <div class="pv4">
   <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2">Who I Am</h2>
+    <h2 class="f2 b lh-title">Who I Am</h2>
     <div class="flex-ns flex-row mb3">
       <img src="/img/portrait.webp" alt="Image of Neo Skinner" class="db w-30-ns w-50 h-fit mr3-ns mb3">
       <p class="mb3">I am a student of <a href="https://www.royalholloway.ac.uk/" target="_blank" rel="noopener noreferrer">Royal Holloway, University of London</a>, studying to become a Master of Science (MSci) in Theoretical Physics. I am dual-located in Egham and Poole, United Kingdom, but have <a href="/places/">travelled far and wide</a> during my globe-trotting holidays. Whilst my main academic interest <em>is</em> in physics, my relentless curiosity also extends to mathematics, chemistry, and the environment, where I explore and adventure to discover the secrets of the universe. However, everyone has to have (at least a few) hobbies, and I spend my remaining time <a href="https://link.neoski.uk/numista" target="_blank" rel="noopener noreferrer">coin collecting</a>, hiking, and <a href="https://link.neoski.uk/letterboxd" target="_blank" rel="noopener noreferrer">film watching</a>.</p>
     </div>
 
-    <h2 class="f2 b lh-title mb2">What I Do</h2>
+    <h2 class="f2 b lh-title">What I Do</h2>
     <p class="mb3">This website is my digital home and where I publish the things I am proud (and no so proud) of. Here, you will find:</p>
 
-    <h3 class="f3 b lh-title mb2 primary">Articles</h3>
+    <h3 class="f3 b lh-title primary">Articles</h3>
     <p class="mb3">My rule for writing <a href="/post/">articles</a> (or blog posts) are that they have to be <em>interesting</em>. Whilst that is quite an open brief, I generally write articles about either: (<span class="primary">a</span>) key issues and news stories, or (<span class="primary">b</span>) STEM topics - science, technology, engineering, and mathematics. I try to make my articles easy to understand for everyone, regardless of whether I am writing about rocket launches or climate change, or anything in-between, as I believe that knowledge and information should be open and accessible.</p>
+    <h4 class="f4 b lh-title">Recent Articles</h4>
     <div class="flex flex-row mb3">
       {{ range .Params.articles }}
       <a href="/post/{{ .path }}/" class="pa2 raise card"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}"></a>
       {{ end }}
     </div>
 
-    <h3 class="f3 b lh-title mb2 primary">Videos</h3>
+    <h3 class="f3 b lh-title primary">Videos</h3>
     <p class="mb3">For people who cannot be bothered to read (we have all been there), I produce educational and factual videos for <a href="https://link.neoski.uk/instagram" target="_blank" rel="noopener noreferrer">Instagram</a> and <a href="https://link.neoski.uk/youtube" target="_blank" rel="noopener noreferrer">YouTube</a> focussing on topics from the world of physics and mathematics. Of course, these are accessible too, often featuring demonstrations and on-location filming, all to aid <em>your</em> understanding of some of the hardest or most cutting-edge of topics.</p>
+    <h4 class="f4 b lh-title">Recent Videos</h4>
     <div class="flex flex-row mb3">
       {{ range .Params.videos }}
       <a href="/post/{{ .path }}/" class="pa2 raise card"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}"></a>
       {{ end }}
     </div>
 
-    <h3 class="f3 b lh-title mb2 primary">...and Educational Content</h3>
+    <h3 class="f3 b lh-title primary">...and Educational Content</h3>
     <p class="mb3">Occasionally, I produce resources which might just benefit a larger audience than I would normally share things with. These I make accessible to everyone in my <a href="/education/">education section</a>. But, be warned, there are often no solutions released alongside my educational content - although you can always <a href="/contact/">reach out</a> for more information!</p>
 
-    <h2 class="f2 b lh-title mb2">Where To Find Me</h2>
+    <h2 class="f2 b lh-title">Where To Find Me</h2>
     <p class="mb3">I maintain an online presence both on this, my digital home, and on a number of different social media platforms. You can explore my current range of social media profiles over on the <a href="/links/">links page</a>. For professional enquiries, you can use the form on my <a href="/contact/">contact page</a> to get in touch - I do not monitor my social media inboxes.</p>
     <p class="mb3">If you like what I do, why not <a href="https://mail.neoski.uk" target="_blank" rel="noopener noreferrer">sign up for my newsletter</a>?</p>
   </div>
