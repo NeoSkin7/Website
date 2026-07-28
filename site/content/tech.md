@@ -6,30 +6,30 @@ image: "/img/code.webp"
 socialimg: /img/code.webp
 ---
 
-# How was this website created?
+## How was this website created?
 
-## Technologies
+### Technologies
 
 In probably the worst alphabetical order you will ever see, this website uses the following technologies:
 
-### Analytics
+#### Analytics
 
 - Google Analytics
 - Microsoft Clarity
 
-### Asset Pipeline
+#### Asset Pipeline
 
 - Webpack
 
-### Build Image
+#### Build Image
 
 - Ubuntu Noble 24.04
 
-### Cloud-Based Publishing Tool
+#### Cloud-Based Publishing Tool
 
 - GitHub
 
-### Content Delivery Network (CDN)
+#### Content Delivery Network (CDN)
 
 - Amazon S3
 - Cloudflare
@@ -37,11 +37,11 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - Netlify
 - Unpkg
 
-### Content Management System (CMS)
+#### Content Management System (CMS)
 
 - Netlify
 
-#### CMS Plugins
+##### CMS Plugins
 
 - Inline Source
 - Lighthouse
@@ -49,63 +49,63 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - Sitemap
 - Submit Sitemap
 
-### Cookie Manager
+#### Cookie Manager
 
 - Silktide
 
-### Domain Registrar
+#### Domain Registrar
 
 - Porkbun
 
-### Domain Name Server (DNS)
+#### Domain Name Server (DNS)
 
 - Netlify
 
-#### DNS Proxy
+##### DNS Proxy
 
 - Cloudflare
 
-### Email
+#### Email
 
 - Brevo
 - ImprovMX
 - MailChimp
 
-### Fonts
+#### Fonts
 
 - Cooper Black
 - ITC Souvenir Demi
 - Nunito Sans
 
-#### Font Scripts
+##### Font Scripts
 
 - Google Font API
 - Twitter Emoji (Twemoji)
 
-### Image Optimisation
+#### Image Optimisation
 
 - ImageResizer
 - pinga
 
-### Image Source
+#### Image Source
 
 - Pexels
 
-### Integrated Development Environment (IDE)
+#### Integrated Development Environment (IDE)
 
 - Visual Studio Code
 
-### Languages
+#### Languages
 
 - CSS 3.0
 - HTML 5.0
 - JavaScript
 
-#### CSS Extensions
+##### CSS Extensions
 
 - Sass
 
-#### JavaScript Frameworks
+##### JavaScript Frameworks
 
 - Emotion
 - MathJax
@@ -113,61 +113,61 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - React
 - Workbox
 
-#### JavaScript Libraries
+##### JavaScript Libraries
 
 - Emotion
 - MobX
 - Polyfill
 
-#### JavaScript Runtime
+##### JavaScript Runtime
 
 - Node.js 20.x
 
-### Marketing Automation
+#### Marketing Automation
 
 - MailChimp
 
-### Metadata Protocol
+#### Metadata Protocol
 
 - Open Graph
 
-### PaaS
+#### PaaS
 
 - Amazon Web Services
 - Netlify
 
-### Package Manager
+#### Package Manager
 
 - Yarn
 
-### PDF Optimisation
+#### PDF Optimisation
 
 - 4dots Free PDF Compress
 
-### Security
+#### Security
 
 - Cloudflare
 - HSTS
 - Let's Encrypt
 - reCAPTCHA
 
-### Static Site Generator
+#### Static Site Generator
 
 - Hugo
 
-### Theme
+#### Theme
 
 - Victor Hugo
 
-### Transcompiler
+#### Transcompiler
 
 - Babel
 
-### Version Control System
+#### Version Control System
 
 - Git
 
-### Video Optimisation
+#### Video Optimisation
 
 - FileCompress.org
 - 123apps.com

@@ -6,9 +6,9 @@ image: "/img/leaves.webp"
 socialimg: /img/leaves.webp
 ---
 
-# Where have I Visited?
+## Where have I Visited?
 
-## Countries
+### Countries
 
 I've visited all manner of countries, here is a complete list:
 
@@ -58,7 +58,7 @@ I've visited all manner of countries, here is a complete list:
 
 > Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
 
-## Mountains and Volcanoes
+### Mountains and Volcanoes
 
 There have been a few on my travels, so here they are too!
 

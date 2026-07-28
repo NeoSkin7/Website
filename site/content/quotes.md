@@ -6,7 +6,7 @@ image: "/img/refuel.webp"
 socialimg: /img/refuel.webp
 ---
 
-# Quotations for Your Reference Pleasure
+## Quotations for Your Reference Pleasure
 
 These are all things that I have said or written at one point or another. You can reference them if you like...
 
