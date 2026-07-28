@@ -2,37 +2,75 @@
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
-<div class="flex flex-row flex-wrap mb3">
-  <div>
-    <h2 class="f2 b lh-title mb2">Who I Am</h2>
-    <p class="mb3">I am a student of Royal Holloway, University of London, studying to become a Master of Science (MSci) in Theoretical Physics. I am dual-located in Egham and Poole, United Kingdom, but have <a href="/places/">travelled far and wide during my globe-trotting holidays</a>. Whilst my main academic interest <em>is</em> in physics, my relentless curiosity also extends to mathematics, chemistry, and the environment, where I explore and adventure to discover the secrets of the universe. However, everyone has to have (at least a few) hobbies, and I spend my remaining time <a href="https://link.neoski.uk/numista">coin collecting</a>, hiking, and <a href="https://link.neoski.uk/letterboxd">film watching</a>.</p>
+<div class="pv4">
+  <div class="ph3 mw7 center">
+    <div class="flex flex-row mb3">
+      <div>
+        <h2 class="f2 b lh-title mb2">Who I Am</h2>
+        <p class="mb3">I am a student of Royal Holloway, University of London, studying to become a Master of Science (MSci) in Theoretical Physics. I am dual-located in Egham and Poole, United Kingdom, but have <a href="/places/">travelled far and wide during my globe-trotting holidays</a>. Whilst my main academic interest <em>is</em> in physics, my relentless curiosity also extends to mathematics, chemistry, and the environment, where I explore and adventure to discover the secrets of the universe. However, everyone has to have (at least a few) hobbies, and I spend my remaining time <a href="https://link.neoski.uk/numista">coin collecting</a>, hiking, and <a href="https://link.neoski.uk/letterboxd">film watching</a>.</p>
+      </div>
+      <img src="/img/portrait.webp" alt="Image of Neo Skinner" class="db w-30 ml3">
+    </div>
+
+    <h2 class="f2 b lh-title mb2">What I Do</h2>
+    <p class="mb3">This website is my digital home and where I publish the things I am proud (and no so proud) of. Here, you will find:</p>
+
+    <h3 class="f3 b lh-title mb2 primary">Articles</h3>
+    <p class="mb3">My rule for writing <a href="/post/">articles</a> (or blog posts) are that they have to be <em>interesting</em>. Whilst that is quite an open brief, I generally write articles about either: (<span class="primary">a</span>) key issues and news stories, or (<span class="primary">b</span>) STEM topics - science, technology, engineering, and mathematics. I try to make my articles easy to understand for everyone, regardless of whether I am writing about rocket launches or climate change, or anything in-between, as I believe that knowledge and information should be open and accessible.</p>
+    <div class="flex flex-row mb3">
+      {{ range .Params.articles }}
+      <a href="/post/{{ .path }}/" class="pa2 raise card"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}"></a>
+      {{ end }}
+    </div>
+
+    <h3 class="f3 b lh-title mb2 primary">Videos</h3>
+    <p class="mb3">For people who cannot be bothered to read (we have all been there), I produce educational and factual videos for <a href="https://link.neoski.uk/instagram">Instagram</a> and <a href="https://link.neoski.uk/youtube">YouTube</a> focussing on topics from the world of physics and mathematics. Of course, these are accessible too, often featuring demonstrations and on-location filming, all to aid <em>your</em> understanding of some of the hardest or most cutting-edge of topics.</p>
+    <div class="flex flex-row mb3">
+      {{ range .Params.videos }}
+      <a href="/post/{{ .path }}/" class="pa2 raise card"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}"></a>
+      {{ end }}
+    </div>
+
+    <h3 class="f3 b lh-title mb2 primary">...and Educational Content</h3>
+    <p class="mb3">Occasionally, I produce resources which might just benefit a larger audience than I would normally share things with. These I make accessible to everyone in my <a href="/education/">education section</a>. But, be warned, there are often no solutions released alongside my educational content - although you can always <a href="/contact/">reach out</a> for more information!</p>
+
+    <h2 class="f2 b lh-title mb2">Where To Find Me</h2>
+    <p class="mb3">I maintain an online presence both on this, my digital home, and on a number of different social media platforms. You can explore my current range of social media profiles over on the <a href="/links/">links page</a>. For professional enquiries, you can use the form on my <a href="/contact/">contact page</a> to get in touch - I do not monitor my social media inboxes.</p>
   </div>
-  <img src="/img/portrait.webp" alt="Image of Neo Skinner" class="db w-30">
 </div>
-
-<h2 class="f2 b lh-title mb2">What I Do</h2>
-<p class="mb3">This website is my digital home and where I publish the things I am proud (and no so proud) of. Here, you will find:</p>
-
-<h3 class="f3 b lh-title mb2 primary">Articles</h3>
-<p class="mb3">My rule for writing <a href="/post/">articles</a> (or blog posts) are that they have to be <em>interesting</em>. Whilst that is quite an open brief, I generally write articles about either: (<span class="primary">a</span>) key issues and news stories, or (<span class="primary">b</span>) STEM topics - science, technology, engineering, and mathematics. I try to make my articles easy to understand for everyone, regardless of whether I am writing about rocket launches or climate change, or anything in-between, as I believe that knowledge and information should be open and accessible.</p>
-<div class="flex flex-row mb3">
-  {{ range .Params.articles }}
-  <a href="/post/{{ .path }}/"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}" class="w-third raise"></a>
-  {{ end }}
-</div>
-
-<h3 class="f3 b lh-title mb2 primary">Videos</h3>
-<p class="mb3">For people who cannot be bothered to read (we have all been there), I produce educational and factual videos for <a href="https://link.neoski.uk/instagram">Instagram</a> and <a href="https://link.neoski.uk/youtube">YouTube</a> focussing on topics from the world of physics and mathematics. Of course, these are accessible too, often featuring demonstrations and on-location filming, all to aid <em>your</em> understanding of some of the hardest or most cutting-edge of topics.</p>
-<div class="flex flex-row mb3">
-  {{ range .Params.videos }}
-  <a href="/post/{{ .path }}/"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}" class="w-third raise"></a>
-  {{ end }}
-</div>
-
-<h3 class="f3 b lh-title mb2 primary">...and Educational Content</h3>
-<p class="mb3">Occasionally, I produce resources which might just benefit a larger audience than I would normally share things with. These I make accessible to everyone in my <a href="/education/">education section</a>. But, be warned, there are often no solutions released alongside my educational content - although you can always <a href="/contact/">reach out</a> for more information!</p>
-
-<h2 class="f2 b lh-title mb2">Where To Find Me</h2>
-<p class="mb3">I maintain an online presence both on this, my digital home, and on a number of different social media platforms. You can explore my current range of social media profiles over on the <a href="/links/">links page</a>. For professional enquiries, you can use the form on my <a href="/contact/">contact page</a> to get in touch - I do not monitor my social media inboxes.</p>
 
 {{ end }}
+
+<div class="pv4">
+  <div class="ph3 mw7 center">
+    <h2 class="f2 b lh-title mb2">What I Do</h2>
+    <p class="mb4">I am a digital creator and educator based in the United Kingdom. As such, I have worked on a multitude of projects across a wide fieldset. My mission is to make the world a better and more diverse place through improved education and opportunities. How do I do this? That's the real question and whilst I could answer it simply, I'm not the kind of person to provide basic answers to any question - so do read on to find out more.
+    </p>
+
+    <div class="mb3">
+
+      <div class="mb4">
+        <h3 class="f3 b lh-title mb2 primary">Education</h3>
+        <p>I believe that education is an essential part of society and should continue well into adulthood. In this modern world, we are seeing more and more so-called "courses" made available for the employees of companies to enable them to reach their full potential - this is a great opportunity for adult improvement and benefits not only the employee but society as a whole.
+        </p>
+        <p>Schools are another essential area of education, providing the means necessary for students to get the "building blocks" for future development. As such it is extremely important that schools teach not only the curriculum but also life skills such as internet safety, money and time management and politics. These life skills help people to make more informed decisions to protect themselves and others from a variety of attacks.
+        </p>
+        <p>Where do I come in? I produce and teach high-quality lessons on a variety of subjects and am beginning on the long journey to produce resources to aid social skills. My resources are free for anyone to view and use on my website via the Teaching Resources page. Enjoy!
+        </p>
+        <img src="/img/work-mag.webp" alt="" class="center db mb3">
+      </div>
+
+      <div class="mb4">
+        <h3 class="f3 b lh-title mb2 primary">Digital Media</h3>
+        <p>Digital media is a staple of the modern world and, with almost everyone in the developed world with access to the internet, it is a pivotal tool in the transfer of ideas and information.
+        </p>
+        <p>I am to use the internet and digital media to transfer vital educational information to the world. The internet will make this task exceedingly easy and I hope that this website is just the beginning of an educational media revolution. There are already many services creating digital educational media but I think that the area still requires a lot more work to make it widely accessible and the standard for teaching resources the world over.
+        </p>
+        <p>In the future, a digital mission statement will be posted on this website that I hope will reach schools and other educational facilities the world over and help to guide them in creating their own digital resources for their students. For the moment, you can view some of my own attempts at this via the Links page.
+        </p>
+        <img src="/img/cable.webp" alt="" class="center db mb3">
+      </div>
+
+    </div>
+  </div>
+</div>
