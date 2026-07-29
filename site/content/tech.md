@@ -172,4 +172,4 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - FileCompress.org
 - 123apps.com
 
-Website built by [The Crofton](https://neoski.uk/skinnermedia/crofton).
+Website built by Neo Skinner.

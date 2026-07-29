@@ -71,39 +71,6 @@
 }
 
 /* --------------------------------
-  General Styles
--------------------------------- */
-
-#silktide-wrapper .st-button {
-  color: var(--white);
-  background-color: var(--primary);
-  border: 2px solid var(--primary);
-  padding: 10px 20px;
-  text-decoration: none;
-  text-align: center;
-  display: inline-block;
-  font-size: 16px;
-  line-height: 24px;
-  cursor: pointer;
-  border-radius: 5px;
-}
-
-#silktide-wrapper .st-button--primary:hover {
-  background-color: var(--white);
-  color: var(--primary);
-}
-
-#silktide-wrapper .st-button--secondary {
-  background-color: var(--white);
-  color: var(--primary);
-}
-
-#silktide-wrapper .st-button--secondary:hover {
-  background-color: var(--primary);
-  color: var(--white);
-}
-
-/* --------------------------------
   Banner
 -------------------------------- */
 #silktide-banner {
