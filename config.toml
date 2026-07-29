@@ -10,3 +10,20 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+[outputs]
+  home = ["HTML", "RSS", "llms", "llmsfull"]
+  section = ["HTML", "RSS"]
+[mediaTypes."application/manifest+json"]
+suffixes = ["webmanifest"]
+[mediaTypes."text/plain"]
+suffixes = ["txt"]
+[outputFormats.llms]
+  baseName    = "llms"
+  mediaType   = "text/plain"
+  isPlainText = true
+  notAlternative = true
+[outputFormats.llmsfull]
+  baseName    = "llms-full"
+  mediaType   = "text/plain"
+  isPlainText = true
+  notAlternative = true
