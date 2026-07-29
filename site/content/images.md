@@ -30,10 +30,6 @@ The current projects image is "Red and Black Industrial Machine" by Pixabay, it 
 
 The current about image is "Beautiful refueling" by Genevieve Martin, it can be viewed [here](https://www.flickr.com/photos/oakridgelab/34300813941/).
 
-## SkinnerMedia
-
-The current SkinnerMedia cover image is "Film tapes scattered on table near smartphone" by Cup of Couple, it can be viewed [here](https://www.pexels.com/photo/film-tapes-scattered-on-table-near-smartphone-6177645/).
-
 ## Other Images
 
 All other images are sourced from [Pexels](https://www.pexels.com/) or from other sources clearly listed within website pages. Any images on this website that are composite or logos are made specially for this purpose, all rights reserved.
