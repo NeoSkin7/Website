@@ -20,6 +20,7 @@
   outline: 1px dotted currentColor;
 }
 
+#silktide-wrapper a:not(.link, .card, .btn),
 main a:not(.link, .card, .btn),
 [role="main"] a:not(.link, .card, .btn) {
   color: var(--primary);
