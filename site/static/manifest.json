@@ -3,7 +3,7 @@
 	"start_url": "/",
 	"short_name": "NeoSki",
 	"lang": "en",
-	"description": "I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.",
+	"description": "I am a digital creator and STEM educator based in the United Kingdom.",
 	"icons": [
 		{
 			"src": "/img/favicon/favicon-16x16.png",
@@ -38,8 +38,8 @@
 			"url": "/post"
 		},
 		{
-			"name": "Teaching Resources",
-			"url": "/teach"
+			"name": "Educational Resources",
+			"url": "/education"
 		},
 		{
 			"name": "Links",

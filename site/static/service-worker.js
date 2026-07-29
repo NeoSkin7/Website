@@ -1,4 +1,4 @@
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/6.1.5/workbox-sw.js')
+importScripts('https://storage.googleapis.com/workbox-cdn/releases/7.4.1/workbox-sw.js')
 
 workbox.core.setCacheNameDetails({
     prefix: '',
@@ -77,7 +77,7 @@ workbox.precaching.precacheAndRoute([
     { url: '/404.html', revision: null },
     { url: '/service-worker.js', revision: null },
     { url: '/manifest.json', revision: null },
-    { url: '/tech/index.html', revision: null },
+    { url: '/education/index.html', revision: null },
     { url: '/about/index.html', revision: null },
     { url: '/contact/index.html', revision: null },
     { url: '/links/index.html', revision: null },
