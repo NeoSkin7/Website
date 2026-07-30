@@ -113,13 +113,15 @@
 				"@type": "Person",
 				"name": "Neo Skinner"
 			},
-			"description": "{{ if .IsHome }}{{ htmlEscape .Site.Params.description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}"
+			"description": "{{ htmlEscape .Summary }}"
 		}{{ end }}
 	</script>
 
 	<!-- LLM Data -->
 	{{ if .OutputFormats.Get "MARKDOWN" }}
-	<link href="{{ with .OutputFormats.Get " MARKDOWN" }}{{ .Permalink }}{{ end }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
+	{{ with .OutputFormats.Get "MARKDOWN" }}
+	<link href="{{ .Permalink }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
+	{{ end }}
 	{{ end }}
 
 	<!-- MathJax -->
