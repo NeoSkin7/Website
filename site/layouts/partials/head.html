@@ -120,7 +120,7 @@
 	<!-- LLM Data -->
 	{{ if .OutputFormats.Get "MARKDOWN" }}
 	{{ with .OutputFormats.Get "MARKDOWN" }}
-	<link href="{{ .Permalink }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
+	<link href="{{ .Permalink }}" rel="alternate" type="text/markdown" title="{{ $.Title }}" />
 	{{ end }}
 	{{ end }}
 
