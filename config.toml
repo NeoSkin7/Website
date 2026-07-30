@@ -4,20 +4,19 @@ languageLang = "en-gb"
 title = "NeoSki"
 enableRobotsTXT = true
 [outputs]
-  home = ["HTML", "RSS", "MARKDOWN", "LLMSTXT"]
-  page = ["HTML", "MARKDOWN", "LLMSTXT"]
-  term = ["HTML", "MARKDOWN"]
+  home = ["html", "rss", "markdown", "llms"]
 [outputFormats]
   [outputFormats.markdown]
     name = "markdown"
     baseName = "index"
     mediaType = "text/markdown"
     isPlainText = true
-  [outputFormats.LLMSTXT]
-  mediaType = "text/plain"
-  baseName = "llms"
-  isPlainText = true
-  notAlternative = true
+  [outputFormats.llms]
+    baseName = "llms"
+    isPlainText = true
+    mediaType = "text/plain"
+    rel = "alternate"
+    root = true
 [taxonomies]
   tag = 'tags'
   topic = 'topics'
