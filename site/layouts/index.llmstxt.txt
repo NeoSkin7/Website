@@ -1,0 +1,16 @@
+{{/* layouts/index.llmstxt.txt, organized by section */}}
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+{{ range .Site.Sections -}}
+## {{ .Title }}
+
+{{ range .Pages -}}
+- [{{ .Title }}]({{ .Permalink }}): {{ with .Description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 100 }}{{ end }}
+{{ end }}
+{{ end -}}
+
+## Optional
+
+- [Homepage]({{ .Site.BaseURL }}): site entry point.

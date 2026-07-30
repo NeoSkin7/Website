@@ -3,8 +3,8 @@ title: "About Me"
 subtitle: Who am I? Why am I here?
 type: about
 summary: I am a digital creator and STEM educator based in the United Kingdom.
-image: /img/refuel.webp
-socialimg: /img/refuel.webp
+image: /img/portrait.webp
+socialimg: /img/portrait.webp
 articles:
   - title: Five Climate Myths
     path: climatemyths

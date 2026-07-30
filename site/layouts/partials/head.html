@@ -68,6 +68,60 @@
 	<meta property="twitter:description" content="{{ .Summary }}">
 	<meta property="twitter:image" content="{{ .Params.socialimg }}">
 
+	<!-- Schema -->
+	<script type="application/ld+json">
+		{{ if .IsPage }}{
+			"@context": "http://schema.org",
+			"@type": "BlogPosting",
+			"mainEntityOfPage": {
+				"@type": "WebPage",
+				"@id": "{{ .Site.BaseURL }}"
+			},
+			"articleSection": "{{ .Section }}",
+			"name": {{ .Title }},
+			"headline": {{ .Title }},
+			"description": {{ replace .Summary "\n" " " }},
+			{{ if .Params.socialimg }}"image": {{ .Params.socialimg }},{{ end }}
+			"inLanguage": "en-GB",
+			"author": {
+				"@type": "Person",
+				"name": "Neo Skinner"
+			},
+			"creator": "Neo Skinner",
+			"publisher": {
+				"@type": "Organization",
+				"name": "NeoSki",
+				"logo": {
+					"@type": "ImageObject",
+					"width": "192",
+					"height": "192",
+					"url": "https://neoski.uk/img/profile.svg"
+				}
+			},
+			"copyrightYear": "{{ .Date.Format "2006" }}",
+			"datePublished": {{ (time .Date).Format "2006-01-02T15:04:05Z" }},
+			"dateModified": {{ (time .Date).Format "2006-01-02T15:04:05Z" }},
+			"url": {{ .Permalink }},
+			"wordCount": {{ .WordCount }},
+			"keywords": {{ if .Params.tags }}{{ delimit .Params.tags "," }}{{else}}""{{ end }}
+		}{{ else }}{ 
+			"@context": "http://schema.org", 
+			"@type": "WebSite", 
+			"url": {{ .Permalink }},
+			"name": {{ .Title }},
+			"author": {
+				"@type": "Person",
+				"name": "Neo Skinner"
+			},
+			"description": "{{ if .IsHome }}{{ htmlEscape .Site.Params.description }}{{ else }}{{ htmlEscape .Summary }}{{ end }}"
+		}{{ end }}
+	</script>
+
+	<!-- LLM Data -->
+	{{ if .OutputFormats.Get "MARKDOWN" }}
+	<link href="{{ with .OutputFormats.Get " MARKDOWN" }}{{ .Permalink }}{{ end }}" rel="alternate" type="text/markdown" title="{{ .Title }}" />
+	{{ end }}
+
 	<!-- MathJax -->
 	<script defer>
 		window.MathJax = {

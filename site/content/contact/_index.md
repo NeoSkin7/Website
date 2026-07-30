@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-summary: I am a digital creator and educator based in the United Kingdom. My mission is to make the world a better and more diverse place through improved education and opportunities.
+summary: I am a digital creator and STEM educator based in the United Kingdom.
 logo: "/img/logo.svg"
 socialimg: /img/banner.webp
 ---
