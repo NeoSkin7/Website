@@ -11,26 +11,30 @@ socialimg: /img/books.webp
 {{<rawhtml>}}
 
 <style type="text/css" media="screen">
-        .gr_grid_container {
-          
-        }
+  .gr_grid_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
 
-        .gr_grid_book_container {
-          float: left;
-          width: 98px;
-          height: 160px;
-          padding: 0px 0px;
-          overflow: hidden;
-          margin: 5px;
-        }
+  .gr_grid_book_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-        .gr_grid_book_container a:hover {
-          background: none;
-          transform: translateY(-.12rem) translateZ(0);
-          transition: all .15s ease;
-          transition: var(--hover-transition);
-        }
-      </style>
+  .gr_grid_book_container a:hover {
+    background: none;
+    transform: translateY(-.12rem) translateZ(0);
+    transition: all .15s ease;
+    transition: var(--hover-transition);
+  }
+
+  .gr_grid_book_container img {
+    margin: 5px;
+  }
+</style>
 <div id="gr_grid_widget_1691484762">
         <!-- Show static html as a placeholder in case js is not enabled - javascript include will override this if things work -->
           <div class="gr_grid_container">
@@ -58,7 +62,7 @@ socialimg: /img/books.webp
   </div>
 
 </div>
-      <script src="https://www.goodreads.com/review/grid_widget/98087436.Neo's%20all%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=all&sort=author&widget_id=1691484762" type="text/javascript" charset="utf-8"></script>
+<script src="https://www.goodreads.com/review/grid_widget/98087436.Neo's%20all%20book%20montage?cover_size=medium&hide_link=true&hide_title=true&num_books=200&order=a&shelf=all&sort=author&widget_id=1691484762" type="text/javascript" charset="utf-8"></script>
 
 {{</rawhtml>}}
 
@@ -68,6 +72,6 @@ socialimg: /img/books.webp
 <br>
 
 <center>
-    <a rel="nofollow" href="https://link.neoski.uk/goodreads"><img alt="goodreads.com" style="border: 0; filter: brightness(0) saturate(100%) invert(1);" src="https://s.gr-assets.com/assets/layout/header/v2/goodreads_logo.svg" class="v-mid raise w-20" /></a>
-  </center>
+  <a rel="nofollow" href="https://link.neoski.uk/goodreads"><img alt="goodreads.com" style="border: 0; filter: brightness(0) saturate(100%) invert(1);" src="https://s.gr-assets.com/assets/layout/header/v2/goodreads_logo.svg" class="v-mid raise w-20" /></a>
+</center>
 {{</rawhtml>}}

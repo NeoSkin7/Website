@@ -205,32 +205,3 @@ label.popup {
   width: 302px;
   height: 76px;
 }
-
-.letterboxd-embed-tc-footer {
-  display: none;
-}
-
-.letterboxd-embed-tc-divider:last-of-type {
-  display: none;
-}
-
-.letterboxd-embed-tc-title {
-  font-family: var(--title-font);
-  text-transform: uppercase;
-  font-size: 1.25rem;
-}
-
-.letterboxd-embed-tc-year {
-  color: var(--grey-4);
-  font-size: 0.875rem;
-}
-
-.letterboxd-embed-tc-date {
-  color: var(--grey-4);
-  font-size: 0.875rem;
-}
-
-.letterboxd-embed-tc-review {
-  color: var(--black);
-  font-size: 0.875rem;
-}

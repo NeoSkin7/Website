@@ -8,8 +8,6 @@ socialimg: /img/leaves.webp
 
 ## Where have I Visited?
 
-### Countries
-
 I've visited all manner of countries, here is a complete list:
 
 > Albania 🇦🇱
@@ -57,27 +55,3 @@ I've visited all manner of countries, here is a complete list:
 > Vatican City 🇻🇦
 
 > Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-
-### Mountains and Volcanoes
-
-There have been a few on my travels, so here they are too!
-
-> Adam's Peak 🇱🇰
-
-> Volcán Atitlán 🇬🇹
-
-> Volcán Barú 🇵🇦
-
-> Mount Etna 🇮🇹
-
-> Ingleborough 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-
-> Roque Nublo 🇪🇸
-
-> Pen-y-ghent 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-
-> Schaufelspitze (Stubai Glacier) 🇦🇹
-
-> Mount Snowdon 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-
-> Whernside 🏴󠁧󠁢󠁥󠁮󠁧󠁿
