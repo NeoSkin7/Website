@@ -213,7 +213,7 @@
 				document.documentElement.style.setProperty('--variant', 'var(--initial)');
 				font = 1;
 				console.log("Switched to sans font");
-			} if (font == 1) {
+			} else if (font == 1) {
 				document.documentElement.style.setProperty('--font-family', 'var(--serif-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--serif-font)');
 				document.documentElement.style.setProperty('--acc-button', 'var(--default-font)');
@@ -221,7 +221,15 @@
 				document.documentElement.style.setProperty('--variant', 'var(--sc)');
 				font = 2;
 				console.log("Switched to serif font");
-			} if (font == 2) {
+			} else if (font == 2) {
+				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
+				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
+				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
+				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
+				document.documentElement.style.setProperty('--variant', 'var(--initial)');
+				font = 0;
+				console.log("Switched to default font");
+			} else {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
 				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
