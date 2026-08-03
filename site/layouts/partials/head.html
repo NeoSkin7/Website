@@ -200,18 +200,39 @@
 	<!-- end of Consent Manager -->
 	<!-- end of Cookie Consent -->
 
-	<!-- Accessibility -->
+	<!-- Font Switcher -->
 	<script>
-		let font = 0;
+		function setCookie(cname, cvalue, exdays) {
+			const d = new Date();
+			d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+			let expires = "expires=" + d.toUTCString();
+			document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=neoski.uk";
+		}
+
+		function getCookie(cname) {
+			let name = cname + "=";
+			let ca = document.cookie.split(';');
+			for (let i = 0; i < ca.length; i++) {
+				let c = ca[i];
+				while (c.charAt(0) == ' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
 
 		function fontSwitch() {
+			let font = getCookie("font");
 			if (font == 0) {
 				document.documentElement.style.setProperty('--font-family', 'var(--sans-font)');
 				document.documentElement.style.setProperty('--title-family', 'var(--sans-font)');
 				document.documentElement.style.setProperty('--acc-button', 'var(--serif-font)');
 				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
 				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-				font = 1;
+				setCookie("font", 1, 365);
 				console.log("Switched to sans font");
 			} else if (font == 1) {
 				document.documentElement.style.setProperty('--font-family', 'var(--serif-font)');
@@ -219,7 +240,7 @@
 				document.documentElement.style.setProperty('--acc-button', 'var(--default-font)');
 				document.documentElement.style.setProperty('--transform', 'var(--initial)');
 				document.documentElement.style.setProperty('--variant', 'var(--sc)');
-				font = 2;
+				setCookie("font", 2, 365);
 				console.log("Switched to serif font");
 			} else if (font == 2) {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
@@ -227,7 +248,7 @@
 				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
 				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
 				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-				font = 0;
+				setCookie("font", 0, 365);
 				console.log("Switched to default font");
 			} else {
 				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
@@ -235,7 +256,7 @@
 				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
 				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
 				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-				font = 0;
+				setCookie("font", 0, 365);
 				console.log("Switched to default font");
 			}
 		}
