@@ -123,6 +123,37 @@
   font-display: swap;
 }
 
+@font-face {
+  font-family: "computer-modern";
+  font-style: italic;
+  font-weight: 400;
+  src:
+    url(https://neoski.uk/fonts/computer_modern_italic.woff2) format("woff2"),
+    url(https://neoski.uk/fonts/computer_modern_italic.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "computer-modern";
+  font-style: normal;
+  font-weight: 700;
+  src:
+    url(https://neoski.uk/fonts/computer_modern_bold.woff2) format("woff2"),
+    url(https://neoski.uk/fonts/computer_modern_bold.woff) format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "computer-modern";
+  font-style: italic;
+  font-weight: 700;
+  src:
+    url(https://neoski.uk/fonts/computer_modern_bolditalic.woff2)
+      format("woff2"),
+    url(https://neoski.uk/fonts/computer_modern_bolditalic.woff) format("woff");
+  font-display: swap;
+}
+
 footer a.link {
   padding-bottom: 0.5em;
   display: block;

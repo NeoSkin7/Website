@@ -15,17 +15,26 @@
     "itc-souvenir-demi", Nunito Sans, -apple-system, BlinkMacSystemFont,
     "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
     "segoe ui", arial, sans-serif;
-  --acc-font:
-    Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir,
-    helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial,
-    sans-serif;
   --title-font:
     "cooper-black", Nunito Sans, -apple-system, BlinkMacSystemFont,
     "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
     "segoe ui", arial, sans-serif;
+  --sans-font:
+    Nunito Sans, -apple-system, BlinkMacSystemFont, "avenir next", avenir,
+    helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui", arial,
+    sans-serif;
+  --serif-font:
+    "computer-modern", Nunito Sans, -apple-system, BlinkMacSystemFont,
+    "avenir next", avenir, helvetica, "helvetica neue", ubuntu, roboto, noto,
+    "segoe ui", arial, sans-serif;
+  --uppercase: uppercase;
+  --initial: initial;
+  --sc: small-caps;
   --font-family: var(--default-font);
   --title-family: var(--title-font);
-  --acc-button: var(--acc-font);
+  --acc-button: var(--sans-font);
+  --transform: var(--uppercase);
+  --variant: var(--initial);
   --line-height: 1.5;
 
   --font-size: 18px;

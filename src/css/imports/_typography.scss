@@ -30,7 +30,8 @@ h4,
 h5,
 h6 {
   font-family: var(--title-family);
-  text-transform: uppercase;
+  text-transform: var(--transform);
+  font-variant: var(--variant);
   text-align: left;
   word-wrap: break-word;
   overflow-wrap: break-word;
