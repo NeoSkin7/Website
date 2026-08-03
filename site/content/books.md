@@ -25,7 +25,7 @@ socialimg: /img/books.webp
   }
 
   .gr_grid_book_container a:hover {
-    background: none;
+    background: none !important;
     transform: translateY(-.12rem) translateZ(0);
     transition: all .15s ease;
     transition: var(--hover-transition);
