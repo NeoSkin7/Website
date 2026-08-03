@@ -27,6 +27,6 @@ socialimg: /img/cogs.webp
 <br>
 
 <center>
-    <a rel="nofollow" href="https://link.neoski.uk/letterboxd">View more on <img alt="Letterboxd" style="border:0" src="https://a.ltrbxd.com/logos/letterboxd-logo-h-neg-rgb.svg" class="v-mid" /> →</a>
+    <a rel="nofollow" href="https://link.neoski.uk/letterboxd"><img alt="Letterboxd" style="border:0" src="https://a.ltrbxd.com/logos/letterboxd-logo-h-neg-rgb.svg" class="v-mid raise w-20" /></a>
   </center>
 {{</rawhtml>}}
