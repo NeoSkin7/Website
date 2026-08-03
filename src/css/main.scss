@@ -95,62 +95,41 @@
 /* Fonts */
 @font-face {
   font-family: "itc-souvenir-demi";
-  font-style: normal;
-  font-weight: 400;
   src:
     url(https://neoski.uk/fonts/itc_souvenir_demi.woff2) format("woff2"),
     url(https://neoski.uk/fonts/itc_souvenir_demi.woff) format("woff");
+  font-style: normal;
+  font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: "cooper-black";
-  font-style: normal;
-  font-weight: 400;
   src:
     url(https://neoski.uk/fonts/cooper_black.woff2) format("woff2"),
     url(https://neoski.uk/fonts/cooper_black.woff) format("woff");
+  font-style: normal;
+  font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: "computer-modern";
-  font-style: normal;
-  font-weight: 400;
   src:
     url(https://neoski.uk/fonts/computer_modern.woff2) format("woff2"),
     url(https://neoski.uk/fonts/computer_modern.woff) format("woff");
+  font-style: normal;
+  font-weight: 400;
   font-display: swap;
 }
 
 @font-face {
   font-family: "computer-modern";
-  font-style: italic;
-  font-weight: 400;
   src:
     url(https://neoski.uk/fonts/computer_modern_italic.woff2) format("woff2"),
     url(https://neoski.uk/fonts/computer_modern_italic.woff) format("woff");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "computer-modern";
-  font-style: normal;
-  font-weight: 700;
-  src:
-    url(https://neoski.uk/fonts/computer_modern_bold.woff2) format("woff2"),
-    url(https://neoski.uk/fonts/computer_modern_bold.woff) format("woff");
-  font-display: swap;
-}
-
-@font-face {
-  font-family: "computer-modern";
   font-style: italic;
-  font-weight: 700;
-  src:
-    url(https://neoski.uk/fonts/computer_modern_bolditalic.woff2)
-      format("woff2"),
-    url(https://neoski.uk/fonts/computer_modern_bolditalic.woff) format("woff");
+  font-weight: 400;
   font-display: swap;
 }
 
