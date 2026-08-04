@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="pv4">
+	<div class="ph3 mw7 center">
+		<h2 class="f2 b lh-title">My Recent Film Reviews</h2>
+		<div id="letterboxd-embed-wrapper-tc">
+			Loading...
+		</div>
+		<script>
+			fetch('https://lb-embed-content.bokonon.dev?username=neoski')
+				.then(response => response.text())
+				.then(data => {
+					document.getElementById('letterboxd-embed-wrapper-tc').innerHTML = data;
+				});
+		</script>
+		<style>
+			.letterboxd-embed-tc-footer,
+			.letterboxd-embed-tc-divider:last-of-type {
+				display: none;
+			}
+
+			.letterboxd-embed-tc-title {
+				font-family: var(--title-font);
+				text-transform: uppercase;
+				font-size: 1.25rem;
+			}
+
+			.letterboxd-embed-tc-year {
+				color: var(--grey-4);
+				font-size: 0.875rem;
+			}
+
+			.letterboxd-embed-tc-date {
+				color: var(--grey-4);
+				font-size: 0.875rem;
+			}
+
+			.letterboxd-embed-tc-review {
+				color: var(--black);
+				font-size: 0.875rem;
+			}
+		</style>
+		<br style="clear: both">
+		<center>
+			<a rel="nofollow" href="https://link.neoski.uk/letterboxd"><img alt="Letterboxd" style="margin: 0 -30px;" src="https://a.ltrbxd.com/logos/letterboxd-logo-h-neg-rgb.svg" class="v-mid raise w-30" /></a>
+		</center>
+	</div>
+</div>
