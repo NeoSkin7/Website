@@ -50,7 +50,7 @@ links3:
     imgurl: /img/link-icons/letterboxd.svg
   - subheading: "GoodReads"
     linkurl: https://link.neoski.uk/goodreads
-    imgurl: /img/link-icons/goodreads.svg
+    imgurl: /img/link-icons/goodreads.svg?v=2
   - subheading: "Numista"
     linkurl: https://link.neoski.uk/numista
     imgurl: /img/link-icons/numista.svg
