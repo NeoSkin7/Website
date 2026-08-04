@@ -42,8 +42,19 @@
 				font-size: 0.875rem;
 			}
 
+			.letterboxd-embed-tc-poster {
+				display: flex;
+				align-items: center;
+			}
+
 			.letterboxd-embed-tc-poster a:hover {
-				background-color: initial;
+				background: none !important;
+			}
+
+			.letterboxd-embed-tc-poster a:hover img {
+				transform: translateY(-.12rem) translateZ(0);
+				transition: all .15s ease;
+				transition: var(--hover-transition);
 			}
 		</style>
 		<br style="clear: both">
