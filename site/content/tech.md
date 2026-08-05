@@ -76,6 +76,7 @@ In probably the worst alphabetical order you will ever see, this website uses th
 - Cooper Black
 - ITC Souvenir Demi
 - Nunito Sans
+- New Computer Modern
 
 ##### Font Scripts
 
