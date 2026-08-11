@@ -10,7 +10,7 @@
   command = "yarn build:preview"
 
 [context.production.environment]
-  HUGO_VERSION = "0.101.0"
+  HUGO_VERSION = "0.164.0"
 
 [dev]
   framework = "hugo"
