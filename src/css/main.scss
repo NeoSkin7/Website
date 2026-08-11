@@ -207,9 +207,10 @@ label.popup {
 }
 
 .katex {
-  font-size: 1rem;
+  font-size: var(--font-size) !important;
+  line-height: var(--line-height) !important;
 }
 
 .katex-display > .katex {
-  font-size: 1.2rem;
+  font-size: 1.2em;
 }

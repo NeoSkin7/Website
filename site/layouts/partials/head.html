@@ -123,161 +123,133 @@
 	{{ end }}
 	{{ end }}
 
-	{{/* <!-- MathJax -->
-	<script defer>
-		window.MathJax = {
-			tex: {
-				inlineMath: { '[+]': [['$', '$']] }
-			},
-			svg: {
-				fontCache: 'global'
-			},
-			output: {
-				scale: 1,
-				minScale: .5,
-				displayOverflow: 'linebreak',
-				linebreaks: {
-					inline: true,
-					width: '100%',
-					lineleading: .2,
-				}
-			}
-		};
-
-		(function () {
-			var script = document.createElement('script');
-			script.src = 'https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js';
-			script.defer = true;
-			document.head.appendChild(script);
-		})();
-	</script> */}}
-
 	<!-- KaTeX -->
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.css" integrity="sha384-vlBdW0r3AcZO/HboRPznQNowvexd3fY8qHOWkBi5q7KGgqJ+F48+DceybYmrVbmB" crossorigin="anonymous">
+	<link href="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.css" integrity="sha384-vlBdW0r3AcZO/HboRPznQNowvexd3fY8qHOWkBi5q7KGgqJ+F48+DceybYmrVbmB" crossorigin="anonymous" rel="preload" as="style">
+	<linkrel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.17.0/dist/katex.min.css" integrity="sha384-vlBdW0r3AcZO/HboRPznQNowvexd3fY8qHOWkBi5q7KGgqJ+F48+DceybYmrVbmB" crossorigin="anonymous" rel="stylesheet">
 
-	<!-- Netlify Identity -->
-	{{ if .IsHome }}
-	<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
-	{{ end }}
+		<!-- Netlify Identity -->
+		{{ if .IsHome }}
+		<script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
+		{{ end }}
 
-	<!-- Twemoji -->
-	<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous" defer></script>
+		<!-- Twemoji -->
+		<script src="https://unpkg.com/twemoji@latest/dist/twemoji.min.js" crossorigin="anonymous" defer></script>
 
-	<!-- Cookie Consent -->
-	<!-- Google Analytics -->
-	<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ" async></script>
-	<script type="text/javascript">
-		window.dataLayer = window.dataLayer || [];
-		function gtag() { dataLayer.push(arguments); }
-		gtag('js', new Date());
+		<!-- Cookie Consent -->
+		<!-- Google Analytics -->
+		<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-EMF804TXLZ" async></script>
+		<script type="text/javascript">
+			window.dataLayer = window.dataLayer || [];
+			function gtag() { dataLayer.push(arguments); }
+			gtag('js', new Date());
 
-		gtag('config', 'G-EMF804TXLZ');
+			gtag('config', 'G-EMF804TXLZ');
 
-		gtag('consent', 'default', {
-			'ad_storage': 'denied',
-			'ad_user_data': 'denied',
-			'ad_personalization': 'denied',
-			'analytics_storage': 'denied'
-		});
-	</script>
-	<!-- end of Google Analytics-->
+			gtag('consent', 'default', {
+				'ad_storage': 'denied',
+				'ad_user_data': 'denied',
+				'ad_personalization': 'denied',
+				'analytics_storage': 'denied'
+			});
+		</script>
+		<!-- end of Google Analytics-->
 
-	<!-- Microsoft Clarity -->
-	<script type="text/javascript">
-		(function (c, l, a, r, i, t, y) {
-			c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
-			t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
-			y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
-		})(window, document, "clarity", "script", "i9x2jzu2l7");
+		<!-- Microsoft Clarity -->
+		<script type="text/javascript">
+			(function (c, l, a, r, i, t, y) {
+				c[a] = c[a] || function () { (c[a].q = c[a].q || []).push(arguments) };
+				t = l.createElement(r); t.async = 1; t.src = "https://www.clarity.ms/tag/" + i;
+				y = l.getElementsByTagName(r)[0]; y.parentNode.insertBefore(t, y);
+			})(window, document, "clarity", "script", "i9x2jzu2l7");
 
-		window.clarity('consentv2', {
-			ad_Storage: "denied",
-			analytics_Storage: "denied"
-		});
-	</script>
-	<!-- end of Microsoft Clarity-->
+			window.clarity('consentv2', {
+				ad_Storage: "denied",
+				analytics_Storage: "denied"
+			});
+		</script>
+		<!-- end of Microsoft Clarity-->
 
-	<!-- Consent Manager -->
-	<script src="/cookie-consent/silktide-consent-manager.js" defer></script>
-	<!-- end of Consent Manager -->
-	<!-- end of Cookie Consent -->
+		<!-- Consent Manager -->
+		<script src="/cookie-consent/silktide-consent-manager.js" defer></script>
+		<!-- end of Consent Manager -->
+		<!-- end of Cookie Consent -->
 
-	<!-- Font Switcher -->
-	<script>
-		function setCookie(cname, cvalue, exdays) {
-			const d = new Date();
-			d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-			let expires = "expires=" + d.toUTCString();
-			document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=neoski.uk";
-		}
+		<!-- Font Switcher -->
+		<script>
+			function setCookie(cname, cvalue, exdays) {
+				const d = new Date();
+				d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+				let expires = "expires=" + d.toUTCString();
+				document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=neoski.uk";
+			}
 
-		function getCookie(cname) {
-			let name = cname + "=";
-			let ca = document.cookie.split(';');
-			for (let i = 0; i < ca.length; i++) {
-				let c = ca[i];
-				while (c.charAt(0) == ' ') {
-					c = c.substring(1);
+			function getCookie(cname) {
+				let name = cname + "=";
+				let ca = document.cookie.split(';');
+				for (let i = 0; i < ca.length; i++) {
+					let c = ca[i];
+					while (c.charAt(0) == ' ') {
+						c = c.substring(1);
+					}
+					if (c.indexOf(name) == 0) {
+						return c.substring(name.length, c.length);
+					}
 				}
-				if (c.indexOf(name) == 0) {
-					return c.substring(name.length, c.length);
+				return "";
+			}
+
+			function fontSwitch() {
+				let font = getCookie("font");
+				if (font == 0) {
+					setCookie("font", 1, 365);
+					fontStyle();
+					console.log("Switched to sans font");
+				} else if (font == 1) {
+					setCookie("font", 2, 365);
+					fontStyle();
+					console.log("Switched to serif font");
+				} else if (font == 2) {
+					setCookie("font", 0, 365);
+					fontStyle();
+					console.log("Switched to default font");
+				} else {
+					setCookie("font", 0, 365);
+					fontStyle();
+					console.log("Switched to default font");
 				}
 			}
-			return "";
-		}
 
-		function fontSwitch() {
-			let font = getCookie("font");
-			if (font == 0) {
-				setCookie("font", 1, 365);
-				fontStyle();
-				console.log("Switched to sans font");
-			} else if (font == 1) {
-				setCookie("font", 2, 365);
-				fontStyle();
-				console.log("Switched to serif font");
-			} else if (font == 2) {
-				setCookie("font", 0, 365);
-				fontStyle();
-				console.log("Switched to default font");
-			} else {
-				setCookie("font", 0, 365);
-				fontStyle();
-				console.log("Switched to default font");
+			function fontStyle() {
+				let font = getCookie("font");
+				if (font == 0) {
+					document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
+					document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
+					document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
+					document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
+					document.documentElement.style.setProperty('--variant', 'var(--initial)');
+				} else if (font == 1) {
+					document.documentElement.style.setProperty('--font-family', 'var(--sans-font)');
+					document.documentElement.style.setProperty('--title-family', 'var(--sans-font)');
+					document.documentElement.style.setProperty('--acc-button', 'var(--serif-font)');
+					document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
+					document.documentElement.style.setProperty('--variant', 'var(--initial)');
+				} else if (font == 2) {
+					document.documentElement.style.setProperty('--font-family', 'var(--serif-font)');
+					document.documentElement.style.setProperty('--title-family', 'var(--serif-font)');
+					document.documentElement.style.setProperty('--acc-button', 'var(--default-font)');
+					document.documentElement.style.setProperty('--transform', 'var(--initial)');
+					document.documentElement.style.setProperty('--variant', 'var(--sc)');
+				} else {
+					document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
+					document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
+					document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
+					document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
+					document.documentElement.style.setProperty('--variant', 'var(--initial)');
+					setCookie("font", 0, 365);
+				}
 			}
-		}
 
-		function fontStyle() {
-			let font = getCookie("font");
-			if (font == 0) {
-				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
-				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
-				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
-				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-			} else if (font == 1) {
-				document.documentElement.style.setProperty('--font-family', 'var(--sans-font)');
-				document.documentElement.style.setProperty('--title-family', 'var(--sans-font)');
-				document.documentElement.style.setProperty('--acc-button', 'var(--serif-font)');
-				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
-				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-			} else if (font == 2) {
-				document.documentElement.style.setProperty('--font-family', 'var(--serif-font)');
-				document.documentElement.style.setProperty('--title-family', 'var(--serif-font)');
-				document.documentElement.style.setProperty('--acc-button', 'var(--default-font)');
-				document.documentElement.style.setProperty('--transform', 'var(--initial)');
-				document.documentElement.style.setProperty('--variant', 'var(--sc)');
-			} else {
-				document.documentElement.style.setProperty('--font-family', 'var(--default-font)');
-				document.documentElement.style.setProperty('--title-family', 'var(--title-font)');
-				document.documentElement.style.setProperty('--acc-button', 'var(--sans-font)');
-				document.documentElement.style.setProperty('--transform', 'var(--uppercase)');
-				document.documentElement.style.setProperty('--variant', 'var(--initial)');
-				setCookie("font", 0, 365);
-			}
-		}
-
-		fontStyle();
-	</script>
+			fontStyle();
+		</script>
 
 </head>

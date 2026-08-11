@@ -41,8 +41,9 @@ In probably the worst alphabetical order you will ever see, this website uses th
 
 - Netlify
 
-##### CMS Plugins
+##### Netlify Plugins
 
+- Inline Critical CSS
 - Inline Source
 - Lighthouse
 - Minify HTML
@@ -109,7 +110,6 @@ In probably the worst alphabetical order you will ever see, this website uses th
 ##### JavaScript Frameworks
 
 - Emotion
-- MathJax
 - PostCSS
 - React
 - Workbox
