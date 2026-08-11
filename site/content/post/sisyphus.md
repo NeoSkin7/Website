@@ -158,9 +158,7 @@ where we can find the erosion time $t$ by dividing the total volume $V$ of the b
 > The key idea is that we can calculate the change of distance with time, which we call speed. In practice, this is done by measuring how far something travels during a certain amount of time and then dividing by that time, giving:
 >
 > $$
-> v=\frac{s}{t}
-> $$
-
+v=\frac{s}{t}
 $$
 >
 > or speed $v$ is equal to distance $s$ divided by time $t$.
@@ -169,11 +167,8 @@ $$
 >
 > For our use of speed here, you might be able to see that multiplying the speed by the change in volume for unit distance gives us the change in volume per unit time:
 >
->
-$$
-
+> $$
 \frac{\mathrm{d}V}{\mathrm{d}t}=\frac{\mathrm{d}V}{\mathrm{d}s}\frac{\mathrm{d}s}{\mathrm{d}t}
-
 $$
 >
 > where $\mathrm{d}$ is used here signify small changes in the quantity it is in front of - for example a small change in distance is $\mathrm{d}s$.
@@ -182,9 +177,7 @@ Finally, we do not yet know the volume so we need to calculate it from the mass 
 
 
 $$
-
 \rho=\frac{m}{V}\implies V=\frac{m}{\rho}
-
 $$
 
 This gives a value of $0.011428\text{ m}{}^3$.
@@ -221,18 +214,14 @@ This problem is not one which I pose to you, but if any physicists are intereste
 
 
 $$
-
 L=\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
-
 $$
 
 with $V_i$ equalling the initial volume of the boulder, $0.011428\text{ m}{}^3$. Archard's Law is then:
 
 
 $$
-
 \frac{\mathrm{d}V}{\mathrm{d}s}=\frac{k}{3\sigma_y}\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
-
 $$
 
 forming a differential equation.
