@@ -1,1 +1,2 @@
-{{ transform.ToMath .Inner }}
+{{ $opts := dict "output" "htmlAndMathml" }}
+{{ transform.ToMath .Inner $opts }}
