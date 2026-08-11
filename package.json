@@ -31,7 +31,7 @@
     "assets-webpack-plugin": "^7.1.1",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.2",
-    "css-minimizer-webpack-plugin": "^8.0.0",
+    "css-minimizer-webpack-plugin": "^4.2.2",
     "date-fns": "^2.29.3",
     "html-webpack-plugin": "^5.5.0",
     "immutable": "^4.3.9",
