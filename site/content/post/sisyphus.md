@@ -137,7 +137,7 @@ Now for something a bit easier! The yield stress is the stress (force per unit a
 
 ### The Result
 
-We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $5.2651\times10^{-16}\text{ m${}^{3}$/m}$ for the volume worn away by Sisyphus per metre.
+We are now within touching distance of the answer, we just need to do the big calculation with Archard's Law and then work out the time for the boulder to erode. That big calculation gives a final value of $5.2651\times10^{-16}\text{ m}{}^{3}\text{/m}$ for the volume worn away by Sisyphus per metre.
 
 ![And, Finally...](/img/post/sisyphus/archard-calc.png)
 
@@ -173,13 +173,13 @@ where we can find the erosion time $t$ by dividing the total volume $V$ of the b
 >
 > where $\mathrm{d}$ is used here signify small changes in the quantity it is in front of - for example a small change in distance is $\mathrm{d}s$.
 
-Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{ kg/m${}^3$}$[^2], which we can plug into the density formula below:
+Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{ kg/m}{}^3$[^2], which we can plug into the density formula below:
 
 $$
 \rho=\frac{m}{V}\implies V=\frac{m}{\rho}
 $$
 
-This gives a value of $0.011428\text{ m${}^3$}$.
+This gives a value of $0.011428\text{ m}{}^3$.
 
 Putting everything together, our final result is (drumroll please): $2.1705\times10^{13}\text{ s}$, or $687800\text{ years}$!
 
@@ -215,7 +215,7 @@ $$
 L=\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
 $$
 
-with $V_i$ equalling the initial volume of the boulder, $0.011428\text{ m${}^3$}$. Archard's Law is then:
+with $V_i$ equalling the initial volume of the boulder, $0.011428\text{ m}{}^3$. Archard's Law is then:
 
 $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=\frac{k}{3\sigma_y}\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
