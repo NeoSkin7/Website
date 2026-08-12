@@ -77,7 +77,7 @@ By Newton's Third Law (explained below), we also have a force of the slope pushi
 
 ![Resolving the Forces](/img/post/sisyphus/components.png)
 
-With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{ N}$[^4] for males ($\text{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
+With our forces defined, how do we calculate the applied load? Here is where the assumptions come back: we first need to know the mass (for the weight) of the boulder. Again, Homer is not particularly helpful, but the average maximum pushing force is $250\text{ N}$[^4] for males (the $\text{N}$ is for Newtons, the unit of force), so we can use this as the force $P$.
 
 Putting this together gives the equation:
 
@@ -91,7 +91,7 @@ $$
 P=\mu N+m\mathrm{g}\sin{\vartheta}
 $$
 
-But, using Newton's Third Law again, $N=L=m\mathrm{g}\cos{\vartheta}$ as they ($N$ and $L$) are the only forces acting vertically:
+But, using Newton's Third Law again, $N=L=m\mathrm{g}\cos{\vartheta}$ as they - $N$ and $L$ - are the only forces acting vertically:
 
 $$
 P=\mu m\mathrm{g}\cos{\vartheta}+m\mathrm{g}\sin{\vartheta}

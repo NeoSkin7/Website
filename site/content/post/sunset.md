@@ -21,7 +21,7 @@ However, luckily for me, the effect at work is the same. What makes the sky blue
 
 ## Rayleigh Scattering
 
-Here comes the physics explainer… Light is, as you may know, made up of tiny particles called photons. At the smallest level, these photons are what interact with the world, and we will start by looking at what happens when a single one passes close to an atom.
+Here comes the physics explainer... Light is, as you may know, made up of tiny particles called photons. At the smallest level, these photons are what interact with the world, and we will start by looking at what happens when a single one passes close to an atom.
 
 ![Light is both a wave and a particle](/img/post/sunset/light.png)
 
@@ -39,19 +39,19 @@ $$
 I_s=I_0\frac{8\pi^4\alpha^2}{\lambda^4R^2}\left(1+\cos^2\vartheta\right)
 $$
 
-This particularly clunky thing gives the relationship between the scattered and input ‘light intensities’ when interacting with gas particles (made up of atoms). Simply put, the larger $I_s$ is compared to $I_0$, the greater the scattering effect - causing light to be spread out more by particles.
+This particularly clunky thing gives the relationship between the scattered and input 'light intensities' when interacting with gas particles (made up of atoms). Simply put, the larger $I_s$ is compared to $I_0$, the greater the scattering effect - causing light to be spread out more by particles.
 
-The key point here is that the scattering is dependent on the wavelength of light ($\lambda$) and the radius of the gas particles ($R$). In fact, to make things slightly easier, I will simplify our equation to:
+The key point here is that the scattering is dependent on the wavelength of light $\lambda$ and the radius of the gas particles $R$. In fact, to make things slightly easier, I will simplify our equation to:
 
 $$
 \frac{I_s}{I_0}=\frac{\kappa}{\lambda^4R^2}\propto\frac{1}{\lambda^4R^2}
 $$
 
-Here, most of the horrible formula is hidden in the $\kappa$ symbol ($\kappa=8\pi^4\alpha^2\left(1+\cos^2\vartheta\right)$ for the physicists still paying attention), so that we can focus on the main relationships. The part on the right is called a statement of ‘proportionality’ and removes the constant terms (numbers and quantities) to just show the effects of changing different variables (equation inputs).
+Here, most of the horrible formula is hidden in the $\kappa$ symbol (that is $\kappa=8\pi^4\alpha^2\left(1+\cos^2\vartheta\right)$ for the physicists still paying attention), so that we can focus on the main relationships. The part on the right is called a statement of 'proportionality' and removes the constant terms (numbers and quantities) to just show the effects of changing different variables (equation inputs).
 
 ![The Rayleigh scattering equation](/img/post/sunset/scattering-eq.png)
 
-We would usually call the fraction on the left a ‘flux’ and say that it is inversely proportional to wavelength to the power 4 and the radius squared. Or at least that is what my professors would like me to say in this situation. I will call it a flux, but say that the flux decreases as wavelength and radius increase, with wavelength producing a greater effect than the radius.
+We would usually call the fraction on the left a 'flux' and say that it is inversely proportional to wavelength to the power 4 and the radius squared. Or at least that is what my professors would like me to say in this situation. I will call it a flux, but say that the flux decreases as wavelength and radius increase, with wavelength producing a greater effect than the radius.
 
 The radius is fixed for our interactions, as air is mostly made up of nitrogen and oxygen, so we can just focus our efforts on the effect of changing the wavelength of light.
 
@@ -63,7 +63,7 @@ Now, what does this equation say about different colours of light? Looking at th
 
 This means that red and blue light experience the greatest difference in scattering - a useful comparison point for this explanation:
 
-_Red light_ is not scattered very much by gas particles due to its long wavelength (causing a small scattered flux) and thus reaches the Earth’s surface following a straight line path from the Sun.
+_Red light_ is not scattered very much by gas particles due to its long wavelength (causing a small scattered flux) and thus reaches the Earth's surface following a straight line path from the Sun.
 
 _Blue light_, meanwhile, experiences a large amount of Rayleigh scattering from its short wavelength and is scattered to reach the ground from many different directions.
 
