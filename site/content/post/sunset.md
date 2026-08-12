@@ -39,7 +39,7 @@ $$
 I_s=I_0\frac{8\pi^4\alpha^2}{\lambda^4R^2}\left(1+\cos^2\vartheta\right)
 $$
 
-This particularly clunky thing gives the relationship between the scattered and input 'light intensities' when interacting with gas particles (made up of atoms). Simply put, the larger $I_s$ is compared to $I_0$, the greater the scattering effect - causing light to be spread out more by particles.
+This particularly clunky thing gives the relationship between the scattered and input ‘light intensities' when interacting with gas particles (made up of atoms). Simply put, the larger $I_s$ is compared to $I_0$, the greater the scattering effect - causing light to be spread out more by particles.
 
 The key point here is that the scattering is dependent on the wavelength of light $\lambda$ and the radius of the gas particles $R$. In fact, to make things slightly easier, I will simplify our equation to:
 
@@ -47,7 +47,7 @@ $$
 \frac{I_s}{I_0}=\frac{\kappa}{\lambda^4R^2}\propto\frac{1}{\lambda^4R^2}
 $$
 
-Here, most of the horrible formula is hidden in the $\kappa$ symbol (that is $\kappa=8\pi^4\alpha^2\left(1+\cos^2\vartheta\right)$ for the physicists still paying attention), so that we can focus on the main relationships. The part on the right is called a statement of 'proportionality' and removes the constant terms (numbers and quantities) to just show the effects of changing different variables (equation inputs).
+Here, most of the horrible formula is hidden in the $\kappa$ symbol (that is $\kappa=8\pi^4\alpha^2\left(1+\cos^2\vartheta\right)$ for the physicists still paying attention), so that we can focus on the main relationships. The part on the right is called a statement of ‘proportionality' and removes the constant terms (numbers and quantities) to just show the effects of changing different variables (equation inputs).
 
 ![The Rayleigh scattering equation](/img/post/sunset/scattering-eq.png)
 
