@@ -55,7 +55,7 @@ We would usually call the fraction on the left a 'flux' and say that it is inver
 
 The radius is fixed for our interactions, as air is mostly made up of nitrogen and oxygen, so we can just focus our efforts on the effect of changing the wavelength of light.
 
-## Why is the Sky _Blue_?
+## Why Is the Sky _Blue_?
 
 ![The light spectrum](/img/post/sunset/spectrum.png)
 
