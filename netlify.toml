@@ -16,6 +16,11 @@
   framework = "hugo"
   targetPort = 3000
 
+[[redirects]]
+  from = "/teach"
+  to = "/education"
+  status = 301
+
 # [[plugins]]
 #   package = "netlify-plugin-cloudinary"
 # 
