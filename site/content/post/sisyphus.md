@@ -157,9 +157,7 @@ where we can find the erosion time $t$ by dividing the total volume $V$ of the b
 >
 > The key idea is that we can calculate the change of distance with time, which we call speed. In practice, this is done by measuring how far something travels during a certain amount of time and then dividing by that time, giving:
 >
-> $$
-v=\frac{s}{t}
-$$
+> $$ v=\frac{s}{t} $$
 >
 > or speed $v$ is equal to distance $s$ divided by time $t$.
 >
@@ -167,14 +165,11 @@ $$
 >
 > For our use of speed here, you might be able to see that multiplying the speed by the change in volume for unit distance gives us the change in volume per unit time:
 >
-> $$
-\frac{\mathrm{d}V}{\mathrm{d}t}=\frac{\mathrm{d}V}{\mathrm{d}s}\frac{\mathrm{d}s}{\mathrm{d}t}
-$$
+> $$ \frac{\mathrm{d}V}{\mathrm{d}t}=\frac{\mathrm{d}V}{\mathrm{d}s}\frac{\mathrm{d}s}{\mathrm{d}t} $$
 >
 > where $\mathrm{d}$ is used here signify small changes in the quantity it is in front of - for example a small change in distance is $\mathrm{d}s$.
 
 Finally, we do not yet know the volume so we need to calculate it from the mass we found earlier. The density $\rho$ of granite from the internet is $2660\text{ kg/m}{}^3$[^2], which we can plug into the density formula below:
-
 
 $$
 \rho=\frac{m}{V}\implies V=\frac{m}{\rho}
@@ -212,13 +207,11 @@ Another interesting problem is that the wear rate is actually not a constant, as
 
 This problem is not one which I pose to you, but if any physicists are interested, the equation for the applied load under our assumptions so far becomes this, accounting for a changing mass:
 
-
 $$
 L=\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
 $$
 
 with $V_i$ equalling the initial volume of the boulder, $0.011428\text{ m}{}^3$. Archard's Law is then:
-
 
 $$
 \frac{\mathrm{d}V}{\mathrm{d}s}=\frac{k}{3\sigma_y}\rho\mathrm{g}\left(V_i-\frac{\mathrm{d}V}{\mathrm{d}s}v\right)\cos{\vartheta}
@@ -266,4 +259,3 @@ Image and Video Credit:
 [^7]: Wikipedia Contributors (2023). _Archard equation_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/Archard_equation](https://en.wikipedia.org/w/index.php?title=Archard_equation&oldid=1328536533) [Accessed 24 Feb. 2026].
 
 [^8]: Wikipedia Contributors (2023). _List of steepest roads and streets_. [online] Wikipedia. Available at: [en.wikipedia.org/wiki/List_of_steepest_roads_and_streets](https://en.wikipedia.org/w/index.php?title=List_of_steepest_roads_and_streets&oldid=1304109582) [Accessed 24 Feb. 2026].
-$$
