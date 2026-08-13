@@ -13,10 +13,10 @@ articles:
   - title: "Artemis II: What Comes Next?"
     path: artemis2next
 videos:
+  - title: "The Sun, The Moon... and a Colander?"
+    path: eclipse26
   - title: "Chernobyl: 40 Years of Learning"
     path: chernobyl40
   - title: Seeing the Dark Side of the Moon...
     path: moondarkside
-  - title: "The Challenger Disaster: Why Data Science Is Important"
-    path: challenger
 ---
