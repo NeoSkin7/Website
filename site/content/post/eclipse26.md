@@ -21,7 +21,7 @@ But, here in England, we had a partial solar eclipse - somewhere between 90 and 
 
 So, my party went to the highest place we could find (the highest point in the area) and used a couple of different techniques that had been shared online - and I wanted to share how successful they were.
 
-The first technique that we had was to use a colander:
+The first technique that we had was to use a colander.
 
 ![The colander](/img/post/eclipse26/colander.png)
 
@@ -29,13 +29,13 @@ The idea being that you get your colander, the sunlight shines through it and it
 
 These photos show how successful that was:
 
-![The images from the colander](/img/post/eclipse26/col-photos.png)
+![The images from the colander](/img/post/eclipse26/col-photo.png)
 
 I think, really, it worked quite well. You can see the sun really, really clearly. So, that's a success! That tip works, next time there is an eclipse - which I think, unfortunately, is 2090 now that we have actual proper solar eclipses, so it is a long time - I know I can use a colander.
 
 The other technique that was shared online was the traditional pinhole camera, and we tried that out too. Here's some photos of that:
 
-![The images from the pinhole camera](/img/post/eclipse26/cam-photos.png)
+![The images from the pinhole camera](/img/post/eclipse26/cam-photo.png)
 
 I think the pinhole camera was less successful than the colander. The colander gave really quite a good effect and it was able to show all of the different stages - whereas the pinhole camera didn't quite manage to capture it all. So, swings and roundabouts, I guess. But, very, very exciting to see.
 
