@@ -7,6 +7,7 @@ description: Learn about the history of the London Underground network in the
 summary: Learn about the history of the London Underground network in the first instalment of Transport in London.
 image: /img/post/tin1/thumb.jpg
 socialimg: /img/post/tin1/thumb.jpg
+group: ["Article"]
 ---
 
 # Welcome

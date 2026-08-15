@@ -6,6 +6,7 @@ description: My website has just launched and I'm excited to invite you along fo
 summary: My website has just launched and I'm excited to invite you along for the ride!
 image: /img/typewriter.webp
 socialimg: /img/typewriter.webp
+group: ["Article"]
 ---
 
 # Hello!
@@ -14,7 +15,7 @@ My brand new website has just launched! You can view it [here](https://neoski.uk
 
 ## Content
 
-On my website, I aim to bring you the latest and greatest news from across STEM subjects alongside information about my life and some teaching resources.
+On my website, I aim to bring you the latest and greatest news from across STEM subjects alongside information about my life and some educational resources.
 
 A frequent theme on this site will be London as I plan to guide you through the insides of the great city as I take time to explore it myself.
 
@@ -22,7 +23,7 @@ A frequent theme on this site will be London as I plan to guide you through the 
 
 - [Home](https://neoski.uk/)
 - [Blog](https://neoski.uk/post)
-- [Teaching Resources](https://neoski.uk/teach)
+- [Educational Resources](https://neoski.uk/education)
 - [Links](https://neoski.uk/links)
 - [Contact Me](https://neoski.uk/contact)
 - [About Me](https://neoski.uk/about)

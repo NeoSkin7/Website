@@ -7,6 +7,7 @@ summary: VIDEO TRANSCRIPT - What happens when NASA misunderstands data?
 image: /img/post/challenger/thumb.png
 socialimg: /img/post/challenger/thumb.png
 tags: ["Physics", "NASA"]
+group: ["Transcript"]
 ---
 
 > ### Content Advisory

@@ -6,6 +6,7 @@ description: The climate crisis is worse than you think.
 summary: The climate crisis is worse than you think.
 image: /img/post/climatemyths/thumb.png
 socialimg: /img/post/climatemyths/thumb.png
+group: ["Article"]
 ---
 
 With the world seemingly in more of a mess than ever before, climate change is pushed back as an issue far too often, with awareness requiring extreme weather events that thrust the problem into the fore only for it to be swiftly forgotten once things return back to normal.

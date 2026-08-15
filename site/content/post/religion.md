@@ -6,6 +6,7 @@ description: "There are not many things in common across the cultures of the wor
 summary: "There are not many things in common across the cultures of the world, but I believe that religion is one of them. In every community there are followers of faith. But, if religion is so prevalent, why is it that some people choose to not follow a faith? Or to follow the one they do?"
 image: /img/post/religion/thumb.png
 socialimg: /img/post/religion/thumb.png
+group: ["Article"]
 ---
 
 > ### Content Advisory

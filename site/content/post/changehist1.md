@@ -6,6 +6,7 @@ description: "As I look through the coins in my modest collection, I often think
 summary: "As I look through the coins in my modest collection, I often think about the stories they could tell, the hands they have passed through. So I thought, what better way to tell history than through the most ubiquitous item throughout it: coins."
 image: /img/post/changehist1/thumb.png
 socialimg: /img/post/changehist1/thumb.png
+group: ["Article"]
 ---
 
 Indulge me, and join me on this short adventure...

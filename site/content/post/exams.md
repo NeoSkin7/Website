@@ -6,6 +6,7 @@ description: People often ask me how I deal with exams - so just how do I do it?
 summary: People often ask me how I deal with exams - so just how do I do it?
 image: /img/post/exams/thumb.png
 socialimg: /img/post/exams/thumb.png
+group: ["Article"]
 ---
 
 Coping with exams is one of the hardest tasks of _most_ our lives. However, I have some tips and tricks to share that might just help you out!

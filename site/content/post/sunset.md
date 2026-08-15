@@ -7,6 +7,7 @@ summary: You ask, I answer. What gives the sky its colour?
 image: /img/post/sunset/thumb.png
 socialimg: /img/post/sunset/thumb.png
 tags: ["Physics", "Questions"]
+group: ["Article"]
 ---
 
 This is a very interesting question, and reminds me of a reasonably well-known quote from Philip Plait (in _Bad Astronomy_):

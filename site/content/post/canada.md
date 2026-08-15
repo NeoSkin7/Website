@@ -6,6 +6,7 @@ description: I went to Canada - here is what I thought
 summary: I went to Canada - here is what I thought
 image: /img/post/canada/thumb.png
 socialimg: /img/post/canada/thumb.png
+group: ["Article"]
 ---
 
 This is not a typical travel guide, nor is it particularly a travel guide at all - I merely wish to present to you a collection of interesting observations and opinions following my travels in East Canada.

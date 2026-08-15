@@ -7,6 +7,7 @@ summary: "'Phew, that mission was Amazing! I sure hope there’s more to come…
 image: /img/post/artemis2next/thumb.png
 socialimg: /img/post/artemis2next/thumb.png
 tags: ["Physics", "NASA", "Artemis"]
+group: ["Article"]
 ---
 
 You will no doubt have seen the great success of the Artemis II mission, which marks the second in a program of ambitious missions to take humans back to the Moon. But, NASA are not done yet!

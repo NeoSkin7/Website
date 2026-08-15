@@ -6,6 +6,7 @@ description: "Christmas is the ubiquitous winter holiday for billions of people 
 summary: "Christmas is the ubiquitous winter holiday for billions of people across the globe, but a question that has always troubled me is: “Just when does it start?”"
 image: /img/post/xmas25/thumb.png
 socialimg: /img/post/xmas25/thumb.png
+group: ["Article"]
 ---
 
 This Christmas, I have decided to get to the bottom of it and, by examining different definitions of the holiday, hopefully we can get to the bottom of this!

@@ -6,6 +6,7 @@ description: Over the last couple of months, I have enjoyed creating a brand new
 summary: Over the last couple of months, I have enjoyed creating a brand new NeoSki experience for your enjoyment - and now it’s time to announce it to you!
 image: /img/post/mathstrolabe/thumb.png
 socialimg: /img/post/mathstrolabe/thumb.png
+group: ["Article"]
 ---
 
 I have always been producing mathematics content for my website - from interactive activities to step-by-step guides, I’ve been experimenting since day one with how to best present and teach mathematics content. So, what’s new? I have now decided to put all of my mathematics content in one place with my new branch and website: Mathstrolabe!

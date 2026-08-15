@@ -7,6 +7,7 @@ summary: VIDEO TRANSCRIPT - What actually happened at Chernobyl?
 image: /img/post/chernobyl40/thumb.png
 socialimg: /img/post/chernobyl40/thumb.png
 tags: ["Physics"]
+group: ["Transcript"]
 ---
 
 You can view the video here: [Chernobyl: 40 Years of Learning](https://vid.neoski.uk/yt/chernobyl40)

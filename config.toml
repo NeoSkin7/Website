@@ -20,6 +20,7 @@ enableRobotsTXT = true
 [taxonomies]
   tag = 'tags'
   topic = 'topics'
+  group = 'group'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

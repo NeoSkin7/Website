@@ -17,8 +17,10 @@
     <p>My rule for writing <a href="/post/">articles</a> (or blog posts) are that they have to be <em>interesting</em>. Whilst that is quite an open brief, I generally write articles about either: (<span class="primary">a</span>) key issues and news stories, or (<span class="primary">b</span>) STEM topics - science, technology, engineering, and mathematics. I try to make my articles easy to understand for everyone, regardless of whether I am writing about rocket launches or climate change, or anything in-between, as I believe that knowledge and information should be open and accessible.</p>
     <h4 class="f4 b lh-title">Recent Articles</h4>
     <div class="flex flex-row">
-      {{ range .Params.articles }}
-      <a href="/post/{{ .path }}/" class="pa2 raise card"><img src="/img/post/{{ .path }}/thumb.png" alt="{{ .title }}"></a>
+      {{ range first 3 (where .Site.RegularPages "group" "article") }}
+      <div class="flex">
+        <a href="{{ .RelPermalink }}" class="pa2 raise card"><img src="/img/{{ .RelPermalink }}/thumb.png" alt="{{ .title }}"></a>
+      </div>
       {{ end }}
     </div>
 

@@ -7,6 +7,7 @@ summary: The tragic story of Sisyphus is one of the most famous tales of Greek m
 image: /img/post/sisyphus/thumb.png
 socialimg: /img/post/sisyphus/thumb.png
 tags: ["Physics"]
+group: ["Article"]
 ---
 
 I was recently thinking about the Greek myth of Sisyphus, the tragic protagonist who pokes fun at the gods and pays the ultimate consequence: eternal damnation. But, what if the story is not quite that simple?

@@ -6,6 +6,7 @@ description: "Everyone always says: “NEVER use Wikipedia as a source!” But, 
 summary: "Everyone always says: “NEVER use Wikipedia as a source!” But, I take a rather different approach: I say YES! However, follow my advice at your peril. There is more to this debate than meets first the eye."
 image: /img/post/wikipedia/thumb.png
 socialimg: /img/post/wikipedia/thumb.png
+group: ["Article"]
 ---
 
 Wikipedia holds a unique position as an academic source, it is both loved and loathed - a superposition of diametric opposition, much like Schrödinger’s world-famous cat. This may sound odd to many people, as the common view is that Wikipedia is a terrible source that should be avoided at all costs! But, the fact of the matter is much more complex and something I hope to explain just a little about here.

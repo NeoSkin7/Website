@@ -6,6 +6,7 @@ description: VIDEO TRANSCRIPT - Teachers lie on a daily basis. But why?
 summary: VIDEO TRANSCRIPT - Teachers lie on a daily basis. But why?
 image: /img/post/yt_tal/thumb.png
 socialimg: /img/post/yt_tal/thumb.png
+group: ["Transcript"]
 ---
 
 You can view the video here: [Teachers are LIARS](https://vid.neoski.uk/yt/tal)

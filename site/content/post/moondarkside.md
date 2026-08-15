@@ -7,6 +7,7 @@ summary: VIDEO TRANSCRIPT - Artemis II has reached the Moon, here are the photos
 image: /img/post/moondarkside/thumb.jpg
 socialimg: /img/post/moondarkside/thumb.jpg
 tags: ["Physics", "NASA", "Artemis"]
+group: ["Transcript"]
 ---
 
 > ### About This Transcript

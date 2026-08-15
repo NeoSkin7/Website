@@ -7,6 +7,7 @@ summary: VIDEO TRANSCRIPT - My story of the 2026 solar eclipse, featuring a cola
 image: /img/post/eclipse26/thumb.png
 socialimg: /img/post/eclipse/thumb.png
 tags: ["Physics"]
+group: ["Transcript"]
 ---
 
 You can view the video here: [The Sun, The Moon... and a Colander?](https://vid.neoski.uk/inst/eclipse26)

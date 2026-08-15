@@ -6,6 +6,7 @@ description: Threads burst onto the social media scene on the 5th of July this y
 summary: Threads burst onto the social media scene on the 5th of July this year and whilst it has certainly gained attention, is it a good platform and should you use it?
 image: /img/post/threads/thumb.png
 socialimg: /img/post/threads/thumb.png
+group: ["Article"]
 ---
 
 The short answer is: yes. But, the long answer is a lot more complicated.
